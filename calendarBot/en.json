@@ -7,7 +7,7 @@
   "handleReminders_reminder": "Reminder",
   "handleReminders_isHappeningToday": "is happening today",
   "handleReminders_isStartingIn": "is starting in",
-  "getCalendarEmbed_start_happeningNow": "Now",
+  "getCalendarEmbed_start_happeningNow": "Happening now",
   "getCalendarEmbed_embed_refreshRate": "every",
   "getCalendarEmbed_embed_lastRefresh": "Last at 14:51",
   "getCalendarEmbed_embed_reminderSG": "reminder",
