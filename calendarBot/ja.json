@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- このチャンネルにはカレンダーはありません。",
     "acHandler_reminder_removeReminder_reminderText": "リマインダー",
     "acHandler_reminder_removeReminder_reminderChannelonly": "チャンネルのみ",
-    "user_signup_title": "▫️     **Paru ❮カレンダーをサーバーに追加していただきありがとうございます '<guild_name>'**     ▫️。"
+    "user_signup_title": "▫️     **Paru ❮カレンダーをサーバーに追加していただきありがとうございます '<guild_name>'**     ▫️。",
+    "create_cmd_modify_language": "カレンダーの言語を変更する"
 }

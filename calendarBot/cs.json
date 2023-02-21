@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- V tomto kanálu není žádný kalendář -",
     "acHandler_reminder_removeReminder_reminderText": "Připomínka",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Pouze kanál",
-    "user_signup_title": "▫️     **Děkujeme, že jste na svůj server přidali kalendář Paru ❯❮ '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Děkujeme, že jste na svůj server přidali kalendář Paru ❯❮ '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Změna jazyka kalendáře"
 }

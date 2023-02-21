@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Šiame kanale nėra kalendoriaus -",
     "acHandler_reminder_removeReminder_reminderText": "Priminimas",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Tik kanalas",
-    "user_signup_title": "▫️     **Dėkojame, kad įtraukėte Paru ❯❮ kalendorių į savo serverį '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Dėkojame, kad įtraukėte Paru ❯❮ kalendorių į savo serverį '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Kalendoriaus kalbos keitimas"
 }

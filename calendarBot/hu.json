@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Nincs naptár ebben a csatornában -",
     "acHandler_reminder_removeReminder_reminderText": "Emlékeztető",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Csak csatorna",
-    "user_signup_title": "▫️     **Köszönjük, hogy hozzáadta a Paru ❯❮ naptárat a szerveréhez '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Köszönjük, hogy hozzáadta a Paru ❯❮ naptárat a szerveréhez '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "A naptár nyelvének módosítása"
 }

@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Es gibt keinen Kalender in diesem Kanal -",
     "acHandler_reminder_removeReminder_reminderText": "Erinnerung",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Nur im Kanal",
-    "user_signup_title": "▫️     **Danke, dass du Paru ❯❮ Kalender zu deinem Server hinzugefügt hast '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Danke, dass du Paru ❯❮ Kalender zu deinem Server hinzugefügt hast '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Ändern Sie die Sprache des Kalenders"
 }

@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Nu există nici un calendar în acest canal -",
     "acHandler_reminder_removeReminder_reminderText": "Memento",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Numai canalul",
-    "user_signup_title": "▫️     **Mulțumim că ați adăugat Paru ❯❮ Calendar pe serverul dvs. '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Mulțumim că ați adăugat Paru ❯❮ Calendar pe serverul dvs. '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Modificarea limbii calendarului"
 }

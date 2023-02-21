@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- На цьому каналі немає календаря -",
     "acHandler_reminder_removeReminder_reminderText": "Нагадування",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Тільки канал",
-    "user_signup_title": "▫️     **Дякуємо, що додали календар Paru ↪Pe276F↩❮ на свій сервер '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Дякуємо, що додали календар Paru ↪Pe276F↩❮ на свій сервер '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Змінити мову календаря"
 }

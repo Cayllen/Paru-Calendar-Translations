@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- 이 채널에는 캘린더가 없습니다",
     "acHandler_reminder_removeReminder_reminderText": "알림",
     "acHandler_reminder_removeReminder_reminderChannelonly": "채널 전용",
-    "user_signup_title": "▫️     **파루 ❯❮ 캘린더를 서버에 추가해 주셔서 감사합니다 '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **파루 ❯❮ 캘린더를 서버에 추가해 주셔서 감사합니다 '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "캘린더의 언어 변경"
 }

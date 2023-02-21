@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Tällä kanavalla ei ole kalenteria -",
     "acHandler_reminder_removeReminder_reminderText": "Muistutus",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Vain kanava",
-    "user_signup_title": "▫️     **Kiitos, että lisäsit Paru ❯❮-kalenterin palvelimeesi '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Kiitos, että lisäsit Paru ❯❮-kalenterin palvelimeesi '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Kalenterin kielen vaihtaminen"
 }

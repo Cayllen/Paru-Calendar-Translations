@@ -103,5 +103,6 @@
   "acHandler_modify_removelink_noCalendarError": "- There is no calendar in this channel or no reminder created yet -",
   "acHandler_reminder_removeReminder_noCalendarError": "- There is no calendar in this channel -",
   "acHandler_reminder_removeReminder_reminderText": "Reminder",
-  "acHandler_reminder_removeReminder_reminderChannelonly": "Channel only"
+  "acHandler_reminder_removeReminder_reminderChannelonly": "Channel only",
+  "create_cmd_modify_language": "Change the language of the calendar"
 }

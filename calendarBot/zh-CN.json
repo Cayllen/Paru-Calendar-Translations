@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- 在这个频道中没有日历 --",
     "acHandler_reminder_removeReminder_reminderText": "提醒",
     "acHandler_reminder_removeReminder_reminderChannelonly": "仅限频道",
-    "user_signup_title": "▫️     **感谢您在您的服务器上添加Paru ❮日历 '<guild_name>' **     ▫️"
+    "user_signup_title": "▫️     **感谢您在您的服务器上添加Paru ❮日历 '<guild_name>' **     ▫️",
+    "create_cmd_modify_language": "改变日历的语言"
 }
