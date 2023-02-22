@@ -11,8 +11,7 @@ Find the list of locales here:
 |[id](calendarBot/id.json)    |Indonesian           |Bahasa Indonesia   |
 |[da](calendarBot/da.json)    |Danish               |Dansk              |
 |[de](calendarBot/de.json)    |German               |Deutsch            |
-|[en-GB](calendarBot/en-GB.json) |English, UK          |English, UK        |
-|[en-US](calendarBot/en-US.json) |English, US          |English, US        |
+|[en](calendarBot/en.json) |English          |English        |
 |[es-ES](calendarBot/es-ES.json) |Spanish              |Español            |
 |[fr](calendarBot/fr.json)    |French               |Français           |
 |[hr](calendarBot/hr.json)    |Croatian             |Hrvatski           |
