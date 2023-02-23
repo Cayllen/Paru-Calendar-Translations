@@ -2,7 +2,7 @@
   "getRefreshIntervalString_24hours": "24 hours",
   "getRefreshIntervalString_2hours": "2 hours",
   "getRefreshIntervalString_10minutes": "10 minutes",
-  "deleteCalendar_allDeleted": ",\n\n:woman_raising_hand: Did you remove the Paru Bot from your server?\n\n**Please let us know why and how we can improve!**\nhttps://forms.gle/5hcSmy3RaJMuQBWR8 (takes just **10 seconds**)\n\nYour feedback is *extremely* valuable to us.\nThanks for using **Paru ❯❮ Calendar**! See you soon!",
+  "deleteCalendar_allDeleted": "\n\n:woman_raising_hand: Did you remove the Paru Bot from your server?\n\n**Please let us know why and how we can improve!**\nhttps://forms.gle/5hcSmy3RaJMuQBWR8 (takes just **10 seconds**)\n\nYour feedback is *extremely* valuable to us.\nThanks for using **Paru ❯❮ Calendar**! See you soon!",
   "deleteCalendar_text": "⚠️ **Warning**\nYour calendar '<cal_name>' (<cal_days> days) (<cal_id>) was deleted because the **calendar message was deleted**, **permissions changed**, the **channel got deleted**, the **thread was archived**, or the **bot was removed** from the server. \n     Please create the calendar again in case this was a mistake.\n(Used urls: <cal_urls>)",
   "handleReminders_reminder": "Reminder",
   "handleReminders_isHappeningToday": "is happening today",
