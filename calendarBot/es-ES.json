@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- No hay calendario en este canal -",
     "acHandler_reminder_removeReminder_reminderText": "Recordatorio",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Sólo canal",
-    "user_signup_title": "▫️     **Gracias por añadir el Calendario Paru ❯❮ a tu servidor '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Gracias por añadir el Calendario Paru ❯❮ a tu servidor '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Cambiar el idioma del calendario"
 }

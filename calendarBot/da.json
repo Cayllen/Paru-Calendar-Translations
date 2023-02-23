@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Der er ingen kalender i denne kanal -",
     "acHandler_reminder_removeReminder_reminderText": "Påmindelse",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Kun kanal",
-    "user_signup_title": "▫️     **Tak for at du har tilføjet Paru ❯❮ Calendar til din server '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Tak for at du har tilføjet Paru ❯❮ Calendar til din server '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Ændre kalenderens sprog"
 }

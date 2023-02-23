@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Δεν υπάρχει ημερολόγιο σε αυτό το κανάλι -",
     "acHandler_reminder_removeReminder_reminderText": "Υπενθύμιση",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Μόνο κανάλι",
-    "user_signup_title": "▫️     **Σας ευχαριστούμε για την προσθήκη του Ημερολογίου Paru ❯❮ στον διακομιστή σας '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Σας ευχαριστούμε για την προσθήκη του Ημερολογίου Paru ❯❮ στον διακομιστή σας '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Αλλαγή της γλώσσας του ημερολογίου"
 }

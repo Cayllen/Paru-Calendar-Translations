@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Bu kanalda takvim yok -",
     "acHandler_reminder_removeReminder_reminderText": "Hatırlatma",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Yalnızca kanal",
-    "user_signup_title": "▫️     **Paru ❯❮ Takvimini sunucunuza eklediğiniz için teşekkür ederiz '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Paru ❯❮ Takvimini sunucunuza eklediğiniz için teşekkür ederiz '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Takvimin dilini değiştirme"
 }

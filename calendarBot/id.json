@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Tidak ada kalender di saluran ini -",
     "acHandler_reminder_removeReminder_reminderText": "Pengingat",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Hanya saluran",
-    "user_signup_title": "▫️     **Terima kasih telah menambahkan Kalender Paru ❯❮ ke server Anda '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Terima kasih telah menambahkan Kalender Paru ❯❮ ke server Anda '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Mengubah bahasa kalender"
 }

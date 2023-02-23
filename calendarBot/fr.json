@@ -15,7 +15,7 @@
     "getCalendarEmbed_embed_linkSG": "lien",
     "getCalendarEmbed_embed_linkPL": "liens",
     "getCalendarEmbed_embed_nextXDays": "dans les prochains <amount_days> jours :",
-    "getCalendarEmbed_embed_tomorrow": "tomorrow:",
+    "getCalendarEmbed_embed_tomorrow": "demain:",
     "getCalendarEmbed_embed_introText": "Tu trouveras ici un aperçu des événements qui ont lieu",
     "error": "Erreur",
     "user_signup": "\n\n⭐️ Paru synchronise ton calendrier en ligne avec Discord (par exemple Google Calendar, Twitch, ....)\n        ⭐️ Synchronise 1,2 ou plusieurs calendriers sur 1 Paru ❯❮ Calendar\n        ⭐️ 1 Paru ❯❮ Calendar par canal, plusieurs par serveur\n        ⭐️ Rappels. synchronisation bidirectionnelle avec Discord. Tout est personnalisable. Respect de la vie privée. Et plus encore...\n\n\n    Le calendrier est mis à jour tous les <refresh_interval> (plus fréquemment avec les plans premium <https://www.patreon.com/paru>)\n\n\n    **COMMENT UTILISER LE BOT** _(Toutes les commandes commencent par **/paru**)_\n\n        **1.** Crée un calendrier avec **/paru create** dans le canal de ton choix\n        **2.** Ajoute un calendrier .ics/ical url avec **/paru link** (Pour le tutoriel, voir https://paru.app/calendar/manual)\n        (**3.**) Ton fuseau horaire est déjà défini pour toi. Si ce n'est pas le cas, règle le fuseau horaire avec **/paru timezone**\n        (**4.**) Affiche la date de fin, la description ou l'emplacement d'un calendrier - synchronise-toi avec les événements Discord - ou modifie d'autres choses - avec **/paru modify**\n        (**5.**) Crée des rappels de canal (mentionne éventuellement un rôle) avec **/paru reminder** ou des rappels individuels avec l'icône 🔔 du calendrier\n    _(Plus sur <https://paru.app/calendar/manual>)_\n\n\n    Il te manque quelque chose ? Des questions ? Un bug ? Suggestions ? Il suffit de laisser un message @ https://discord.gg/wuQ9GkvtxK\n\n    Soutiens le bot & le créateur + plans premium sur <https://www.patreon.com/paru>\n    Merci & Amuse-toi ! <https://paru.app>\n        ",
@@ -103,5 +103,6 @@
     "acHandler_reminder_removeReminder_noCalendarError": "- Il n'y a pas de calendrier dans ce canal -",
     "acHandler_reminder_removeReminder_reminderText": "Rappel",
     "acHandler_reminder_removeReminder_reminderChannelonly": "Canal seulement",
-    "user_signup_title": "▫️     **Merci d'avoir ajouté le Calendrier Paru ❯❮ à ton serveur '<guild_name>'**     ▫️"
+    "user_signup_title": "▫️     **Merci d'avoir ajouté le Calendrier Paru ❯❮ à ton serveur '<guild_name>'**     ▫️",
+    "create_cmd_modify_language": "Change la langue du calendrier"
 }
