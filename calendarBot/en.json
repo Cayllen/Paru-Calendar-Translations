@@ -22,10 +22,10 @@
   "user_signup_helpTranslatingButton": "Help translating️",
   "user_signup_feedback_title": "▫️     **Thank you for adding Paru ❯❮ Calendar to '<guild_name>'!**     ▫️",
   "user_signup_feedback_description": "Please click on the button below to finish setting up the bot",
-  "user_signup_modal_feedback_textInput": "Please give a short explanation",
-  "user_signup_modal_feedback_placeholder": "E.g. importing my 3 .ics calendars into Discord & show them in a visual calendar message...",
+  "cpnhandler_userSignupModal_textinput": "Please give a short explanation",
+  "cpnhandler_userSignupModal_placeholder": "E.g. importing my 3 .ics calendars into Discord & show them in a visual calendar message...",
   "user_signup": "\n\n⭐️ Paru syncs your online calendar to Discord (e.g. Google Calendar, Twitch, ...)\n        ⭐️ Sync 1,2, or more calendars to 1 Paru ❯❮ Calendar\n        ⭐️ 1 Paru ❯❮ Calendar per channel, multiple per server\n        ⭐️ Reminders. 2-way Discord sync. Everything customizable. Privacy friendly. And more...\n\n\n    Calendar updates every <refresh_interval> (more frequent with premium plans <https://www.patreon.com/paru>)\n\n\n    **HOW TO USE THE BOT** _(All commands start with **/paru**)_\n\n        **1.** Create a calendar with **/paru create** in a channel of your choice\n        **2.** Add a calendar .ics/ical url with **/paru link** (For tutorial see https://paru.app/calendar/manual)\n        (**3.**) Your timezone is already set for you. If not, set the timezone with **/paru timezone**\n        (**4.**) Show the end date, description or the location of a calendar - sync to Discord events - or change other things - with **/paru modify**\n        (**5.**) Create channel reminders (optionally mention a role) with **/paru reminder** or individual reminders with the 🔔-icon on the calendar\n    _(More on <https://paru.app/calendar/manual>)_\n\n\n    Anything missing? Questions? Bug? Suggestions? just leave a message @ https://discord.gg/wuQ9GkvtxK\n\n    Support the bot & the creator + premium plans on <https://www.patreon.com/paru>\n    Thanks & Enjoy! <https://paru.app>\n        ",
-  "user_signup_modal_feedback_title": "What do you need Paru to do?",
+  "cpnhandler_userSignupModal_title": "What do you need Paru to do?",
   "user_signup_feedback_button": "Click here to setup bot",
   "user_signup_rateTranslation": "Rate this translation ->",
   "create_cmd_create_name": "The title of the calendar (35 letters max)",
@@ -63,7 +63,7 @@
   "cmdhandler_create_missingPermissionsError": "The bot does not have the permissions to create a calendar in this channel. Please make sure the bot has the following permissions: `View Channel, Send Messages, Embed Links`",
   "cmdhandler_create_success": "Success! Next, use **/paru link <url>** to add a .ics link to synchronize with the calendar. (No idea how? See: https://paru.app/calendar/manual/)\n\n[NO CALENDAR VISIBLE]\nIf you only see a bell-button, please make sure the bot has the **embed links** permission in this channel\n(Still not showing? Go into the settings of your Discord account and make sure this option is active: **Text & Images** > **'Show embeds and preview website links pasted into chat'**",
   "cmdhandler_link_invalidLinkDiscordError": "Calendars uploaded to Discord will not work. Please import your file to your e.g. Google Calendar",
-  "cmdhandler_link_invalidLinkError": "The link you provided was invalid",
+  "cmdhandler_link_invalidLinkError": "The link you provided was invalid. Please try again (Visit https://paru.app/calendar/manual for more help)",
   "cmdhandler_link_success": "You have added a new link to the calendar in this channel. The calendar will be updated shortly (requires an active link).",
   "cmdhandler_link_error": "- Please create a calendar first (**/paru create**), or\n- This link is already added to the calendar (check with **/paru modify remove-link**), or\n- You reached your free limit for links. To upgrade visit https://www.patreon.com/paru",
   "cmdhandler_timezone_invalidSelectionError": "Invalid timezone. Please select a zone from the dropdown list (may take a few seconds to load)",
@@ -111,5 +111,8 @@
   "acHandler_reminder_removeReminder_noCalendarError": "- There is no calendar in this channel -",
   "acHandler_reminder_removeReminder_reminderText": "Reminder",
   "acHandler_reminder_removeReminder_reminderChannelonly": "Channel only",
-  "create_cmd_modify_language": "Change the language of the calendar"
+  "create_cmd_modify_language": "Change the language of the calendar",
+  "cpnhandler_linkIcalModal_textInput": "Your .ical/.ics link",
+  "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",
+  "cpnhandler_linkIcalModal_title": "Enter your calendar url"
 }
