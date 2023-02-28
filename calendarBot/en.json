@@ -65,6 +65,7 @@
   "cmdhandler_link_invalidLinkDiscordError": "Calendars uploaded to Discord will not work. Please import your file to your e.g. Google Calendar",
   "cmdhandler_link_invalidLinkError": "The link you provided was invalid. Please try again (Visit https://paru.app/calendar/manual for more help)",
   "cmdhandler_link_success": "You have successfully added/modified the active links to the calendar in this channel. The calendar will be updated shortly.",
+  "cmdhandler_link_success_removeLinks": "\n\nYou deleted the following URL's:<rem_urls>",
   "cmdhandler_link_error": "- Please create a calendar first (**/paru create**), or\n- This link is already added to the calendar (check with **/paru link**), or\n- You reached your free limit for links. To upgrade visit https://www.patreon.com/paru",
   "cmdhandler_link_noPremium_error": "- You reached your free limit for links. To upgrade visit https://www.patreon.com/paru or use **/paru premium**. Nothing was saved.",
   "cmdhandler_link_no_calendar_error": "There is no calendar in this channel. Please use **/paru create** first",
@@ -74,6 +75,7 @@
   "cmdhandler_modify_urlError": "There is no URL to remove from your calendar or please select a valid entry from the dropdown",
   "cmdhandler_modify_iconError": "Please only use emojis or symbols",
   "cmdhandler_modify_colorError": "Please enter a valid hex color (with the #; #ff00ff) -> Google 'hex color' for help",
+  "cmdhandler_modify_change_channel_calendarExists_error": "There is already a calendar in this channel. Please select another channel or delete the calendar in this channel first. (Use **/paru delete**)",
   "cmdhandler_modify_missingPermissionsError": "Please make sure the bot has the **MANAGE_EVENTS** permission. Else it won't work. You can also invite the bot again",
   "cmdhandler_modify_nothingSelectedError": "You have to set the value of at least one field",
   "cmdhandler_modify_success": "You have successfully changed the configuration for the calendar in this channel.",
@@ -116,5 +118,7 @@
   "create_cmd_modify_language": "Change the language of the calendar",
   "cpnhandler_linkIcalModal_textInput": "Your .ical/.ics link",
   "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",
-  "cpnhandler_linkIcalModal_title": "Enter your calendar url"
+  "cpnhandler_linkIcalModal_title": "Enter your calendar url",
+  "create_cmd_delete": "Deletes the calendar in the current channel",
+  "create_cmd_modify_channel": "Select the channel you want to move the current calendar into"
 }
