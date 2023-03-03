@@ -2,7 +2,7 @@
 
 This repo contains all translations for the Paru Calendar, Twitch & GWorkspace bot (https://paru.app)
 
-Please commit if you find an error in the translations! Thanks!
+Please create a PR if you find an error in the translations! Thanks!
 
 Find the list of locales here:
 | CALENDAR LOCALE                 | LANGUAGE NAME         | NATIVE NAME         | CONTRIBUTOR                             |
