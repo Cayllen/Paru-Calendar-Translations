@@ -42,7 +42,7 @@
   "create_cmd_modify_icon": "⭐️ Enter a single emoji here that will replace ▫️ this one",
   "create_cmd_modify_color": "⭐️ Type in the hex color you want to change the calendar to (Google: 'hex color' for more help)",
   "create_cmd_modify_endtime": "Enable/Disable showing the end date of the event",
-  "create_cmd_modify_description": "Enable/Disable showing the description of the event",
+  "create_cmd_modify_description": "Toggle showing the event description. IMPORTANT: The newer the event, the more description is shown!",
   "create_cmd_modify_location": "Enable/Disable showing the location of the event",
   "create_cmd_modify_sync2discord": "Enable/Disable syncing events from Paru to the Discord internal event system",
   "create_cmd_modify_sync2paru": "Enable/Disable syncing events from the Discord internal event system to Paru",
