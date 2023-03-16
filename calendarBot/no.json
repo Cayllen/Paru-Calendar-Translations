@@ -82,7 +82,7 @@
     "cpnhandler_indnotbut_infotext": "Velg når du vil bli påminnet. Påminnelsen vil bli sendt til deg via PM.\n_(Hvis du vil påminne bestemte roller, kan du bruke kommandoen **/paru reminder add**. Nøyaktigheten til påminnelsen tilsvarer oppdateringsfrekvensen til kalenderen (f.eks. ± 24 timer; påminnelser om betalte planer er i tide))_",
     "cpnhandler_indnotmenu_successPM": "Påminnelse om hendelse opprettet på **<guild_name>**:\n<rem_str>",
     "cpnhandler_indnotmenu_dmsClosedError": "Paru har ikke lov til å sende deg en DM. Vennligst tillat DM-er fra Paru-kalenderen (https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-)",
-    "cpnhandler_indnotmenu_noCalendarError": "Det er ingen kalender i denne kanalen",
+    "cpnhandler_indnotmenu_noCalendarError": "Det er ingen kalender i denne kanalen. Ingen påminnelser er lagret.",
     "cpnhandler_indnotmenu_successChange": "Du har endret påminnelsene for kalenderen i denne kanalen.",
     "cpnhandler_indnotmenu_successRemove": "Du har fjernet påminnelsene for kalenderen i denne kanalen.",
     "cpnhandler_premiumActivate_successful": "Vellykket aktivering av ⭐️ premiumstatus ⭐️ for denne serveren!\n(Hvis du bruker flere Paru Bots på en server, er det nok å aktivere én gang)",

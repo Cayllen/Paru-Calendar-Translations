@@ -82,7 +82,7 @@
     "cpnhandler_indnotbut_infotext": "Будь ласка, оберіть час, коли ви хочете отримати нагадування. Нагадування буде надіслано вам особисто.\n_(Якщо ви хочете нагадати певним ролям, будь ласка, скористайтеся командою **/paru reminder add**. Точність нагадування відповідає частоті оновлення календаря (наприклад, ±24 години; нагадування платного тарифного плану надходять вчасно))_",
     "cpnhandler_indnotmenu_successPM": "Нагадування про подію успішно створено на **<guild_name>**:\n<rem_str>",
     "cpnhandler_indnotmenu_dmsClosedError": "Paru не має права надсилати вам DM. Будь ласка, дозвольте DM з календаря Paru (https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-)",
-    "cpnhandler_indnotmenu_noCalendarError": "У цьому каналі немає календаря",
+    "cpnhandler_indnotmenu_noCalendarError": "У цьому каналі немає календаря. Нагадування не збережено.",
     "cpnhandler_indnotmenu_successChange": "Ви успішно змінили нагадування для календаря в цьому каналі.",
     "cpnhandler_indnotmenu_successRemove": "Ви успішно видалили нагадування для календаря в цьому каналі.",
     "cpnhandler_premiumActivate_successful": "Успішно ввімкнено ⭐️ преміум-статус ⭐️ для цього сервера!\n(Якщо ви використовуєте кілька Paru-ботів на одному сервері, достатньо ввімкнути один раз)",
