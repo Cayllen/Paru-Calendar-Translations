@@ -24,7 +24,7 @@
     "create_cmd_create_days": "日历应提前显示的天数",
     "create_cmd_create": "在当前频道创建一个新的日历",
     "create_cmd_link_url": "神学日历的链接",
-    "create_cmd_link": "将所提供的.ical url链接到当前频道中的帕鲁日历。",
+    "create_cmd_link": "管理当前频道中的帕鲁日历链接",
     "create_cmd_timezone_country": "请输入你目前所处国家的英文名称，并选择正确的时区。",
     "create_cmd_timezone": "设置服务器中所有日历的时区",
     "create_cmd_refresh": "刷新当前频道中的日历",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "例如，将我的3个.ics日历导入Discord，并在视觉日历信息中显示它们......",
     "cmdhandler_link_no_calendar_error": "这个频道中没有日历。请先使用**/paru create**。",
     "user_signup_helpTranslatingButton": "🌎 帮助翻译️",
-    "create_cmd_modify_channel": "选择你想把当前日历移入的频道"
+    "create_cmd_modify_channel": "选择你想把当前日历移入的频道",
+    "cpnhandler_link_unlinkGcal_success": "您的谷歌账户已成功解除与帕鲁的链接。请再次使用**/帕鲁链接**来重新链接一个账户。",
+    "cmdhandler_unlink_google_btn_label": "解除对谷歌账户的链接",
+    "create_cmd_modify_gcalcolor": "启用/禁用在事件旁边显示Google-Calendar事件/日历的颜色"
 }

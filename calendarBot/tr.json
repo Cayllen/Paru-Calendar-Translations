@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Takvimin önceden göstermesi gereken gün sayısı",
     "create_cmd_create": "Geçerli kanalda yeni bir takvim oluşturun",
     "create_cmd_link_url": ".ical takviminin bağlantısı",
-    "create_cmd_link": "Sağlanan .ical URL'sini geçerli kanaldaki Paru takvimine bağlar",
+    "create_cmd_link": "Geçerli kanaldaki Paru takvimine bağlantıları yönetme",
     "create_cmd_timezone_country": "Lütfen bulunduğunuz ülkenin İngilizce adını yazın ve doğru saat dilimini seçin.",
     "create_cmd_timezone": "Sunucudaki tüm takvimlerin saat dilimini ayarlama",
     "create_cmd_refresh": "Geçerli kanaldaki takvimi yeniler",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Örneğin, 3 .ics takvimimi Discord'a aktarmak ve bunları görsel bir takvim mesajında göstermek ...",
     "cmdhandler_link_no_calendar_error": "Bu kanalda takvim bulunmamaktadır. Lütfen önce **/paru create** kullanın",
     "user_signup_helpTranslatingButton": "🌎 Çeviriye yardım️",
-    "create_cmd_modify_channel": "Geçerli takvimi taşımak istediğiniz kanalı seçin"
+    "create_cmd_modify_channel": "Geçerli takvimi taşımak istediğiniz kanalı seçin",
+    "cpnhandler_link_unlinkGcal_success": "Google hesabınızın Paru ile bağlantısı başarıyla kaldırıldı. Bir hesabı tekrar bağlamak için lütfen **/paru link**'i tekrar kullanın.",
+    "cmdhandler_unlink_google_btn_label": "Google hesabının bağlantısını kaldırın",
+    "create_cmd_modify_gcalcolor": "Etkinliğin yanında Google-Calendar etkinlik/takvim rengini göstermeyi Etkinleştir/Devre Dışı Bırak"
 }

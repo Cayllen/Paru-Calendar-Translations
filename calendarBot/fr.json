@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Nombre de jours que le calendrier doit afficher à l'avance",
     "create_cmd_create": "Crée un nouveau calendrier dans le canal actuel",
     "create_cmd_link_url": "Lien du calendrier .ical",
-    "create_cmd_link": "Lie l'url .ical fournie au calendrier Paru dans le canal actuel",
+    "create_cmd_link": "Gère les liens vers le calendrier Paru dans le canal actuel",
     "create_cmd_timezone_country": "Tape le nom anglais du pays dans lequel tu te trouves actuellement et sélectionne le bon fuseau horaire.",
     "create_cmd_timezone": "Définir le fuseau horaire de tous les calendriers du serveur",
     "create_cmd_refresh": "Rafraîchit le calendrier dans le canal actuel",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Par exemple, importer mes 3 calendriers .ics dans Discord et les afficher dans un message de calendrier visuel...",
     "cmdhandler_link_no_calendar_error": "Il n'y a pas de calendrier dans ce canal. Il faut d'abord utiliser **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Aide à la traduction️",
-    "create_cmd_modify_channel": "Sélectionner le canal dans lequel on souhaite déplacer le calendrier actuel"
+    "create_cmd_modify_channel": "Sélectionner le canal dans lequel on souhaite déplacer le calendrier actuel",
+    "cpnhandler_link_unlinkGcal_success": "Ton compte Google a été dissocié avec succès de Paru. Utilise à nouveau **/paru link** pour lier à nouveau un compte.",
+    "cmdhandler_unlink_google_btn_label": "Déconnecter le compte Google",
+    "create_cmd_modify_gcalcolor": "Activer/Désactiver l'affichage de la couleur de l'événement/calendrier Google-Calendar à côté de l'événement"
 }

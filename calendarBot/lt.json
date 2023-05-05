@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Kiek dienų kalendorius turėtų būti rodomas iš anksto",
     "create_cmd_create": "Sukurti naują kalendorių dabartiniame kanale",
     "create_cmd_link_url": ".ical kalendoriaus nuoroda",
-    "create_cmd_link": "Pateiktą .ical url susieja su Paru kalendoriumi dabartiniame kanale",
+    "create_cmd_link": "Tvarkyti nuorodas į \"Paru\" kalendorių dabartiniame kanale",
     "create_cmd_timezone_country": "Įveskite anglišką šalies, kurioje šiuo metu esate, pavadinimą ir pasirinkite tinkamą laiko juostą.",
     "create_cmd_timezone": "Nustatyti visų serverio kalendorių laiko juostą",
     "create_cmd_refresh": "Atnaujina dabartinio kanalo kalendorių",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Pvz., importuoti mano 3 .ics kalendorių į \"Discord\" ir parodyti juos vizualiniame kalendoriaus pranešime...",
     "cmdhandler_link_no_calendar_error": "Šiame kanale nėra kalendoriaus. Pirmiausia naudokite **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Pagalba verčiant️",
-    "create_cmd_modify_channel": "Pasirinkite kanalą, į kurį norite perkelti dabartinį kalendorių"
+    "create_cmd_modify_channel": "Pasirinkite kanalą, į kurį norite perkelti dabartinį kalendorių",
+    "cpnhandler_link_unlinkGcal_success": "Jūsų \"Google\" paskyra sėkmingai atjungta nuo \"Paru\". Norėdami vėl susieti paskyrą, naudokite **/paru link**.",
+    "cmdhandler_unlink_google_btn_label": "\"Google\" paskyros susiejimo panaikinimas",
+    "create_cmd_modify_gcalcolor": "Įjungti / išjungti \"Google\" kalendoriaus įvykio / kalendoriaus spalvos rodymą šalia įvykio"
 }

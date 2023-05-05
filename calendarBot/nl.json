@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Aantal dagen dat de kalender vooraf moet worden weergegeven",
     "create_cmd_create": "Maak een nieuwe kalender in het huidige kanaal",
     "create_cmd_link_url": "Link van de .ical kalender",
-    "create_cmd_link": "Koppelt de opgegeven .ical url aan de Paru kalender in het huidige kanaal",
+    "create_cmd_link": "Links beheren naar de Paru-kalender in het huidige kanaal",
     "create_cmd_timezone_country": "Voer de Engelse naam in van het land waar je nu bent en selecteer de juiste tijdzone.",
     "create_cmd_timezone": "Stel de tijdzone van alle kalenders in de server in",
     "create_cmd_refresh": "Vernieuwt de kalender in het huidige kanaal",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Bijv. mijn 3 .ics kalenders importeren in Discord & ze tonen in een visueel kalenderbericht...",
     "cmdhandler_link_no_calendar_error": "Er is geen kalender in dit kanaal. Gebruik eerst **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Hulp bij het vertalen️",
-    "create_cmd_modify_channel": "Selecteer het kanaal waar je de huidige kalender naartoe wilt verplaatsen"
+    "create_cmd_modify_channel": "Selecteer het kanaal waar je de huidige kalender naartoe wilt verplaatsen",
+    "cpnhandler_link_unlinkGcal_success": "Je Google-account is succesvol ontkoppeld met Paru. Gebruik opnieuw **/paru link** om opnieuw een account te koppelen.",
+    "cmdhandler_unlink_google_btn_label": "Google-account loskoppelen",
+    "create_cmd_modify_gcalcolor": "Inschakelen/uitschakelen dat de Google-Calendar evenement/kalenderkleur naast het evenement wordt getoond"
 }

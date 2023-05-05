@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Jumlah hari yang harus ditampilkan di kalender sebelumnya",
     "create_cmd_create": "Membuat kalender baru di saluran saat ini",
     "create_cmd_link_url": "Tautan kalender .ical",
-    "create_cmd_link": "Tautkan url .ical yang disediakan ke kalender Paru di saluran saat ini",
+    "create_cmd_link": "Mengelola tautan ke kalender Paru di saluran saat ini",
     "create_cmd_timezone_country": "Ketik nama negara tempat Anda berada saat ini dalam bahasa Inggris dan pilih zona waktu yang benar.",
     "create_cmd_timezone": "Mengatur zona waktu semua kalender di server",
     "create_cmd_refresh": "Menyegarkan kalender di saluran saat ini",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Misalnya, mengimpor 3 kalender .ics saya ke dalam Discord & menampilkannya dalam pesan kalender visual...",
     "cmdhandler_link_no_calendar_error": "Tidak ada kalender di saluran ini. Silakan gunakan **/paru buat** terlebih dahulu",
     "user_signup_helpTranslatingButton": "🌎 Membantu menerjemahkan️",
-    "create_cmd_modify_channel": "Pilih saluran yang ingin Anda pindahkan kalender saat ini"
+    "create_cmd_modify_channel": "Pilih saluran yang ingin Anda pindahkan kalender saat ini",
+    "cpnhandler_link_unlinkGcal_success": "Akun Google Anda berhasil diputuskan tautannya dengan Paru. Silakan gunakan **/tautan Paru** lagi untuk menautkan akun lagi.",
+    "cmdhandler_unlink_google_btn_label": "Putuskan tautan akun Google",
+    "create_cmd_modify_gcalcolor": "Mengaktifkan/menonaktifkan tampilan warna acara/kalender Google-Calendar di samping acara"
 }

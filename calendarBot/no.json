@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Antall dager kalenderen skal vise på forhånd",
     "create_cmd_create": "Opprett en ny kalender i den aktuelle kanalen",
     "create_cmd_link_url": "Lenke til .ical-kalenderen",
-    "create_cmd_link": "Kobler den angitte .ical-adressen til Paru-kalenderen i den aktuelle kanalen",
+    "create_cmd_link": "Administrer lenker til Paru-kalenderen i den aktuelle kanalen",
     "create_cmd_timezone_country": "Skriv inn det engelske navnet på landet du befinner deg i, og velg riktig tidssone.",
     "create_cmd_timezone": "Angi tidssone for alle kalendere på serveren",
     "create_cmd_refresh": "Oppdaterer kalenderen i gjeldende kanal",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "F.eks. importere mine 3 .ics-kalendere til Discord og vise dem i en visuell kalendermelding ...",
     "cmdhandler_link_no_calendar_error": "Det er ingen kalender i denne kanalen. Vennligst bruk **/paru create** først",
     "user_signup_helpTranslatingButton": "🌎 Hjelp til å oversette️",
-    "create_cmd_modify_channel": "Velg kanalen du vil flytte den gjeldende kalenderen til"
+    "create_cmd_modify_channel": "Velg kanalen du vil flytte den gjeldende kalenderen til",
+    "cpnhandler_link_unlinkGcal_success": "Google-kontoen din ble koblet fra Paru. Bruk **/paru link** igjen for å koble til en konto på nytt.",
+    "cmdhandler_unlink_google_btn_label": "Koble fra Google-konto",
+    "create_cmd_modify_gcalcolor": "Aktivere/deaktivere visning av Google-Calendar hendelsen/kalenderfargen ved siden av hendelsen"
 }

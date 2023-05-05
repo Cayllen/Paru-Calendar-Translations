@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Cantidad de días que el calendario debe mostrar con antelación",
     "create_cmd_create": "Crear un nuevo calendario en el canal actual",
     "create_cmd_link_url": "Enlace del calendario .ical",
-    "create_cmd_link": "Enlaza la url .ical proporcionada con el calendario Paru en el canal actual",
+    "create_cmd_link": "Gestionar los enlaces al calendario Paru en el canal actual",
     "create_cmd_timezone_country": "Escribe el nombre en inglés del país en el que te encuentras y selecciona la zona horaria correcta.",
     "create_cmd_timezone": "Establece la zona horaria de todos los calendarios del servidor",
     "create_cmd_refresh": "Actualiza el calendario en el canal actual",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Por ejemplo, importar mis 3 calendarios .ics a Discord y mostrarlos en un mensaje de calendario visual...",
     "cmdhandler_link_no_calendar_error": "No hay calendario en este canal. Por favor, utiliza primero **/paru crear**",
     "user_signup_helpTranslatingButton": "🌎 Ayuda para traducir️",
-    "create_cmd_modify_channel": "Selecciona el canal al que quieres mover la agenda actual"
+    "create_cmd_modify_channel": "Selecciona el canal al que quieres mover la agenda actual",
+    "cpnhandler_link_unlinkGcal_success": "Tu cuenta de Google se ha desvinculado correctamente de Paru. Vuelve a utilizar **/enlace paru** para volver a vincular una cuenta.",
+    "cmdhandler_unlink_google_btn_label": "Desvincular la cuenta de Google",
+    "create_cmd_modify_gcalcolor": "Activar/Desactivar mostrar el color del evento/calendario de Google-Calendar junto al evento"
 }

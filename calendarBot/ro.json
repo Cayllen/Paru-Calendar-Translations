@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Numărul de zile pe care calendarul trebuie să le afișeze în avans",
     "create_cmd_create": "Creați un nou calendar în canalul curent",
     "create_cmd_link_url": "Legătura calendarului .ical",
-    "create_cmd_link": "Leagă url-ul .ical furnizat la calendarul Paru din canalul curent",
+    "create_cmd_link": "Gestionați legăturile către calendarul Paru în canalul curent",
     "create_cmd_timezone_country": "Vă rugăm să introduceți numele în limba engleză al țării în care vă aflați și să selectați fusul orar corect.",
     "create_cmd_timezone": "Setați fusul orar al tuturor calendarelor din server",
     "create_cmd_refresh": "Reîncarcă calendarul în canalul curent",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "De exemplu, importarea celor 3 calendare .ics în Discord și afișarea lor într-un mesaj de calendar vizual...",
     "cmdhandler_link_no_calendar_error": "Nu există niciun calendar în acest canal. Vă rugăm să folosiți mai întâi **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Ajutor pentru traducere️",
-    "create_cmd_modify_channel": "Selectați canalul în care doriți să mutați calendarul curent"
+    "create_cmd_modify_channel": "Selectați canalul în care doriți să mutați calendarul curent",
+    "cpnhandler_link_unlinkGcal_success": "Contul dvs. Google a fost deconectat cu succes de la Paru. Vă rugăm să folosiți din nou **/paru link** pentru a lega din nou un cont.",
+    "cmdhandler_unlink_google_btn_label": "Deconectați contul Google",
+    "create_cmd_modify_gcalcolor": "Activați/dezactivați afișarea culorii evenimentului/calendarului Google-Calendar în dreptul evenimentului"
 }

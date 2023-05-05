@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Ilość dni, które kalendarz powinien wyświetlić z wyprzedzeniem",
     "create_cmd_create": "Utwórz nowy kalendarz w bieżącym kanale",
     "create_cmd_link_url": "Łącze kalendarza .ical",
-    "create_cmd_link": "Łączy podany adres .ical url z kalendarzem Paru w bieżącym kanale",
+    "create_cmd_link": "Zarządzaj łączami do kalendarza Paru w bieżącym kanale",
     "create_cmd_timezone_country": "Wpisz angielską nazwę kraju, w którym aktualnie przebywasz, i wybierz odpowiednią strefę czasową.",
     "create_cmd_timezone": "Ustawienie strefy czasowej wszystkich kalendarzy na serwerze",
     "create_cmd_refresh": "Odświeża kalendarz w bieżącym kanale",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Np. zaimportowanie moich 3 kalendarzy .ics do Discorda i pokazanie ich w wizualnej wiadomości kalendarzowej...",
     "cmdhandler_link_no_calendar_error": "Na tym kanale nie ma kalendarza. Najpierw użyj **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Pomoc w tłumaczeniu️",
-    "create_cmd_modify_channel": "Wybierz kanał, na który chcesz przenieść bieżący kalendarz"
+    "create_cmd_modify_channel": "Wybierz kanał, na który chcesz przenieść bieżący kalendarz",
+    "cpnhandler_link_unlinkGcal_success": "Twoje konto Google zostało pomyślnie odłączone od Paru. Użyj ponownie **paru link**, aby ponownie połączyć konto.",
+    "cmdhandler_unlink_google_btn_label": "Odłącz konto Google",
+    "create_cmd_modify_gcalcolor": "Włączanie/wyłączanie pokazywania koloru wydarzenia/kalendarza Google obok wydarzenia"
 }

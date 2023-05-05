@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Päivien määrä, jonka kalenterin tulisi näyttää etukäteen",
     "create_cmd_create": "Luo uusi kalenteri nykyiseen kanavaan",
     "create_cmd_link_url": ".ical-kalenterin linkki",
-    "create_cmd_link": "Linkittää annetun .ical url-osoitteen nykyisen kanavan Paru-kalenteriin",
+    "create_cmd_link": "Hallitse linkkejä Parun kalenteriin nykyisellä kanavalla",
     "create_cmd_timezone_country": "Kirjoita sen maan englanninkielinen nimi, jossa parhaillaan olet, ja valitse oikea aikavyöhyke.",
     "create_cmd_timezone": "Aseta palvelimen kaikkien kalenterien aikavyöhyke",
     "create_cmd_refresh": "Päivittää nykyisen kanavan kalenterin",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Esim. 3 .ics-kalenterin tuominen Discordiin ja niiden näyttäminen visuaalisessa kalenteriviestissä...",
     "cmdhandler_link_no_calendar_error": "Tällä kanavalla ei ole kalenteria. Käytä ensin **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Apua kääntämiseen️",
-    "create_cmd_modify_channel": "Valitse kanava, johon haluat siirtää nykyisen kalenterin"
+    "create_cmd_modify_channel": "Valitse kanava, johon haluat siirtää nykyisen kalenterin",
+    "cpnhandler_link_unlinkGcal_success": "Google-tilisi on onnistuneesti yhdistetty Parun kanssa. Käytä **/paru-linkkiä** uudelleen linkittääksesi tilin uudelleen.",
+    "cmdhandler_unlink_google_btn_label": "Google-tilin linkityksen poistaminen",
+    "create_cmd_modify_gcalcolor": "Google-kalenterin tapahtuman/kalenterin värin näyttäminen tapahtuman vieressä otetaan käyttöön tai poistetaan käytöstä"
 }

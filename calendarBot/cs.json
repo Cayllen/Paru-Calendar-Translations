@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Počet dní, které by měl kalendář zobrazovat s předstihem",
     "create_cmd_create": "Vytvoření nového kalendáře v aktuálním kanálu",
     "create_cmd_link_url": "Odkaz na .ical kalendář",
-    "create_cmd_link": "Propojí zadanou url adresu .ical s kalendářem Paru v aktuálním kanálu",
+    "create_cmd_link": "Správa odkazů na kalendář Paru v aktuálním kanálu",
     "create_cmd_timezone_country": "Zadejte anglický název země, ve které se právě nacházíte, a vyberte správné časové pásmo.",
     "create_cmd_timezone": "Nastavení časového pásma všech kalendářů na serveru",
     "create_cmd_refresh": "Obnoví kalendář v aktuálním kanálu",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Např. importování mých 3 kalendářů .ics do Discordu a jejich zobrazení ve vizuální zprávě kalendáře...",
     "cmdhandler_link_no_calendar_error": "V tomto kanálu není žádný kalendář. Nejprve prosím použijte **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Nápověda pro překlad️",
-    "create_cmd_modify_channel": "Vyberte kanál, do kterého chcete přesunout aktuální kalendář"
+    "create_cmd_modify_channel": "Vyberte kanál, do kterého chcete přesunout aktuální kalendář",
+    "cpnhandler_link_unlinkGcal_success": "Váš účet Google byl úspěšně odpojen od Paru. Pro opětovné propojení účtu použijte **/paru link**.",
+    "cmdhandler_unlink_google_btn_label": "Zrušení propojení s účtem Google",
+    "create_cmd_modify_gcalcolor": "Povolení/zakázání zobrazení barvy události/kalendáře Google-Calendar vedle události"
 }

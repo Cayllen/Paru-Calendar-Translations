@@ -24,7 +24,7 @@
     "create_cmd_create_days": "Anzahl der Tage, die der Kalender im Voraus anzeigen soll",
     "create_cmd_create": "Einen neuen Kalender im aktuellen Kanal erstellen",
     "create_cmd_link_url": "Link des .ical Kalenders",
-    "create_cmd_link": "Verknüpft die angegebene .ical url mit dem Paru-Kalender im aktuellen Kanal",
+    "create_cmd_link": "Verwalte Links zum Paru-Kalender im aktuellen Kanal",
     "create_cmd_timezone_country": "Bitte gib den englischen Namen des Landes ein, in dem du dich gerade befindest, und wähle die richtige Zeitzone aus.",
     "create_cmd_timezone": "Die Zeitzone für alle Kalender auf dem Server festlegen",
     "create_cmd_refresh": "Aktualisiert den Kalender im aktuellen Kanal",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Ich kann z.B. meine 3 .ics-Kalender in Discord importieren und sie in einer visuellen Kalendernachricht anzeigen...",
     "cmdhandler_link_no_calendar_error": "Es gibt keinen Kalender in diesem Kanal. Bitte benutze zuerst **/paru create**",
     "user_signup_helpTranslatingButton": "🌎 Hilfe beim Übersetzen️",
-    "create_cmd_modify_channel": "Wähle den Kanal, in den du den aktuellen Kalender verschieben willst"
+    "create_cmd_modify_channel": "Wähle den Kanal, in den du den aktuellen Kalender verschieben willst",
+    "cpnhandler_link_unlinkGcal_success": "Dein Google-Konto wurde erfolgreich aus der Verknüpfung mit Paru entfernt. Bitte verwende **/paru link** erneut, um ein Konto erneut zu verknüpfen.",
+    "cmdhandler_unlink_google_btn_label": "Google-Konto entkoppeln",
+    "create_cmd_modify_gcalcolor": "Aktiviere/Deaktiviere die Anzeige der Google-Calendar Ereignis-/Kalenderfarbe neben dem Ereignis"
 }

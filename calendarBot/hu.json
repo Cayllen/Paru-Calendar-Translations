@@ -24,7 +24,7 @@
     "create_cmd_create_days": "A naptárban előre megjelenítendő napok száma",
     "create_cmd_create": "Új naptár létrehozása az aktuális csatornán",
     "create_cmd_link_url": "A .ical naptár linkje",
-    "create_cmd_link": "A megadott .ical url-t összekapcsolja az aktuális csatorna Paru naptárával",
+    "create_cmd_link": "A Paru naptárra mutató linkek kezelése az aktuális csatornában",
     "create_cmd_timezone_country": "Kérjük, írja be annak az országnak az angol nevét, amelyben éppen tartózkodik, és válassza ki a megfelelő időzónát.",
     "create_cmd_timezone": "A kiszolgálón lévő összes naptár időzónájának beállítása",
     "create_cmd_refresh": "Frissíti a naptárat az aktuális csatornán",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "Pl. a 3 .ics naptáram importálása a Discordba és megjelenítésük egy vizuális naptár üzenetben...",
     "cmdhandler_link_no_calendar_error": "Ezen a csatornán nincs naptár. Kérjük, először a **/paru create**-t használja",
     "user_signup_helpTranslatingButton": "🌎 Segítség a fordításban️",
-    "create_cmd_modify_channel": "Válassza ki azt a csatornát, ahová az aktuális naptárat át szeretné helyezni"
+    "create_cmd_modify_channel": "Válassza ki azt a csatornát, ahová az aktuális naptárat át szeretné helyezni",
+    "cpnhandler_link_unlinkGcal_success": "A Google-fiókodat sikeresen leválasztottuk a Paruról. Kérjük, használja újra a **/paru linket** a fiók újbóli összekapcsolásához.",
+    "cmdhandler_unlink_google_btn_label": "Google-fiók összekapcsolásának feloldása",
+    "create_cmd_modify_gcalcolor": "A Google-naptár esemény/naptár színének megjelenítése az esemény mellett engedélyezése/letiltása"
 }

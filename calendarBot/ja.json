@@ -24,7 +24,7 @@
     "create_cmd_create_days": "カレンダーを何日前に表示するか",
     "create_cmd_create": "現在のチャンネルに新しいカレンダーを作成する",
     "create_cmd_link_url": ".icalカレンダーのリンク",
-    "create_cmd_link": "提供された .ical url を現在のチャンネルの Paru カレンダーにリンクします。",
+    "create_cmd_link": "現在のチャンネルでぱるるカレンダーへのリンクを管理する",
     "create_cmd_timezone_country": "現在滞在している国の英語名を入力し、正しいタイムゾーンを選択してください。",
     "create_cmd_timezone": "サーバー内の全カレンダーのタイムゾーンを設定する",
     "create_cmd_refresh": "現在のチャンネルのカレンダーをリフレッシュする",
@@ -136,5 +136,8 @@
     "cpnhandler_userSignupModal_placeholder": "例えば、私の3つの.icsカレンダーをDiscordにインポートして、ビジュアルカレンダーメッセージで表示する...。",
     "cmdhandler_link_no_calendar_error": "このチャンネルには、カレンダーはありません。最初に**/paru create**を使用してください。",
     "user_signup_helpTranslatingButton": "🌎 翻訳を手伝う️。",
-    "create_cmd_modify_channel": "現在のカレンダーを移動させたいチャンネルを選択する"
+    "create_cmd_modify_channel": "現在のカレンダーを移動させたいチャンネルを選択する",
+    "cpnhandler_link_unlinkGcal_success": "お客様のGoogleアカウントは、Paruとのリンクが解除されました。再度、**/paru link**を使用して、アカウントをリンクしてください。",
+    "cmdhandler_unlink_google_btn_label": "Google アカウントの紐付けを解除する",
+    "create_cmd_modify_gcalcolor": "Google-Calendarのイベント/カレンダーの色をイベントの横に表示することの有効/無効を切り替える"
 }
