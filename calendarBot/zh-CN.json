@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "选择你想把当前日历移入的频道",
     "cpnhandler_link_unlinkGcal_success": "您的谷歌账户已成功解除与帕鲁的链接。请再次使用**/帕鲁链接**来重新链接一个账户。",
     "cmdhandler_unlink_google_btn_label": "解除对谷歌账户的链接",
-    "create_cmd_modify_gcalcolor": "启用/禁用在事件旁边显示Google-Calendar事件/日历的颜色"
+    "create_cmd_modify_gcalcolor": "启用/禁用在事件旁边显示Google-Calendar事件/日历的颜色",
+    "create_cmd_modify_gcalcolor_choice_useevent": "使用事件的颜色",
+    "create_cmd_modify_gcalcolor_choice_disabled": "禁用",
+    "create_cmd_modify_gcalcolor_choice_useboth": "同时使用。如果事件的颜色已被设置，则其具有优先权",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色"
 }

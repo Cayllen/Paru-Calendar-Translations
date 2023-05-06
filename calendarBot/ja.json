@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "現在のカレンダーを移動させたいチャンネルを選択する",
     "cpnhandler_link_unlinkGcal_success": "お客様のGoogleアカウントは、Paruとのリンクが解除されました。再度、**/paru link**を使用して、アカウントをリンクしてください。",
     "cmdhandler_unlink_google_btn_label": "Google アカウントの紐付けを解除する",
-    "create_cmd_modify_gcalcolor": "Google-Calendarのイベント/カレンダーの色をイベントの横に表示することの有効/無効を切り替える"
+    "create_cmd_modify_gcalcolor": "Google-Calendarのイベント/カレンダーの色をイベントの横に表示することの有効/無効を切り替える",
+    "create_cmd_modify_gcalcolor_choice_useevent": "イベントカラーを使用",
+    "create_cmd_modify_gcalcolor_choice_disabled": "無効にする",
+    "create_cmd_modify_gcalcolor_choice_useboth": "両方を使用します。イベントの色が設定されている場合は優先される",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う"
 }

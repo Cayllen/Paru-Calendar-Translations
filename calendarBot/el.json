@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Επιλέξτε το κανάλι στο οποίο θέλετε να μετακινήσετε το τρέχον ημερολόγιο",
     "cpnhandler_link_unlinkGcal_success": "Ο λογαριασμός σας Google αποσυνδέθηκε επιτυχώς με το Paru. Παρακαλούμε χρησιμοποιήστε ξανά το **/paru link** για να συνδέσετε ξανά έναν λογαριασμό.",
     "cmdhandler_unlink_google_btn_label": "Αποσύνδεση λογαριασμού Google",
-    "create_cmd_modify_gcalcolor": "Ενεργοποίηση/απενεργοποίηση της εμφάνισης του χρώματος του συμβάντος/ημερολογίου του Google-Calendar δίπλα στο συμβάν"
+    "create_cmd_modify_gcalcolor": "Ενεργοποίηση/απενεργοποίηση της εμφάνισης του χρώματος του συμβάντος/ημερολογίου του Google-Calendar δίπλα στο συμβάν",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Χρησιμοποιήστε το χρώμα της εκδήλωσης",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Απενεργοποίηση",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Χρησιμοποιήστε και τα δύο. Το χρώμα του συμβάντος έχει προτεραιότητα αν έχει οριστεί",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Χρησιμοποιήστε το χρώμα του ημερολογίου"
 }

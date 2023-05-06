@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Pilih saluran yang ingin Anda pindahkan kalender saat ini",
     "cpnhandler_link_unlinkGcal_success": "Akun Google Anda berhasil diputuskan tautannya dengan Paru. Silakan gunakan **/tautan Paru** lagi untuk menautkan akun lagi.",
     "cmdhandler_unlink_google_btn_label": "Putuskan tautan akun Google",
-    "create_cmd_modify_gcalcolor": "Mengaktifkan/menonaktifkan tampilan warna acara/kalender Google-Calendar di samping acara"
+    "create_cmd_modify_gcalcolor": "Mengaktifkan/menonaktifkan tampilan warna acara/kalender Google-Calendar di samping acara",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Gunakan warna acara",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Nonaktifkan",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Gunakan keduanya. Warna acara memiliki prioritas jika telah ditetapkan",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender"
 }

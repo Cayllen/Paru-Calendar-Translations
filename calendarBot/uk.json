@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Виберіть канал, в який ви хочете перенести поточний календар",
     "cpnhandler_link_unlinkGcal_success": "Ваш обліковий запис Google було успішно від'єднано від Paru. Будь ласка, використовуйте **/paru посилання** ще раз, щоб прив'язати акаунт знову.",
     "cmdhandler_unlink_google_btn_label": "Від'єднайте обліковий запис Google",
-    "create_cmd_modify_gcalcolor": "Увімкнути/вимкнути відображення кольору події/календаря Google-Календаря поруч із подією"
+    "create_cmd_modify_gcalcolor": "Увімкнути/вимкнути відображення кольору події/календаря Google-Календаря поруч із подією",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Використовуйте колір події",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Вимкнути",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Використовуйте обидва. Пріоритет має колір події, якщо він був встановлений",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Використовуйте колір календаря"
 }

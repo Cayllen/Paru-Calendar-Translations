@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Изберете канала, в който искате да преместите текущия календар",
     "cpnhandler_link_unlinkGcal_success": "Вашият акаунт в Google беше успешно развързан с Paru. Моля, използвайте отново **/paru link**, за да свържете акаунта отново.",
     "cmdhandler_unlink_google_btn_label": "Отключване на акаунта в Google",
-    "create_cmd_modify_gcalcolor": "Активиране/деактивиране на показването на цвета на събитието/календара на Google-Calendar до събитието"
+    "create_cmd_modify_gcalcolor": "Активиране/деактивиране на показването на цвета на събитието/календара на Google-Calendar до събитието",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Използване на цвета на събитието",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Деактивиране на",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Използвайте и двете. Цветът на събитието има приоритет, ако е зададен",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Използване на цвета на календара"
 }

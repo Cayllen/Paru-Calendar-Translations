@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Pasirinkite kanalą, į kurį norite perkelti dabartinį kalendorių",
     "cpnhandler_link_unlinkGcal_success": "Jūsų \"Google\" paskyra sėkmingai atjungta nuo \"Paru\". Norėdami vėl susieti paskyrą, naudokite **/paru link**.",
     "cmdhandler_unlink_google_btn_label": "\"Google\" paskyros susiejimo panaikinimas",
-    "create_cmd_modify_gcalcolor": "Įjungti / išjungti \"Google\" kalendoriaus įvykio / kalendoriaus spalvos rodymą šalia įvykio"
+    "create_cmd_modify_gcalcolor": "Įjungti / išjungti \"Google\" kalendoriaus įvykio / kalendoriaus spalvos rodymą šalia įvykio",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Naudoti įvykio spalvą",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Išjungti",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Naudokite abu. Įvykio spalva turi pirmenybę, jei ji buvo nustatyta",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą"
 }

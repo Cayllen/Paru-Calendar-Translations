@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Välj den kanal som du vill flytta den aktuella kalendern till",
     "cpnhandler_link_unlinkGcal_success": "Ditt Google-konto har avlänkats från Paru. Använd **/paru-länk** igen för att länka ett konto igen.",
     "cmdhandler_unlink_google_btn_label": "Koppla upp Google-kontot",
-    "create_cmd_modify_gcalcolor": "Aktivera/avaktivera visning av Google-Calendar-händelse/kalendarfärg bredvid händelsen"
+    "create_cmd_modify_gcalcolor": "Aktivera/avaktivera visning av Google-Calendar-händelse/kalendarfärg bredvid händelsen",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Använd färgen på evenemanget",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Inaktivera",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Använd båda. Händelsens färg har prioritet om den har ställts in",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Använd kalenderns färg"
 }

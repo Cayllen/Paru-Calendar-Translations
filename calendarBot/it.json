@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Seleziona il canale in cui vuoi spostare il calendario corrente",
     "cpnhandler_link_unlinkGcal_success": "Il tuo account Google è stato scollegato con successo da Paru. Utilizza nuovamente **/paru link** per collegare nuovamente un account.",
     "cmdhandler_unlink_google_btn_label": "Scollegamento dell'account Google",
-    "create_cmd_modify_gcalcolor": "Abilita/Disabilita la visualizzazione del colore dell'evento/calendario di Google-Calendar accanto all'evento"
+    "create_cmd_modify_gcalcolor": "Abilita/Disabilita la visualizzazione del colore dell'evento/calendario di Google-Calendar accanto all'evento",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Usa il colore dell'evento",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Disattivare",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Utilizza entrambi. Il colore dell'evento ha la priorità se è stato impostato",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Usa il colore del calendario"
 }

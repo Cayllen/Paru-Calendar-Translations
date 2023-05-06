@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Sélectionner le canal dans lequel on souhaite déplacer le calendrier actuel",
     "cpnhandler_link_unlinkGcal_success": "Ton compte Google a été dissocié avec succès de Paru. Utilise à nouveau **/paru link** pour lier à nouveau un compte.",
     "cmdhandler_unlink_google_btn_label": "Déconnecter le compte Google",
-    "create_cmd_modify_gcalcolor": "Activer/Désactiver l'affichage de la couleur de l'événement/calendrier Google-Calendar à côté de l'événement"
+    "create_cmd_modify_gcalcolor": "Activer/Désactiver l'affichage de la couleur de l'événement/calendrier Google-Calendar à côté de l'événement",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Utilise la couleur de l'événement",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Désactiver",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Utilise les deux. La couleur de l'événement est prioritaire si elle a été définie",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Utilise la couleur du calendrier"
 }

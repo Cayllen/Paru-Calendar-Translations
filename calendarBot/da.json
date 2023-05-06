@@ -139,5 +139,9 @@
     "create_cmd_modify_channel": "Vælg den kanal, du vil flytte den aktuelle kalender til",
     "cpnhandler_link_unlinkGcal_success": "Din Google-konto er blevet afmeldt fra Paru. Brug venligst **/paru-link** igen for at tilknytte en konto igen.",
     "cmdhandler_unlink_google_btn_label": "Fjern linket til Google-konto",
-    "create_cmd_modify_gcalcolor": "Aktiver/deaktivere visning af Google-Calendar begivenhed/kalenderfarve ved siden af begivenheden"
+    "create_cmd_modify_gcalcolor": "Aktiver/deaktivere visning af Google-Calendar begivenhed/kalenderfarve ved siden af begivenheden",
+    "create_cmd_modify_gcalcolor_choice_useevent": "Brug begivenhedens farve",
+    "create_cmd_modify_gcalcolor_choice_disabled": "Deaktiver",
+    "create_cmd_modify_gcalcolor_choice_useboth": "Brug begge dele. Farven på hændelsen har prioritet, hvis den er indstillet",
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Brug kalenderens farve"
 }
