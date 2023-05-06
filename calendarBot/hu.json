@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Válassza ki azt a csatornát, ahová az aktuális naptárat át szeretné helyezni",
     "cpnhandler_link_unlinkGcal_success": "A Google-fiókodat sikeresen leválasztottuk a Paruról. Kérjük, használja újra a **/paru linket** a fiók újbóli összekapcsolásához.",
     "cmdhandler_unlink_google_btn_label": "Google-fiók összekapcsolásának feloldása",
-    "create_cmd_modify_gcalcolor": "A Google-naptár esemény/naptár színének megjelenítése az esemény mellett engedélyezése/letiltása",
+    "create_cmd_modify_gcalcolor": "A Google-naptár esemény/naptár színének megjelenítése az esemény melletti megjelenítés beállítása",
     "create_cmd_modify_gcalcolor_choice_useevent": "Használja az esemény színét",
     "create_cmd_modify_gcalcolor_choice_disabled": "A  letiltása",
     "create_cmd_modify_gcalcolor_choice_useboth": "Használja mindkettőt. Az esemény színe elsőbbséget élvez, ha be van állítva",

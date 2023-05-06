@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Selecteer het kanaal waar je de huidige kalender naartoe wilt verplaatsen",
     "cpnhandler_link_unlinkGcal_success": "Je Google-account is succesvol ontkoppeld met Paru. Gebruik opnieuw **/paru link** om opnieuw een account te koppelen.",
     "cmdhandler_unlink_google_btn_label": "Google-account loskoppelen",
-    "create_cmd_modify_gcalcolor": "Inschakelen/uitschakelen dat de Google-Calendar evenement/kalenderkleur naast het evenement wordt getoond",
+    "create_cmd_modify_gcalcolor": "Configureer het tonen van de Google-Calendar gebeurtenis/kalenderkleur naast de gebeurtenis",
     "create_cmd_modify_gcalcolor_choice_useevent": "Gebruik de kleur van de gebeurtenis",
     "create_cmd_modify_gcalcolor_choice_disabled": "Schakel  uit",
     "create_cmd_modify_gcalcolor_choice_useboth": "Gebruik beide. De kleur van de gebeurtenis heeft prioriteit als die is ingesteld",

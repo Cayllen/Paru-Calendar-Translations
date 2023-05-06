@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Wähle den Kanal, in den du den aktuellen Kalender verschieben willst",
     "cpnhandler_link_unlinkGcal_success": "Dein Google-Konto wurde erfolgreich aus der Verknüpfung mit Paru entfernt. Bitte verwende **/paru link** erneut, um ein Konto erneut zu verknüpfen.",
     "cmdhandler_unlink_google_btn_label": "Google-Konto entkoppeln",
-    "create_cmd_modify_gcalcolor": "Aktiviere/Deaktiviere die Anzeige der Google-Calendar Ereignis-/Kalenderfarbe neben dem Ereignis",
+    "create_cmd_modify_gcalcolor": "Konfiguriere die Anzeige der Google-Calendar Veranstaltung/Kalenderfarbe neben der Veranstaltung",
     "create_cmd_modify_gcalcolor_choice_useevent": "Farbe des Ereignisses verwenden",
     "create_cmd_modify_gcalcolor_choice_disabled": "Deaktivieren",
     "create_cmd_modify_gcalcolor_choice_useboth": "Verwende beides. Die Farbe des Ereignisses hat Vorrang, wenn sie festgelegt wurde",

@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Wybierz kanał, na który chcesz przenieść bieżący kalendarz",
     "cpnhandler_link_unlinkGcal_success": "Twoje konto Google zostało pomyślnie odłączone od Paru. Użyj ponownie **paru link**, aby ponownie połączyć konto.",
     "cmdhandler_unlink_google_btn_label": "Odłącz konto Google",
-    "create_cmd_modify_gcalcolor": "Włączanie/wyłączanie pokazywania koloru wydarzenia/kalendarza Google obok wydarzenia",
+    "create_cmd_modify_gcalcolor": "Skonfiguruj wyświetlanie koloru wydarzenia/kalendarza Google-Calendar obok wydarzenia",
     "create_cmd_modify_gcalcolor_choice_useevent": "Użyj koloru wydarzenia",
     "create_cmd_modify_gcalcolor_choice_disabled": "Wyłącz ",
     "create_cmd_modify_gcalcolor_choice_useboth": "Użyj obu. Kolor wydarzenia ma pierwszeństwo, jeśli został ustawiony",

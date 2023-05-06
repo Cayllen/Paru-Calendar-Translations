@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Выберите канал, в который вы хотите переместить текущий календарь",
     "cpnhandler_link_unlinkGcal_success": "Твой аккаунт Google был успешно отвязан от Paru. Пожалуйста, используй **/paru link** снова, чтобы снова связать аккаунт.",
     "cmdhandler_unlink_google_btn_label": "Отвязать аккаунт Google",
-    "create_cmd_modify_gcalcolor": "Включить/выключить показ цвета события/календаря Google-календаря рядом с событием",
+    "create_cmd_modify_gcalcolor": "Настройте показ цвета события/календаря Google-Calendar рядом с событием",
     "create_cmd_modify_gcalcolor_choice_useevent": "Используй цвет события",
     "create_cmd_modify_gcalcolor_choice_disabled": "Отключить",
     "create_cmd_modify_gcalcolor_choice_useboth": "Используй оба варианта. Цвет события имеет приоритет, если он был установлен",

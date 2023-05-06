@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Selectați canalul în care doriți să mutați calendarul curent",
     "cpnhandler_link_unlinkGcal_success": "Contul dvs. Google a fost deconectat cu succes de la Paru. Vă rugăm să folosiți din nou **/paru link** pentru a lega din nou un cont.",
     "cmdhandler_unlink_google_btn_label": "Deconectați contul Google",
-    "create_cmd_modify_gcalcolor": "Activați/dezactivați afișarea culorii evenimentului/calendarului Google-Calendar în dreptul evenimentului",
+    "create_cmd_modify_gcalcolor": "Configurați afișarea culorii evenimentului/calendarului Google-Calendar în dreptul evenimentului",
     "create_cmd_modify_gcalcolor_choice_useevent": "Utilizați culoarea evenimentului",
     "create_cmd_modify_gcalcolor_choice_disabled": "Dezactivați",
     "create_cmd_modify_gcalcolor_choice_useboth": "Folosiți ambele. Culoarea evenimentului are prioritate dacă a fost setată",

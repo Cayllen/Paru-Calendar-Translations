@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Valitse kanava, johon haluat siirtää nykyisen kalenterin",
     "cpnhandler_link_unlinkGcal_success": "Google-tilisi on onnistuneesti yhdistetty Parun kanssa. Käytä **/paru-linkkiä** uudelleen linkittääksesi tilin uudelleen.",
     "cmdhandler_unlink_google_btn_label": "Google-tilin linkityksen poistaminen",
-    "create_cmd_modify_gcalcolor": "Google-kalenterin tapahtuman/kalenterin värin näyttäminen tapahtuman vieressä otetaan käyttöön tai poistetaan käytöstä",
+    "create_cmd_modify_gcalcolor": "Määritä Google-kalenterin tapahtuman/kalenterin värin näyttäminen tapahtuman vieressä",
     "create_cmd_modify_gcalcolor_choice_useevent": "Käytä tapahtuman väriä",
     "create_cmd_modify_gcalcolor_choice_disabled": "Poista käytöstä",
     "create_cmd_modify_gcalcolor_choice_useboth": "Käytä molempia. Tapahtuman väri on etusijalla, jos se on asetettu",

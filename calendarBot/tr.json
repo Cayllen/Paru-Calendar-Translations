@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Geçerli takvimi taşımak istediğiniz kanalı seçin",
     "cpnhandler_link_unlinkGcal_success": "Google hesabınızın Paru ile bağlantısı başarıyla kaldırıldı. Bir hesabı tekrar bağlamak için lütfen **/paru link**'i tekrar kullanın.",
     "cmdhandler_unlink_google_btn_label": "Google hesabının bağlantısını kaldırın",
-    "create_cmd_modify_gcalcolor": "Etkinliğin yanında Google-Calendar etkinlik/takvim rengini göstermeyi Etkinleştir/Devre Dışı Bırak",
+    "create_cmd_modify_gcalcolor": "Etkinliğin yanında Google-Calendar etkinlik/takvim renginin gösterilmesini yapılandırma",
     "create_cmd_modify_gcalcolor_choice_useevent": "Etkinlik rengini kullanın",
     "create_cmd_modify_gcalcolor_choice_disabled": "Devre dışı bırak",
     "create_cmd_modify_gcalcolor_choice_useboth": "İkisini de kullanın. Olayın rengi ayarlanmışsa önceliğe sahiptir",

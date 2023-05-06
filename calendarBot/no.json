@@ -139,7 +139,7 @@
     "create_cmd_modify_channel": "Velg kanalen du vil flytte den gjeldende kalenderen til",
     "cpnhandler_link_unlinkGcal_success": "Google-kontoen din ble koblet fra Paru. Bruk **/paru link** igjen for å koble til en konto på nytt.",
     "cmdhandler_unlink_google_btn_label": "Koble fra Google-konto",
-    "create_cmd_modify_gcalcolor": "Aktivere/deaktivere visning av Google-Calendar hendelsen/kalenderfargen ved siden av hendelsen",
+    "create_cmd_modify_gcalcolor": "Konfigurer visning av Google-Calendar-hendelse/kalenderfarge ved siden av hendelsen",
     "create_cmd_modify_gcalcolor_choice_useevent": "Bruk farge på hendelsen",
     "create_cmd_modify_gcalcolor_choice_disabled": "Deaktiver",
     "create_cmd_modify_gcalcolor_choice_useboth": "Bruk begge deler. Fargen på hendelsen har prioritet hvis den er angitt",
