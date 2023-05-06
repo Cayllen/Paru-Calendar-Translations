@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Bruk farge på hendelsen",
     "create_cmd_modify_gcalcolor_choice_disabled": "Deaktiver",
     "create_cmd_modify_gcalcolor_choice_useboth": "Bruk begge deler. Fargen på hendelsen har prioritet hvis den er angitt",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Bruk farge på kalenderen"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Bruk farge på kalenderen",
+    "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - HJELP MENY**     ▫️",
+    "create_cmd_help": "Hjelp-menyen for Paru ❯❮ Kalender"
 }

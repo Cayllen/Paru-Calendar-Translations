@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "使用事件的颜色",
     "create_cmd_modify_gcalcolor_choice_disabled": "禁用",
     "create_cmd_modify_gcalcolor_choice_useboth": "同时使用。如果事件的颜色已被设置，则其具有优先权",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色",
+    "cmdhandler_help_title": "▫️     **Paru ❮ Calendar - HELP MENU**     ▫️",
+    "create_cmd_help": "帕鲁的帮助菜单 ❮日历"
 }

@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "이벤트 색상 사용",
     "create_cmd_modify_gcalcolor_choice_disabled": "비활성화",
     "create_cmd_modify_gcalcolor_choice_useboth": "둘 다 사용합니다. 이벤트 색상이 설정된 경우 이벤트 색상이 우선합니다",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "캘린더 색상 사용"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "캘린더 색상 사용",
+    "cmdhandler_help_title": "▫️     **파루 ❯❮ 캘린더 - 도움말 메뉴**     ▫️ ▫️",
+    "create_cmd_help": "Paru 도움말 메뉴 ❯❮ 캘린더"
 }

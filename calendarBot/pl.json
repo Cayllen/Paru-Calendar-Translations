@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Użyj koloru wydarzenia",
     "create_cmd_modify_gcalcolor_choice_disabled": "Wyłącz ",
     "create_cmd_modify_gcalcolor_choice_useboth": "Użyj obu. Kolor wydarzenia ma pierwszeństwo, jeśli został ustawiony",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Użyj koloru kalendarza"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Użyj koloru kalendarza",
+    "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendarz - MENU POMOCY**     ▫️",
+    "create_cmd_help": "Menu pomocy dla Paru ❯❮ Kalendarz"
 }

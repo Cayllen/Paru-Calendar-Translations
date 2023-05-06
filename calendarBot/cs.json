@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Použít barvu události",
     "create_cmd_modify_gcalcolor_choice_disabled": "Zakázat",
     "create_cmd_modify_gcalcolor_choice_useboth": "Použijte obojí. Barva události má přednost, pokud byla nastavena",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Použití barvy kalendáře"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Použití barvy kalendáře",
+    "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendář - MENU NÁPOVĚDA**     ▫️",
+    "create_cmd_help": "Nabídka nápovědy pro Paru ❯❮ Kalendář"
 }

@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Naudoti įvykio spalvą",
     "create_cmd_modify_gcalcolor_choice_disabled": "Išjungti",
     "create_cmd_modify_gcalcolor_choice_useboth": "Naudokite abu. Įvykio spalva turi pirmenybę, jei ji buvo nustatyta",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą",
+    "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendorius - PAGALBOS MENIU**     ▫️",
+    "create_cmd_help": "Paru pagalbos meniu ❯❮ Kalendorius"
 }

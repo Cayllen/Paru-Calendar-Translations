@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "イベントカラーを使用",
     "create_cmd_modify_gcalcolor_choice_disabled": "無効にする",
     "create_cmd_modify_gcalcolor_choice_useboth": "両方を使用します。イベントの色が設定されている場合は優先される",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う",
+    "cmdhandler_help_title": "▫️     **ぱる❮カレンダー - HELP MENU**     ▫️",
+    "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。"
 }

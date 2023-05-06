@@ -143,5 +143,7 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Gunakan warna acara",
     "create_cmd_modify_gcalcolor_choice_disabled": "Nonaktifkan",
     "create_cmd_modify_gcalcolor_choice_useboth": "Gunakan keduanya. Warna acara memiliki prioritas jika telah ditetapkan",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender",
+    "cmdhandler_help_title": "▫️     **Kalender Paru ❯❮ - MENU BANTUAN**     ▫️",
+    "create_cmd_help": "Menu bantuan untuk Kalender Paru ❯❮"
 }
