@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Utiliza ambos. El color del evento tiene prioridad si se ha establecido",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Utiliza el color del calendario",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Calendario - MENÚ DE AYUDA**     ▫️",
-    "create_cmd_help": "Menú de ayuda de Paru ❯❮ Calendario"
+    "create_cmd_help": "Menú de ayuda de Paru ❯❮ Calendario",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Mostrar el color del evento más reciente como color incrustado (sólo Google Calendar. Activar mostrar 'colores gcal')"
 }

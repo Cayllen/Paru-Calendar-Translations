@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Χρησιμοποιήστε και τα δύο. Το χρώμα του συμβάντος έχει προτεραιότητα αν έχει οριστεί",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Χρησιμοποιήστε το χρώμα του ημερολογίου",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Ημερολόγιο - ΜΕΝΟΥ ΒΟΗΘΕΙΑΣ**     ▫️",
-    "create_cmd_help": "Μενού βοήθειας για το Paru ❯❮ Ημερολόγιο"
+    "create_cmd_help": "Μενού βοήθειας για το Paru ❯❮ Ημερολόγιο",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Εμφάνιση του πιο πρόσφατου χρώματος συμβάντος ως χρώμα ενσωμάτωσης (μόνο για το Ημερολόγιο Google. Ενεργοποιήστε την εμφάνιση 'gcal colors')"
 }

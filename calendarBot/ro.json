@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Folosiți ambele. Culoarea evenimentului are prioritate dacă a fost setată",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Utilizați culoarea calendarului",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Calendar - MENIUL DE AJUTOR**     ▫️",
-    "create_cmd_help": "Meniul de ajutor pentru Paru ❯❮ Calendar"
+    "create_cmd_help": "Meniul de ajutor pentru Paru ❯❮ Calendar",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Afișați culoarea celui mai recent eveniment ca și culoare de încorporare (numai pentru Google Calendar. Activați afișarea \"gcal colors\")"
 }

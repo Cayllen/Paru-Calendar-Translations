@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "同时使用。如果事件的颜色已被设置，则其具有优先权",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色",
     "cmdhandler_help_title": "▫️     **Paru ❮ Calendar - HELP MENU**     ▫️",
-    "create_cmd_help": "帕鲁的帮助菜单 ❮日历"
+    "create_cmd_help": "帕鲁的帮助菜单 ❮日历",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ 将最近的事件颜色显示为嵌入颜色（只限于谷歌日历，启用显示 \"GCAL颜色\"）。"
 }

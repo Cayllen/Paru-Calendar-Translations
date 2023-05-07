@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Käytä molempia. Tapahtuman väri on etusijalla, jos se on asetettu",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Käytä kalenterin väriä",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalenteri - HELP MENU**     ▫️",
-    "create_cmd_help": "Parun ohjevalikko ❯❮ Kalenteri"
+    "create_cmd_help": "Parun ohjevalikko ❯❮ Kalenteri",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Näytä viimeisimmän tapahtuman väri upotusvärinä (vain Google-kalenteri. Ota käyttöön Näytä 'gcal-värit')"
 }

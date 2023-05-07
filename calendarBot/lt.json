@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Naudokite abu. Įvykio spalva turi pirmenybę, jei ji buvo nustatyta",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendorius - PAGALBOS MENIU**     ▫️",
-    "create_cmd_help": "Paru pagalbos meniu ❯❮ Kalendorius"
+    "create_cmd_help": "Paru pagalbos meniu ❯❮ Kalendorius",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Naujausio įvykio spalvą rodyti kaip įterptą spalvą (tik \"Google\" kalendoriuje. Įgalinkite rodyti \"gcal colors\")"
 }

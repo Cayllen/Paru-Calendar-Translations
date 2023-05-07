@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Verwende beides. Die Farbe des Ereignisses hat Vorrang, wenn sie festgelegt wurde",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Farbe des Kalenders verwenden",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - HELP MENU**     ▫️",
-    "create_cmd_help": "Hilfe-Menü für Paru ❯❮ Kalender"
+    "create_cmd_help": "Hilfe-Menü für Paru ❯❮ Kalender",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Die Farbe des letzten Ereignisses als Einbettungsfarbe anzeigen (nur Google Kalender. Aktiviere \"gcal colors\" anzeigen)"
 }

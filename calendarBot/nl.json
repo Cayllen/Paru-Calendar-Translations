@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Gebruik beide. De kleur van de gebeurtenis heeft prioriteit als die is ingesteld",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Gebruik de kleur van de kalender",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - HELP MENU**     ▫️",
-    "create_cmd_help": "Help menu voor Paru ❯❮ Kalender"
+    "create_cmd_help": "Help menu voor Paru ❯❮ Kalender",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Toon de kleur van de meest recente gebeurtenis als insluitkleur (alleen Google Agenda. Schakel 'gcal-kleuren' in)"
 }

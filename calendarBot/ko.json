@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "둘 다 사용합니다. 이벤트 색상이 설정된 경우 이벤트 색상이 우선합니다",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "캘린더 색상 사용",
     "cmdhandler_help_title": "▫️     **파루 ❯❮ 캘린더 - 도움말 메뉴**     ▫️ ▫️",
-    "create_cmd_help": "Paru 도움말 메뉴 ❯❮ 캘린더"
+    "create_cmd_help": "Paru 도움말 메뉴 ❯❮ 캘린더",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ 가장 최근 이벤트 색상을 임베드 색상으로 표시(Google 캘린더만 해당. 'gcal 색상 표시' 사용 설정)"
 }

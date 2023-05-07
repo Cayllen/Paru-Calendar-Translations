@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Brug begge dele. Farven på hændelsen har prioritet, hvis den er indstillet",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Brug kalenderens farve",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - MENU HJÆLP**     ▫️",
-    "create_cmd_help": "Hjælpemenu til Paru ❯❮ Kalender"
+    "create_cmd_help": "Hjælpemenu til Paru ❯❮ Kalender",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Vis den seneste begivenhedsfarve som indlejringsfarve (kun Google Calendar. Aktiver vis \"gcal farver\")"
 }

@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Használja mindkettőt. Az esemény színe elsőbbséget élvez, ha be van állítva",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Használja a naptár színét",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Naptár - SÚGÓMENÜ**     ▫️",
-    "create_cmd_help": "Súgó menü a Paru ❯❮ Naptárhoz"
+    "create_cmd_help": "Súgó menü a Paru ❯❮ Naptárhoz",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ A legfrissebb esemény színének megjelenítése beágyazási színként (csak Google Calendar. Enable show 'gcal colors')"
 }

@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "両方を使用します。イベントの色が設定されている場合は優先される",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う",
     "cmdhandler_help_title": "▫️     **ぱる❮カレンダー - HELP MENU**     ▫️",
-    "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。"
+    "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ 最新のイベントカラーを埋め込みカラーとして表示する（Googleカレンダーのみ、「gcal colors」の表示を有効にする）"
 }

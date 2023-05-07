@@ -145,5 +145,6 @@
     "create_cmd_modify_gcalcolor_choice_useboth": "Gunakan keduanya. Warna acara memiliki prioritas jika telah ditetapkan",
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender",
     "cmdhandler_help_title": "▫️     **Kalender Paru ❯❮ - MENU BANTUAN**     ▫️",
-    "create_cmd_help": "Menu bantuan untuk Kalender Paru ❯❮"
+    "create_cmd_help": "Menu bantuan untuk Kalender Paru ❯❮",
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Tampilkan warna acara terbaru sebagai warna sematan (hanya Kalender Google. Aktifkan tampilkan 'warna gcal')"
 }
