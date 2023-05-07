@@ -47,6 +47,7 @@
   "create_cmd_modify_location": "Enable/Disable showing the location of the event",
   "create_cmd_modify_sync2discord": "Enable/Disable syncing events from Paru to the Discord internal event system",
   "create_cmd_modify_sync2paru": "Enable/Disable syncing events from the Discord internal event system to Paru",
+  "create_cmd_modify_recentEventColor2Embed": "Enable/Disable showing the most recent event color as embed color (only for Google Calendar events)",
   "create_cmd_modify_gcalcolor": "Configure showing the Google-Calendar event/calendar color next to the event",
   "create_cmd_modify_gcalcolor_choice_disabled": "Disable",
   "create_cmd_modify_gcalcolor_choice_usecalendar": "Use color of calendar",
