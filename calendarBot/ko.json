@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **파루 ❯❮ 캘린더 - 도움말 메뉴**     ▫️ ▫️",
     "create_cmd_help": "Paru 도움말 메뉴 ❯❮ 캘린더",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 가장 최근 이벤트 색상을 임베드 색상으로 표시(Google 캘린더만 해당. 'gcal 색상 표시' 사용 설정)",
-    "oauthh_token_error": "Google 계정을 연결하는 동안 오류가 발생했습니다. Paru 링크를 다시 사용하여 Google 계정을 다시 연결해 보세요"
+    "oauthh_token_error": "Google 계정을 연결하는 동안 오류가 발생했습니다. Paru 링크를 다시 사용하여 Google 계정을 다시 연결해 보세요",
+    "create_cmd_modify_groupEvents": "일/월/연도별 이벤트 그룹화 활성화/비활성화"
 }

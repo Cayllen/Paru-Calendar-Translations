@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - MENU HJÆLP**     ▫️",
     "create_cmd_help": "Hjælpemenu til Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Vis den seneste begivenhedsfarve som indlejringsfarve (kun Google Calendar. Aktiver vis \"gcal farver\")",
-    "oauthh_token_error": "Der opstod en fejl i forbindelse med sammenkoblingen af din Google-konto. Brug venligst /paru-linket igen, og prøv at forbinde din Google-konto igen"
+    "oauthh_token_error": "Der opstod en fejl i forbindelse med sammenkoblingen af din Google-konto. Brug venligst /paru-linket igen, og prøv at forbinde din Google-konto igen",
+    "create_cmd_modify_groupEvents": "Aktiver/deaktiver gruppering af begivenheder efter dag/måned/år"
 }

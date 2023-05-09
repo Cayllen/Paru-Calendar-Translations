@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - HELP MENU**     ▫️",
     "create_cmd_help": "Help menu voor Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Toon de kleur van de meest recente gebeurtenis als insluitkleur (alleen Google Agenda. Schakel 'gcal-kleuren' in)",
-    "oauthh_token_error": "Er is een fout opgetreden bij het koppelen van je Google-account. Gebruik /paru link opnieuw en probeer je Google-account opnieuw te koppelen"
+    "oauthh_token_error": "Er is een fout opgetreden bij het koppelen van je Google-account. Gebruik /paru link opnieuw en probeer je Google-account opnieuw te koppelen",
+    "create_cmd_modify_groupEvents": "Gebeurtenissen groeperen per dag/maand/jaar in-/uitschakelen"
 }

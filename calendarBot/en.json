@@ -141,9 +141,9 @@
   "cmdhandler_link_google_btn_label": "Link Google Calendar",
   "cmdhandler_unlink_google_btn_label": "Unlink Google account",
   "cmdhandler_link_modify_btn_label": "Modify connected calendars",
+  "create_cmd_modify_groupEvents": "Enable/Disable grouping events by day/month/year",
   "cmdhandler_link_success": "Please select whether you want to connect to a Google Calendar and/or an external calendar (via .ics link - see: https://paru.app/calendar/manual/)",
   "oauthh_noscope_error": "Please make sure you select all necessary scopes. Please try to connect your Google Account again",
-    "oauthh_token_error": "There was an error linking your Google Account. Please use /paru link again and try to connect your Google Account again",
-
+  "oauthh_token_error": "There was an error linking your Google Account. Please use /paru link again and try to connect your Google Account again",
   "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced."
 }

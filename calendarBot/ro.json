@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Calendar - MENIUL DE AJUTOR**     ▫️",
     "create_cmd_help": "Meniul de ajutor pentru Paru ❯❮ Calendar",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Afișați culoarea celui mai recent eveniment ca și culoare de încorporare (numai pentru Google Calendar. Activați afișarea \"gcal colors\")",
-    "oauthh_token_error": "S-a produs o eroare la conectarea contului Google. Vă rugăm să folosiți din nou link-ul /paru și să încercați să vă conectați din nou contul Google"
+    "oauthh_token_error": "S-a produs o eroare la conectarea contului Google. Vă rugăm să folosiți din nou link-ul /paru și să încercați să vă conectați din nou contul Google",
+    "create_cmd_modify_groupEvents": "Activați/dezactivați gruparea evenimentelor în funcție de zi/lună/an"
 }

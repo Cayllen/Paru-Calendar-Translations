@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalender - HELP MENU**     ▫️",
     "create_cmd_help": "Hilfe-Menü für Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Die Farbe des letzten Ereignisses als Einbettungsfarbe anzeigen (nur Google Kalender. Aktiviere \"gcal colors\" anzeigen)",
-    "oauthh_token_error": "Bei der Verknüpfung deines Google-Kontos ist ein Fehler aufgetreten. Bitte verwende den /paru-Link erneut und versuche erneut, dein Google-Konto zu verbinden"
+    "oauthh_token_error": "Bei der Verknüpfung deines Google-Kontos ist ein Fehler aufgetreten. Bitte verwende den /paru-Link erneut und versuche erneut, dein Google-Konto zu verbinden",
+    "create_cmd_modify_groupEvents": "Aktiviere/Deaktiviere die Gruppierung von Ereignissen nach Tag/Monat/Jahr"
 }

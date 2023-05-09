@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendář - MENU NÁPOVĚDA**     ▫️",
     "create_cmd_help": "Nabídka nápovědy pro Paru ❯❮ Kalendář",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Zobrazit barvu nejnovější události jako barvu vložení (pouze Kalendář Google. Povolit zobrazení 'gcal colors')",
-    "oauthh_token_error": "Při propojování vašeho účtu Google došlo k chybě. Použijte prosím znovu odkaz /paru a zkuste znovu připojit svůj účet Google"
+    "oauthh_token_error": "Při propojování vašeho účtu Google došlo k chybě. Použijte prosím znovu odkaz /paru a zkuste znovu připojit svůj účet Google",
+    "create_cmd_modify_groupEvents": "Povolení/zakázání seskupování událostí podle dne/měsíce/roku"
 }

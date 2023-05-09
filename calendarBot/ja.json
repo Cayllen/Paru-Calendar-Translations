@@ -147,5 +147,6 @@
     "cmdhandler_help_title": "▫️     **ぱる❮カレンダー - HELP MENU**     ▫️",
     "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 最新のイベントカラーを埋め込みカラーとして表示する（Googleカレンダーのみ、「gcal colors」の表示を有効にする）",
-    "oauthh_token_error": "Google アカウントのリンクにエラーが発生しました。もう一度/paruリンクを使用して、Googleアカウントの接続を試してください。"
+    "oauthh_token_error": "Google アカウントのリンクにエラーが発生しました。もう一度/paruリンクを使用して、Googleアカウントの接続を試してください。",
+    "create_cmd_modify_groupEvents": "日／月／年によるイベントのグループ化の有効／無効化"
 }
