@@ -140,7 +140,7 @@
   "cmdhandler_link_modify_btn_label": "Modify connected calendars",
   "cmdhandler_link_success": "Please select whether you want to connect to a Google Calendar and/or an external calendar (via .ics link - see: https://paru.app/calendar/manual/)",
   "oauthh_noscope_error": "Please make sure you select all necessary scopes. Please try to connect your Google Account again",
-  "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced.",
+  "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced",
   "eventDayGroup_today": "Today",
   "eventDayGroup_tomorrow": "Tomorrow",
   "eventDayGroup_restofweek": "Rest of the week",
