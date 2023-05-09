@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "イベントカラーを使用",
     "create_cmd_modify_gcalcolor_choice_disabled": "無効にする",
     "create_cmd_modify_gcalcolor_choice_useboth": "両方を使用します。イベントの色が設定されている場合は優先される",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "カレンダーの色を使う",
+    "eventDayGroup_restoftheyear": "残りの期間",
+    "eventDayGroup_restofmonth": "今月の残り",
+    "eventDayGroup_thereafter": "以後",
+    "eventDayGroup_nextweek": "次の週",
+    "eventDayGroup_tomorrow": "明日",
+    "eventDayGroup_today": "本日",
+    "eventDayGroup_restofweek": "週休二日制",
+    "eventDayGroup_nextmonth": "来月",
+    "eventDayGroup_nextyear": "来年は"
 }

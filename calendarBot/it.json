@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Usa il colore dell'evento",
     "create_cmd_modify_gcalcolor_choice_disabled": "Disattivare",
     "create_cmd_modify_gcalcolor_choice_useboth": "Utilizza entrambi. Il colore dell'evento ha la priorità se è stato impostato",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Usa il colore del calendario"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Usa il colore del calendario",
+    "eventDayGroup_restoftheyear": "Resto dell'anno",
+    "eventDayGroup_restofmonth": "Il resto del mese",
+    "eventDayGroup_thereafter": "In seguito",
+    "eventDayGroup_nextweek": "La prossima settimana",
+    "eventDayGroup_tomorrow": "Domani",
+    "eventDayGroup_today": "Oggi",
+    "eventDayGroup_restofweek": "Il resto della settimana",
+    "eventDayGroup_nextmonth": "Il prossimo mese",
+    "eventDayGroup_nextyear": "L'anno prossimo"
 }

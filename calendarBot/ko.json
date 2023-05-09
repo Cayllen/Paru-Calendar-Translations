@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "이벤트 색상 사용",
     "create_cmd_modify_gcalcolor_choice_disabled": "비활성화",
     "create_cmd_modify_gcalcolor_choice_useboth": "둘 다 사용합니다. 이벤트 색상이 설정된 경우 이벤트 색상이 우선합니다",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "캘린더 색상 사용"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "캘린더 색상 사용",
+    "eventDayGroup_restoftheyear": "연중 나머지 기간",
+    "eventDayGroup_restofmonth": "나머지 한 달",
+    "eventDayGroup_thereafter": "그 이후",
+    "eventDayGroup_nextweek": "다음 주",
+    "eventDayGroup_tomorrow": "내일",
+    "eventDayGroup_today": "오늘",
+    "eventDayGroup_restofweek": "나머지 주",
+    "eventDayGroup_nextmonth": "다음 달",
+    "eventDayGroup_nextyear": "내년"
 }

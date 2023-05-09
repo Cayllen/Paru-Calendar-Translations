@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "使用事件的颜色",
     "create_cmd_modify_gcalcolor_choice_disabled": "禁用",
     "create_cmd_modify_gcalcolor_choice_useboth": "同时使用。如果事件的颜色已被设置，则其具有优先权",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色",
+    "eventDayGroup_restoftheyear": "本年度其余时间",
+    "eventDayGroup_restofmonth": "本月余下时间",
+    "eventDayGroup_thereafter": "此后",
+    "eventDayGroup_nextweek": "下个星期",
+    "eventDayGroup_tomorrow": "明天",
+    "eventDayGroup_today": "今天",
+    "eventDayGroup_restofweek": "本周其他时间",
+    "eventDayGroup_nextmonth": "下个月",
+    "eventDayGroup_nextyear": "下一年"
 }

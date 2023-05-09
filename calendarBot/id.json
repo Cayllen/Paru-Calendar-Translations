@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Gunakan warna acara",
     "create_cmd_modify_gcalcolor_choice_disabled": "Nonaktifkan",
     "create_cmd_modify_gcalcolor_choice_useboth": "Gunakan keduanya. Warna acara memiliki prioritas jika telah ditetapkan",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gunakan warna kalender",
+    "eventDayGroup_restoftheyear": "Sisa tahun ini",
+    "eventDayGroup_restofmonth": "Sisa bulan ini",
+    "eventDayGroup_thereafter": "Setelah itu",
+    "eventDayGroup_nextweek": "Minggu depan",
+    "eventDayGroup_tomorrow": "Besok",
+    "eventDayGroup_today": "Hari ini",
+    "eventDayGroup_restofweek": "Sisa minggu ini",
+    "eventDayGroup_nextmonth": "Bulan depan",
+    "eventDayGroup_nextyear": "Tahun depan"
 }

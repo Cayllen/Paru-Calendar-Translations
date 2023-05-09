@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Gebruik de kleur van de gebeurtenis",
     "create_cmd_modify_gcalcolor_choice_disabled": "Schakel  uit",
     "create_cmd_modify_gcalcolor_choice_useboth": "Gebruik beide. De kleur van de gebeurtenis heeft prioriteit als die is ingesteld",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gebruik de kleur van de kalender"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Gebruik de kleur van de kalender",
+    "eventDayGroup_restoftheyear": "Rest van het jaar",
+    "eventDayGroup_restofmonth": "Rest van de maand",
+    "eventDayGroup_thereafter": "Daarna",
+    "eventDayGroup_nextweek": "Volgende week",
+    "eventDayGroup_tomorrow": "Morgen",
+    "eventDayGroup_today": "Vandaag",
+    "eventDayGroup_restofweek": "Rest van de week",
+    "eventDayGroup_nextmonth": "Volgende maand",
+    "eventDayGroup_nextyear": "Volgend jaar"
 }

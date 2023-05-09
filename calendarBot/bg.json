@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Използване на цвета на събитието",
     "create_cmd_modify_gcalcolor_choice_disabled": "Деактивиране на",
     "create_cmd_modify_gcalcolor_choice_useboth": "Използвайте и двете. Цветът на събитието има приоритет, ако е зададен",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Използване на цвета на календара"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Използване на цвета на календара",
+    "eventDayGroup_restoftheyear": "Останалата част от годината",
+    "eventDayGroup_restofmonth": "Останалата част от месеца",
+    "eventDayGroup_thereafter": "След това",
+    "eventDayGroup_nextweek": "Следващата седмица",
+    "eventDayGroup_tomorrow": "Утре",
+    "eventDayGroup_today": "Днес",
+    "eventDayGroup_restofweek": "Останалата част от седмицата",
+    "eventDayGroup_nextmonth": "Следващият месец",
+    "eventDayGroup_nextyear": "Следващата година"
 }

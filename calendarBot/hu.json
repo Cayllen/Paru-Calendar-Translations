@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Használja az esemény színét",
     "create_cmd_modify_gcalcolor_choice_disabled": "A  letiltása",
     "create_cmd_modify_gcalcolor_choice_useboth": "Használja mindkettőt. Az esemény színe elsőbbséget élvez, ha be van állítva",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Használja a naptár színét"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Használja a naptár színét",
+    "eventDayGroup_restoftheyear": "Az év hátralévő része",
+    "eventDayGroup_restofmonth": "A hónap hátralévő része",
+    "eventDayGroup_thereafter": "Ezt követően",
+    "eventDayGroup_nextweek": "Jövő héten",
+    "eventDayGroup_tomorrow": "Holnap",
+    "eventDayGroup_today": "Ma",
+    "eventDayGroup_restofweek": "A hét hátralévő része",
+    "eventDayGroup_nextmonth": "A következő hónapban",
+    "eventDayGroup_nextyear": "Jövőre"
 }

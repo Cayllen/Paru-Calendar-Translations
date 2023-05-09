@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Utilizați culoarea evenimentului",
     "create_cmd_modify_gcalcolor_choice_disabled": "Dezactivați",
     "create_cmd_modify_gcalcolor_choice_useboth": "Folosiți ambele. Culoarea evenimentului are prioritate dacă a fost setată",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Utilizați culoarea calendarului"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Utilizați culoarea calendarului",
+    "eventDayGroup_restoftheyear": "Restul anului",
+    "eventDayGroup_restofmonth": "Restul lunii",
+    "eventDayGroup_thereafter": "Ulterior,",
+    "eventDayGroup_nextweek": "Săptămâna viitoare",
+    "eventDayGroup_tomorrow": "Mâine",
+    "eventDayGroup_today": "Astăzi",
+    "eventDayGroup_restofweek": "Restul săptămânii",
+    "eventDayGroup_nextmonth": "Luna viitoare",
+    "eventDayGroup_nextyear": "Anul viitor"
 }

@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Etkinlik rengini kullanın",
     "create_cmd_modify_gcalcolor_choice_disabled": "Devre dışı bırak",
     "create_cmd_modify_gcalcolor_choice_useboth": "İkisini de kullanın. Olayın rengi ayarlanmışsa önceliğe sahiptir",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Takvim rengini kullanın"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Takvim rengini kullanın",
+    "eventDayGroup_restoftheyear": "Yılın geri kalanı",
+    "eventDayGroup_restofmonth": "Ayın geri kalanı",
+    "eventDayGroup_thereafter": "Bundan sonra",
+    "eventDayGroup_nextweek": "Gelecek hafta",
+    "eventDayGroup_tomorrow": "Yarın",
+    "eventDayGroup_today": "Bugün",
+    "eventDayGroup_restofweek": "Haftanın geri kalanı",
+    "eventDayGroup_nextmonth": "Gelecek ay",
+    "eventDayGroup_nextyear": "Gelecek yıl"
 }

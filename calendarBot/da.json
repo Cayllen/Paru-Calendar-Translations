@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Brug begivenhedens farve",
     "create_cmd_modify_gcalcolor_choice_disabled": "Deaktiver",
     "create_cmd_modify_gcalcolor_choice_useboth": "Brug begge dele. Farven på hændelsen har prioritet, hvis den er indstillet",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Brug kalenderens farve"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Brug kalenderens farve",
+    "eventDayGroup_restoftheyear": "Resten af året",
+    "eventDayGroup_restofmonth": "Resten af måneden",
+    "eventDayGroup_thereafter": "Herefter",
+    "eventDayGroup_nextweek": "Næste uge",
+    "eventDayGroup_tomorrow": "I morgen",
+    "eventDayGroup_today": "I dag",
+    "eventDayGroup_restofweek": "Resten af ugen",
+    "eventDayGroup_nextmonth": "Næste måned",
+    "eventDayGroup_nextyear": "Næste år"
 }

@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Naudoti įvykio spalvą",
     "create_cmd_modify_gcalcolor_choice_disabled": "Išjungti",
     "create_cmd_modify_gcalcolor_choice_useboth": "Naudokite abu. Įvykio spalva turi pirmenybę, jei ji buvo nustatyta",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Naudokite kalendoriaus spalvą",
+    "eventDayGroup_restoftheyear": "Likusi metų dalis",
+    "eventDayGroup_restofmonth": "Likusi mėnesio dalis",
+    "eventDayGroup_thereafter": "Vėliau",
+    "eventDayGroup_nextweek": "Kitą savaitę",
+    "eventDayGroup_tomorrow": "Rytoj",
+    "eventDayGroup_today": "Šiandien",
+    "eventDayGroup_restofweek": "Likusi savaitės dalis",
+    "eventDayGroup_nextmonth": "Kitą mėnesį",
+    "eventDayGroup_nextyear": "Kitais metais"
 }

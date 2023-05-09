@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Använd färgen på evenemanget",
     "create_cmd_modify_gcalcolor_choice_disabled": "Inaktivera",
     "create_cmd_modify_gcalcolor_choice_useboth": "Använd båda. Händelsens färg har prioritet om den har ställts in",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Använd kalenderns färg"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Använd kalenderns färg",
+    "eventDayGroup_restoftheyear": "Resten av året",
+    "eventDayGroup_restofmonth": "Resten av månaden",
+    "eventDayGroup_thereafter": "Därefter",
+    "eventDayGroup_nextweek": "Nästa vecka",
+    "eventDayGroup_tomorrow": "I morgon",
+    "eventDayGroup_today": "Idag",
+    "eventDayGroup_restofweek": "Resten av veckan",
+    "eventDayGroup_nextmonth": "Nästa månad",
+    "eventDayGroup_nextyear": "Nästa år"
 }

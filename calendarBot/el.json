@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Χρησιμοποιήστε το χρώμα της εκδήλωσης",
     "create_cmd_modify_gcalcolor_choice_disabled": "Απενεργοποίηση",
     "create_cmd_modify_gcalcolor_choice_useboth": "Χρησιμοποιήστε και τα δύο. Το χρώμα του συμβάντος έχει προτεραιότητα αν έχει οριστεί",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Χρησιμοποιήστε το χρώμα του ημερολογίου"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Χρησιμοποιήστε το χρώμα του ημερολογίου",
+    "eventDayGroup_restoftheyear": "Υπόλοιπο του έτους",
+    "eventDayGroup_restofmonth": "Υπόλοιπο του μήνα",
+    "eventDayGroup_thereafter": "Στη συνέχεια",
+    "eventDayGroup_nextweek": "Την επόμενη εβδομάδα",
+    "eventDayGroup_tomorrow": "Αύριο",
+    "eventDayGroup_today": "Σήμερα",
+    "eventDayGroup_restofweek": "Υπόλοιπο της εβδομάδας",
+    "eventDayGroup_nextmonth": "Τον επόμενο μήνα",
+    "eventDayGroup_nextyear": "Το επόμενο έτος"
 }

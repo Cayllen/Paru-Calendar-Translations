@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Použít barvu události",
     "create_cmd_modify_gcalcolor_choice_disabled": "Zakázat",
     "create_cmd_modify_gcalcolor_choice_useboth": "Použijte obojí. Barva události má přednost, pokud byla nastavena",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Použití barvy kalendáře"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Použití barvy kalendáře",
+    "eventDayGroup_restoftheyear": "Zbytek roku",
+    "eventDayGroup_restofmonth": "Zbytek měsíce",
+    "eventDayGroup_thereafter": "Poté",
+    "eventDayGroup_nextweek": "Příští týden",
+    "eventDayGroup_tomorrow": "Zítra",
+    "eventDayGroup_today": "Dnes",
+    "eventDayGroup_restofweek": "Zbytek týdne",
+    "eventDayGroup_nextmonth": "Příští měsíc",
+    "eventDayGroup_nextyear": "Příští rok"
 }

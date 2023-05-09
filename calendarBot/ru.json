@@ -143,5 +143,14 @@
     "create_cmd_modify_gcalcolor_choice_useevent": "Используй цвет события",
     "create_cmd_modify_gcalcolor_choice_disabled": "Отключить",
     "create_cmd_modify_gcalcolor_choice_useboth": "Используй оба варианта. Цвет события имеет приоритет, если он был установлен",
-    "create_cmd_modify_gcalcolor_choice_usecalendar": "Используйте цвет календаря"
+    "create_cmd_modify_gcalcolor_choice_usecalendar": "Используйте цвет календаря",
+    "eventDayGroup_restoftheyear": "До конца года",
+    "eventDayGroup_restofmonth": "До конца месяца",
+    "eventDayGroup_thereafter": "После этого",
+    "eventDayGroup_nextweek": "Следующая неделя",
+    "eventDayGroup_tomorrow": "Завтра",
+    "eventDayGroup_today": "Сегодня",
+    "eventDayGroup_restofweek": "Остаток недели",
+    "eventDayGroup_nextmonth": "Следующий месяц",
+    "eventDayGroup_nextyear": "Следующий год"
 }
