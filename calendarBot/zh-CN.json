@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "使用日历的颜色",
     "cmdhandler_help_title": "▫️     **Paru ❮ Calendar - HELP MENU**     ▫️",
     "create_cmd_help": "帕鲁的帮助菜单 ❮日历",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ 将最近的事件颜色显示为嵌入颜色（只限于谷歌日历，启用显示 \"GCAL颜色\"）。"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ 将最近的事件颜色显示为嵌入颜色（只限于谷歌日历，启用显示 \"GCAL颜色\"）。",
+    "oauthh_token_error": "连接您的谷歌账户时出现了错误。请再次使用/paru链接并尝试再次连接您的谷歌账户。"
 }

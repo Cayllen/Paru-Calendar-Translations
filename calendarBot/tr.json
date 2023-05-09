@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Takvim rengini kullanın",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Takvim - YARDIM MENÜSÜ**     ▫️",
     "create_cmd_help": "Paru ❯❮ Takvim için yardım menüsü",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ En son etkinlik rengini gömme rengi olarak göster (yalnızca Google Takvim. 'gcal renklerini' göster seçeneğini etkinleştirin)"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ En son etkinlik rengini gömme rengi olarak göster (yalnızca Google Takvim. 'gcal renklerini' göster seçeneğini etkinleştirin)",
+    "oauthh_token_error": "Google Hesabınızı bağlarken bir hata oluştu. Lütfen /paru bağlantısını tekrar kullanın ve Google Hesabınızı tekrar bağlamayı deneyin"
 }

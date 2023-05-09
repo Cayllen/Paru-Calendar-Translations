@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Используйте цвет календаря",
     "cmdhandler_help_title": "▫️     **Пару ❯❮ Календарь - HELP MENU**     ▫️",
     "create_cmd_help": "Меню помощи для Paru ❯❮ Календарь",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ Показывай цвет самого последнего события в качестве цвета встраивания (только для Google Calendar. Включи показ 'gcal colors')"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Показывай цвет самого последнего события в качестве цвета встраивания (только для Google Calendar. Включи показ 'gcal colors')",
+    "oauthh_token_error": "Произошла ошибка при подключении твоего аккаунта Google. Пожалуйста, воспользуйся ссылкой /paru еще раз и попробуй снова подключить свой аккаунт Google"
 }

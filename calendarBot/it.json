@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Usa il colore del calendario",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Calendario - HELP MENU**     ▫️",
     "create_cmd_help": "Menu di aiuto per Paru ❯❮ Calendario",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ Mostra il colore dell'evento più recente come colore incorporato (solo per Google Calendar. Abilita la visualizzazione di 'colori gcal')"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Mostra il colore dell'evento più recente come colore incorporato (solo per Google Calendar. Abilita la visualizzazione di 'colori gcal')",
+    "oauthh_token_error": "Si è verificato un errore nel collegamento del tuo account Google. Utilizza nuovamente il link /paru e prova a collegare nuovamente il tuo account Google"
 }

@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Użyj koloru kalendarza",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalendarz - MENU POMOCY**     ▫️",
     "create_cmd_help": "Menu pomocy dla Paru ❯❮ Kalendarz",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ Pokaż kolor najnowszego wydarzenia jako kolor osadzenia (tylko Kalendarz Google. Włącz pokazywanie 'gcal colors')"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Pokaż kolor najnowszego wydarzenia jako kolor osadzenia (tylko Kalendarz Google. Włącz pokazywanie 'gcal colors')",
+    "oauthh_token_error": "Wystąpił błąd przy łączeniu Twojego konta Google. Użyj ponownie linku /paru i spróbuj ponownie połączyć swoje konto Google"
 }

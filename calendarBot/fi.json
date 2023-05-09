@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Käytä kalenterin väriä",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Kalenteri - HELP MENU**     ▫️",
     "create_cmd_help": "Parun ohjevalikko ❯❮ Kalenteri",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ Näytä viimeisimmän tapahtuman väri upotusvärinä (vain Google-kalenteri. Ota käyttöön Näytä 'gcal-värit')"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ Näytä viimeisimmän tapahtuman väri upotusvärinä (vain Google-kalenteri. Ota käyttöön Näytä 'gcal-värit')",
+    "oauthh_token_error": "Google-tilisi yhdistämisessä tapahtui virhe. Käytä /paru-linkkiä uudelleen ja yritä yhdistää Google-tilisi uudelleen"
 }

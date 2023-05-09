@@ -146,5 +146,6 @@
     "create_cmd_modify_gcalcolor_choice_usecalendar": "Használja a naptár színét",
     "cmdhandler_help_title": "▫️     **Paru ❯❮ Naptár - SÚGÓMENÜ**     ▫️",
     "create_cmd_help": "Súgó menü a Paru ❯❮ Naptárhoz",
-    "create_cmd_modify_recentEventColor2Embed": "⭐️ A legfrissebb esemény színének megjelenítése beágyazási színként (csak Google Calendar. Enable show 'gcal colors')"
+    "create_cmd_modify_recentEventColor2Embed": "⭐️ A legfrissebb esemény színének megjelenítése beágyazási színként (csak Google Calendar. Enable show 'gcal colors')",
+    "oauthh_token_error": "Hiba történt a Google-fiókod összekapcsolásában. Kérjük, használja újra a /paru linket, és próbálja meg újra összekapcsolni a Google-fiókját"
 }
