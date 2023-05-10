@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Takvim URL'nizi girin",
     "cmd_delete_success_confirm_error": "Bu kanalda kaldırılacak bir takvim yok. Lütfen önce **/paru create** ile bir tane oluşturun",
     "create_cmd_delete": "Geçerli kanaldaki takvimi siler",
-    "oauth_success": "**Google Takvim Hesabınızı Paru'ya başarıyla bağladık.**\nLütfen şimdi düğmesine tıklayın ve senkronize edilmesi gereken tüm takvimleri seçin.",
+    "oauth_success": "**Google Takvim Hesabınızı Paru'ya başarıyla bağladık.**\nLütfen şimdi düğmesine tıklayın ve senkronize edilmesi gereken tüm takvimleri seçin",
     "cpnhandler_link_success": "Bu kanaldaki takvimin aktif bağlantılarını başarıyla eklediniz / değiştirdiniz. Takvim kısa süre içinde güncellenecektir.",
     "mdlhandler_link_invalidLinkError": "Sağladığınız bağlantı geçersiz. Lütfen tekrar deneyin (Daha fazla yardım için https://paru.app/calendar/manual adresini ziyaret edin)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

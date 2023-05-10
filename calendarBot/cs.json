@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Zadejte url adresu kalendáře",
     "cmd_delete_success_confirm_error": "V tomto kanálu není žádný kalendář, který by bylo možné odstranit. Nejprve si ho prosím vytvořte pomocí příkazu **/paru create**",
     "create_cmd_delete": "Odstraní kalendář v aktuálním kanálu",
-    "oauth_success": "**Úspěšně jste propojili svůj účet Kalendáře Google s Paru.**\nNyní klikněte na tlačítko a vyberte všechny kalendáře, které mají být synchronizovány.",
+    "oauth_success": "**Úspěšně jste propojili svůj kalendářní účet Google s Paru.**\nNyní klikněte na tlačítko a vyberte všechny kalendáře, které mají být synchronizovány",
     "cpnhandler_link_success": "Úspěšně jste přidali/změnili aktivní odkazy kalendáře v tomto kanálu. Kalendář bude brzy aktualizován.",
     "mdlhandler_link_invalidLinkError": "Odkaz, který jste uvedl, byl neplatný. Zkuste to prosím znovu (další informace naleznete na adrese https://paru.app/calendar/manual)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

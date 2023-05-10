@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Įveskite savo kalendoriaus url",
     "cmd_delete_success_confirm_error": "Šiame kanale nėra kalendoriaus, kurį būtų galima pašalinti. Pirmiausia sukurkite jį naudodami **/paru create**",
     "create_cmd_delete": "Ištrinamas dabartinio kanalo kalendorius",
-    "oauth_success": "**Sėkmingai susiejote \"Google\" kalendoriaus paskyrą su \"Paru \"**\nDabar spustelėkite mygtuką ir pasirinkite visus kalendorius, kurie turėtų būti sinchronizuojami.",
+    "oauth_success": "**Sėkmingai susiejote \"Google\" kalendoriaus paskyrą su \"Paru\".**\nDabar spustelėkite mygtuką ir pasirinkite visus kalendorius, kurie turėtų būti sinchronizuojami",
     "cpnhandler_link_success": "Sėkmingai pridėjote / pakeitėte aktyvias šio kanalo kalendoriaus nuorodas. Netrukus kalendorius bus atnaujintas.",
     "mdlhandler_link_invalidLinkError": "Jūsų pateikta nuoroda negaliojo. Bandykite dar kartą (daugiau pagalbos rasite https://paru.app/calendar/manual)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

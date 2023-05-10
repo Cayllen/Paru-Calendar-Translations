@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Voer je kalender url in",
     "cmd_delete_success_confirm_error": "Er is geen kalender in dit kanaal om te verwijderen. Maak er eerst een aan met **/paru create**",
     "create_cmd_delete": "Verwijdert de kalender in het huidige kanaal",
-    "oauth_success": "**Succesvol je Google Agenda-account gekoppeld aan Paru.**\nKlik nu op de knop en selecteer alle agenda's die gesynchroniseerd moeten worden.",
+    "oauth_success": "**Succesvol je Google Agenda-account aan Paru gekoppeld.**\nKlik nu op de knop en selecteer alle agenda's die gesynchroniseerd moeten worden",
     "cpnhandler_link_success": "Je hebt met succes de actieve links van de kalender in dit kanaal toegevoegd/gewijzigd. De kalender wordt binnenkort bijgewerkt.",
     "mdlhandler_link_invalidLinkError": "De link die je opgaf was ongeldig. Probeer het opnieuw (Bezoek https://paru.app/calendar/manual voor meer hulp)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

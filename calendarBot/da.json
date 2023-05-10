@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Indtast din kalender url",
     "cmd_delete_success_confirm_error": "Der er ingen kalender i denne kanal, der skal fjernes. Vær venlig at oprette en først med **/paru create**",
     "create_cmd_delete": "Sletter kalenderen i den aktuelle kanal",
-    "oauth_success": "**Det er lykkedes at forbinde din Google Calendar-konto med Paru.**\nKlik nu på knappen og vælg alle de kalendere, der skal synkroniseres.",
+    "oauth_success": "**Det er lykkedes at forbinde din Google Calendar-konto med Paru.**\nKlik nu på knappen og vælg alle kalendere, der skal synkroniseres",
     "cpnhandler_link_success": "Du har med succes tilføjet/ændret de aktive links til kalenderen i denne kanal. Kalenderen vil blive opdateret om kort tid.",
     "mdlhandler_link_invalidLinkError": "Det link, du angav, var ugyldigt. Prøv venligst igen (besøg https://paru.app/calendar/manual for mere hjælp)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

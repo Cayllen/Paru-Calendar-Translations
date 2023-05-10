@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Въведете URL адреса на календара си",
     "cmd_delete_success_confirm_error": "В този канал няма календар за премахване. Моля, първо създайте такъв с **/paru create**",
     "create_cmd_delete": "Изтриване на календара в текущия канал",
-    "oauth_success": "**Успешно свързахте акаунта си в Google Calendar с Paru.**\nМоля, кликнете върху бутона и изберете всички календари, които трябва да бъдат синхронизирани.",
+    "oauth_success": "**Успешно свързахте вашия акаунт в Google Calendar с Paru.**\nМоля, кликнете върху бутона и изберете всички календари, които трябва да бъдат синхронизирани",
     "cpnhandler_link_success": "Успешно сте добавили/променили активните връзки на календара в този канал. Календарът ще бъде актуализиран скоро.",
     "mdlhandler_link_invalidLinkError": "Предоставената от вас връзка е невалидна. Моля, опитайте отново (Посетете https://paru.app/calendar/manual за повече помощ)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

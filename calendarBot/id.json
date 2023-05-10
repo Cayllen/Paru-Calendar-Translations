@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Masukkan url kalender Anda",
     "cmd_delete_success_confirm_error": "Tidak ada kalender di saluran ini yang dapat dihapus. Silakan buat terlebih dahulu dengan **/paru buat**",
     "create_cmd_delete": "Menghapus kalender di saluran saat ini",
-    "oauth_success": "**Berhasil menautkan Akun Kalender Google Anda ke Paru.**\nSekarang klik tombol dan pilih semua kalender yang harus disinkronkan.",
+    "oauth_success": "**Berhasil menautkan Akun Kalender Google Anda ke Paru.**\nSilakan klik tombol dan pilih semua kalender yang akan disinkronkan",
     "cpnhandler_link_success": "Anda telah berhasil menambahkan/memodifikasi tautan aktif kalender di saluran ini. Kalender akan segera diperbarui.",
     "mdlhandler_link_invalidLinkError": "Tautan yang Anda berikan tidak valid. Silakan coba lagi (Kunjungi https://paru.app/calendar/manual untuk bantuan lebih lanjut)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

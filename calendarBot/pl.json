@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Wpisz adres url kalendarza",
     "cmd_delete_success_confirm_error": "Na tym kanale nie ma żadnego kalendarza do usunięcia. Utwórz go najpierw za pomocą **/paru create**",
     "create_cmd_delete": "Usuwa kalendarz z bieżącego kanału",
-    "oauth_success": "**Pomyślnie połączono twoje konto kalendarza Google z Paru.**\nKliknij teraz przycisk i wybierz wszystkie kalendarze, które mają być zsynchronizowane.",
+    "oauth_success": "**Udało się połączyć konto kalendarza Google z Paru.**\nKliknij teraz przycisk i wybierz wszystkie kalendarze, które mają być zsynchronizowane",
     "cpnhandler_link_success": "Udało Ci się dodać/modyfikować aktywne linki kalendarza na tym kanale. Kalendarz zostanie wkrótce zaktualizowany.",
     "mdlhandler_link_invalidLinkError": "Podane przez Ciebie łącze jest nieprawidłowe. Spróbuj ponownie (odwiedź stronę https://paru.app/calendar/manual, aby uzyskać więcej pomocy)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

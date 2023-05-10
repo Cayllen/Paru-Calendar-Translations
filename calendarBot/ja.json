@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "カレンダーのURLを入力",
     "cmd_delete_success_confirm_error": "このチャンネルには、削除するカレンダーがありません。先に**/paru create**で作成してください。",
     "create_cmd_delete": "現在のチャンネルのカレンダーを削除する",
-    "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nここでボタンをクリックし、同期させるカレンダーをすべて選択してください。",
+    "oauth_success": "**GoogleカレンダーのアカウントとParuの連携に成功しました **\nボタンをクリックし、同期させるカレンダーをすべて選択してください。",
     "cpnhandler_link_success": "このチャンネルでカレンダーのアクティブリンクを追加/変更することに成功しました。カレンダーは間もなく更新されます。",
     "mdlhandler_link_invalidLinkError": "入力されたリンクは無効でした。もう一度お試しください（詳しくは https://paru.app/calendar/manual をご覧ください）。",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

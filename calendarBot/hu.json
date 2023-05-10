@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Adja meg a naptár url-jét",
     "cmd_delete_success_confirm_error": "Ebben a csatornában nincs eltávolítandó naptár. Kérjük, először hozzon létre egyet a **/paru create** segítségével",
     "create_cmd_delete": "Törli a naptárat az aktuális csatornán",
-    "oauth_success": "**Sikeresen összekapcsolta Google naptárfiókját a Paruval.**\nKérjük, kattintson a gombra, és válassza ki az összes szinkronizálandó naptárat.",
+    "oauth_success": "**Sikeresen összekapcsolta Google naptárfiókját a Paruval.**\nKérjük, most kattintson a gombra, és válassza ki az összes szinkronizálandó naptárat",
     "cpnhandler_link_success": "Sikeresen hozzáadta/módosította a naptár aktív linkjeit ebben a csatornában. A naptár hamarosan frissülni fog.",
     "mdlhandler_link_invalidLinkError": "Az Ön által megadott link érvénytelen volt. Kérjük, próbálja meg újra (További segítségért látogasson el a https://paru.app/calendar/manual oldalra)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

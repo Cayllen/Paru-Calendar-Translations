@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Inserisci l'url del tuo calendario",
     "cmd_delete_success_confirm_error": "Non c'è nessun calendario in questo canale da rimuovere. Creane uno con **/paru create**",
     "create_cmd_delete": "Elimina il calendario nel canale corrente",
-    "oauth_success": "**Il tuo account Google Calendar è stato collegato con successo a Paru.**\nOra clicca sul pulsante e seleziona tutti i calendari che devono essere sincronizzati.",
+    "oauth_success": "**Il tuo account Google Calendar è stato collegato con successo a Paru.**\nOra clicca sul pulsante e seleziona tutti i calendari da sincronizzare",
     "cpnhandler_link_success": "Hai aggiunto/modificato con successo i link attivi del calendario in questo canale. Il calendario sarà aggiornato a breve.",
     "mdlhandler_link_invalidLinkError": "Il link che hai fornito non è valido. Riprova (Visita https://paru.app/calendar/manual per maggiori informazioni)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",

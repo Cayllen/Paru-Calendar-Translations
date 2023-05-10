@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Kirjoita kalenterin url-osoite",
     "cmd_delete_success_confirm_error": "Tällä kanavalla ei ole kalenteria poistettavaksi. Luo sellainen ensin käyttämällä **/paru create**",
     "create_cmd_delete": "Poistaa nykyisen kanavan kalenterin",
-    "oauth_success": "**Google-kalenteritilisi on onnistuneesti yhdistetty Paruun.**\nKlikkaa nyt painiketta ja valitse kaikki kalenterit, jotka halutaan synkronoida.",
+    "oauth_success": "**Onnistunut Google-kalenteritilisi yhdistäminen Paruun.**\nKlikkaa nyt painiketta ja valitse kaikki kalenterit, jotka halutaan synkronoida",
     "cpnhandler_link_success": "Olet onnistuneesti lisännyt/muuttanut tämän kanavan kalenterin aktiiviset linkit. Kalenteri päivitetään pian.",
     "mdlhandler_link_invalidLinkError": "Antamasi linkki oli virheellinen. Yritä uudelleen (Käy osoitteessa https://paru.app/calendar/manual saadaksesi lisää apua)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",
