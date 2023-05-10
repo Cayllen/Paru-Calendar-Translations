@@ -148,5 +148,12 @@
     "create_cmd_help": "Nabídka nápovědy pro Paru ❯❮ Kalendář",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Zobrazit barvu nejnovější události jako barvu vložení (pouze Kalendář Google. Povolit zobrazení 'gcal colors')",
     "oauthh_token_error": "Při propojování vašeho účtu Google došlo k chybě. Použijte prosím znovu odkaz /paru a zkuste znovu připojit svůj účet Google",
-    "create_cmd_modify_groupEvents": "Povolení/zakázání seskupování událostí podle dne/měsíce/roku"
+    "create_cmd_modify_groupEvents": "Povolení/zakázání seskupování událostí podle dne/měsíce/roku",
+    "create_cmd_modify_desclength_50": "50 znaků",
+    "create_cmd_modify_desclength_200": "200 znaků",
+    "create_cmd_modify_desclength_dynamic": "Použijte dynamickou délku popisu (delší pro blízké události, kratší pro budoucí události)",
+    "create_cmd_modify_desclength_400": "400 znaků",
+    "create_cmd_modify_desclength_100": "100 znaků",
+    "create_cmd_modify_desclength_300": "300 znaků",
+    "create_cmd_modify_desclength": "Použijte dynamickou délku popisu (delší pro blízké události) nebo nastavte pevnou délku"
 }

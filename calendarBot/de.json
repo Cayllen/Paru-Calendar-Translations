@@ -148,5 +148,12 @@
     "create_cmd_help": "Hilfe-Menü für Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Die Farbe des letzten Ereignisses als Einbettungsfarbe anzeigen (nur Google Kalender. Aktiviere \"gcal colors\" anzeigen)",
     "oauthh_token_error": "Bei der Verknüpfung deines Google-Kontos ist ein Fehler aufgetreten. Bitte verwende den /paru-Link erneut und versuche erneut, dein Google-Konto zu verbinden",
-    "create_cmd_modify_groupEvents": "Aktiviere/Deaktiviere die Gruppierung von Ereignissen nach Tag/Monat/Jahr"
+    "create_cmd_modify_groupEvents": "Aktiviere/Deaktiviere die Gruppierung von Ereignissen nach Tag/Monat/Jahr",
+    "create_cmd_modify_desclength_50": "50 Zeichen",
+    "create_cmd_modify_desclength_200": "200 Zeichen",
+    "create_cmd_modify_desclength_dynamic": "Dynamische Beschreibungslänge verwenden (länger für nahe Ereignisse, kürzer für zukünftige Ereignisse)",
+    "create_cmd_modify_desclength_400": "400 Zeichen",
+    "create_cmd_modify_desclength_100": "100 Zeichen",
+    "create_cmd_modify_desclength_300": "300 Zeichen",
+    "create_cmd_modify_desclength": "Dynamische Beschreibungslänge verwenden (länger bei nahen Ereignissen), oder feste Länge einstellen"
 }

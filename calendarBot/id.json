@@ -148,5 +148,12 @@
     "create_cmd_help": "Menu bantuan untuk Kalender Paru ❯❮",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Tampilkan warna acara terbaru sebagai warna sematan (hanya Kalender Google. Aktifkan tampilkan 'warna gcal')",
     "oauthh_token_error": "Terjadi kesalahan saat menautkan Akun Google Anda. Silakan gunakan tautan /paru lagi dan coba sambungkan kembali Akun Google Anda",
-    "create_cmd_modify_groupEvents": "Mengaktifkan/Menonaktifkan pengelompokan acara berdasarkan hari/bulan/tahun"
+    "create_cmd_modify_groupEvents": "Mengaktifkan/Menonaktifkan pengelompokan acara berdasarkan hari/bulan/tahun",
+    "create_cmd_modify_desclength_50": "50 karakter",
+    "create_cmd_modify_desclength_200": "200 karakter",
+    "create_cmd_modify_desclength_dynamic": "Gunakan panjang deskripsi yang dinamis (lebih panjang untuk kejadian yang dekat, lebih pendek untuk kejadian yang lebih jauh)",
+    "create_cmd_modify_desclength_400": "400 karakter",
+    "create_cmd_modify_desclength_100": "100 karakter",
+    "create_cmd_modify_desclength_300": "300 karakter",
+    "create_cmd_modify_desclength": "Gunakan panjang deskripsi dinamis (lebih panjang untuk peristiwa dekat), atau tetapkan panjang tetap"
 }

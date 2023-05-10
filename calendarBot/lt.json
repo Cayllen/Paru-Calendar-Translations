@@ -148,5 +148,12 @@
     "create_cmd_help": "Paru pagalbos meniu ❯❮ Kalendorius",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Naujausio įvykio spalvą rodyti kaip įterptą spalvą (tik \"Google\" kalendoriuje. Įgalinkite rodyti \"gcal colors\")",
     "oauthh_token_error": "Įvyko \"Google\" paskyros susiejimo klaida. Prašome dar kartą naudoti /paru nuorodą ir bandyti prijungti \"Google\" paskyrą iš naujo",
-    "create_cmd_modify_groupEvents": "Įjungti / išjungti įvykių grupavimą pagal dieną / mėnesį / metus"
+    "create_cmd_modify_groupEvents": "Įjungti / išjungti įvykių grupavimą pagal dieną / mėnesį / metus",
+    "create_cmd_modify_desclength_50": "50 simbolių",
+    "create_cmd_modify_desclength_200": "200 simbolių",
+    "create_cmd_modify_desclength_dynamic": "Naudokite dinamišką aprašymo ilgį (ilgesnį - artimiausiems įvykiams, trumpesnį - būsimiems įvykiams)",
+    "create_cmd_modify_desclength_400": "400 simbolių",
+    "create_cmd_modify_desclength_100": "100 simbolių",
+    "create_cmd_modify_desclength_300": "300 simbolių",
+    "create_cmd_modify_desclength": "Naudokite dinaminį aprašymo ilgį (ilgesnį, jei įvykis artimas) arba nustatykite fiksuotą ilgį"
 }

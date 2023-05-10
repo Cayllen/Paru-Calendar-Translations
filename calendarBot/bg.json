@@ -148,5 +148,12 @@
     "create_cmd_help": "Помощно меню за Paru ❯❮ Календар",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Показване на цвета на последното събитие като цвят за вграждане (само за Календар на Google. Разрешете показването на 'gcal colors')",
     "oauthh_token_error": "Възникна грешка при свързването на вашия акаунт в Google. Моля, използвайте отново връзката /paru и опитайте да свържете профила си в Google отново",
-    "create_cmd_modify_groupEvents": "Активиране/деактивиране на групирането на събития по ден/месец/година"
+    "create_cmd_modify_groupEvents": "Активиране/деактивиране на групирането на събития по ден/месец/година",
+    "create_cmd_modify_desclength_50": "50 символа",
+    "create_cmd_modify_desclength_200": "200 знака",
+    "create_cmd_modify_desclength_dynamic": "Използвайте динамична дължина на описанието (по-дълго за близки събития, по-кратко за по-близки събития)",
+    "create_cmd_modify_desclength_400": "400 знака",
+    "create_cmd_modify_desclength_100": "100 символа",
+    "create_cmd_modify_desclength_300": "300 знака",
+    "create_cmd_modify_desclength": "Използвайте динамична дължина на описанието (по-дълга за близки събития) или задайте фиксирана дължина"
 }

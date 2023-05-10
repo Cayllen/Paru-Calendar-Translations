@@ -145,5 +145,12 @@
   "cmdhandler_link_success": "Please select whether you want to connect to a Google Calendar and/or an external calendar (via .ics link - see: https://paru.app/calendar/manual/)",
   "oauthh_noscope_error": "Please make sure you select all necessary scopes. Please try to connect your Google Account again",
   "oauthh_token_error": "There was an error linking your Google Account. Please use /paru link again and try to connect your Google Account again",
-  "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced."
+  "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced.",
+  "create_cmd_modify_desclength_dynamic": "Use dynamic description length (longer for near events, shorter for more future events)",
+  "create_cmd_modify_desclength_50": "50 characters",
+  "create_cmd_modify_desclength_100": "100 characters",
+  "create_cmd_modify_desclength_200": "200 characters",
+  "create_cmd_modify_desclength_300": "300 characters",
+  "create_cmd_modify_desclength_400": "400 characters",
+  "create_cmd_modify_desclength": "Use dynamic description length (longer for near events), or set fixed length"
 }

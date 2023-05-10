@@ -148,5 +148,12 @@
     "create_cmd_help": "Parun ohjevalikko ❯❮ Kalenteri",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Näytä viimeisimmän tapahtuman väri upotusvärinä (vain Google-kalenteri. Ota käyttöön Näytä 'gcal-värit')",
     "oauthh_token_error": "Google-tilisi yhdistämisessä tapahtui virhe. Käytä /paru-linkkiä uudelleen ja yritä yhdistää Google-tilisi uudelleen",
-    "create_cmd_modify_groupEvents": "Tapahtumien ryhmittely päivän/kuukauden/vuoden mukaan käyttöön/pois käytöstä"
+    "create_cmd_modify_groupEvents": "Tapahtumien ryhmittely päivän/kuukauden/vuoden mukaan käyttöön/pois käytöstä",
+    "create_cmd_modify_desclength_50": "50 merkkiä",
+    "create_cmd_modify_desclength_200": "200 merkkiä",
+    "create_cmd_modify_desclength_dynamic": "Käytä dynaamista kuvauksen pituutta (pidempi lähitapahtumille, lyhyempi tuleville tapahtumille)",
+    "create_cmd_modify_desclength_400": "400 merkkiä",
+    "create_cmd_modify_desclength_100": "100 merkkiä",
+    "create_cmd_modify_desclength_300": "300 merkkiä",
+    "create_cmd_modify_desclength": "Käytä dynaamista kuvauksen pituutta (pidempi lähellä tapahtumia) tai aseta kiinteä pituus"
 }

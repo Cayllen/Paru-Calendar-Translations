@@ -148,5 +148,12 @@
     "create_cmd_help": "Meniul de ajutor pentru Paru ❯❮ Calendar",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Afișați culoarea celui mai recent eveniment ca și culoare de încorporare (numai pentru Google Calendar. Activați afișarea \"gcal colors\")",
     "oauthh_token_error": "S-a produs o eroare la conectarea contului Google. Vă rugăm să folosiți din nou link-ul /paru și să încercați să vă conectați din nou contul Google",
-    "create_cmd_modify_groupEvents": "Activați/dezactivați gruparea evenimentelor în funcție de zi/lună/an"
+    "create_cmd_modify_groupEvents": "Activați/dezactivați gruparea evenimentelor în funcție de zi/lună/an",
+    "create_cmd_modify_desclength_50": "50 de caractere",
+    "create_cmd_modify_desclength_200": "200 de caractere",
+    "create_cmd_modify_desclength_dynamic": "Folosiți o lungime dinamică a descrierii (mai lungă pentru evenimente apropiate, mai scurtă pentru evenimente viitoare)",
+    "create_cmd_modify_desclength_400": "400 de caractere",
+    "create_cmd_modify_desclength_100": "100 de caractere",
+    "create_cmd_modify_desclength_300": "300 de caractere",
+    "create_cmd_modify_desclength": "Utilizați lungimea dinamică a descrierii (mai lungă pentru evenimente apropiate) sau stabiliți o lungime fixă"
 }

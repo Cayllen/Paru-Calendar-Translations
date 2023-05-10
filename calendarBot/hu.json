@@ -148,5 +148,12 @@
     "create_cmd_help": "Súgó menü a Paru ❯❮ Naptárhoz",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ A legfrissebb esemény színének megjelenítése beágyazási színként (csak Google Calendar. Enable show 'gcal colors')",
     "oauthh_token_error": "Hiba történt a Google-fiókod összekapcsolásában. Kérjük, használja újra a /paru linket, és próbálja meg újra összekapcsolni a Google-fiókját",
-    "create_cmd_modify_groupEvents": "Az események nap/hónap/év szerinti csoportosításának engedélyezése/letiltása"
+    "create_cmd_modify_groupEvents": "Az események nap/hónap/év szerinti csoportosításának engedélyezése/letiltása",
+    "create_cmd_modify_desclength_50": "50 karakter",
+    "create_cmd_modify_desclength_200": "200 karakter",
+    "create_cmd_modify_desclength_dynamic": "Dinamikus leírás hossza (hosszabb a közeli eseményekhez, rövidebb a jövőbeli eseményekhez)",
+    "create_cmd_modify_desclength_400": "400 karakter",
+    "create_cmd_modify_desclength_100": "100 karakter",
+    "create_cmd_modify_desclength_300": "300 karakter",
+    "create_cmd_modify_desclength": "Dinamikus leírás hossza (hosszabb a közeli eseményeknél), vagy fix hosszúság beállítása"
 }

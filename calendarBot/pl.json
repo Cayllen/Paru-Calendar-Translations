@@ -148,5 +148,12 @@
     "create_cmd_help": "Menu pomocy dla Paru ❯❮ Kalendarz",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Pokaż kolor najnowszego wydarzenia jako kolor osadzenia (tylko Kalendarz Google. Włącz pokazywanie 'gcal colors')",
     "oauthh_token_error": "Wystąpił błąd przy łączeniu Twojego konta Google. Użyj ponownie linku /paru i spróbuj ponownie połączyć swoje konto Google",
-    "create_cmd_modify_groupEvents": "Włączanie/wyłączanie grupowania zdarzeń według dnia/miesiąca/roku"
+    "create_cmd_modify_groupEvents": "Włączanie/wyłączanie grupowania zdarzeń według dnia/miesiąca/roku",
+    "create_cmd_modify_desclength_50": "50 znaków",
+    "create_cmd_modify_desclength_200": "200 znaków",
+    "create_cmd_modify_desclength_dynamic": "Stosuj dynamiczną długość opisów (dłuższe dla bliskich wydarzeń, krótsze dla bardziej przyszłych)",
+    "create_cmd_modify_desclength_400": "400 znaków",
+    "create_cmd_modify_desclength_100": "100 znaków",
+    "create_cmd_modify_desclength_300": "300 znaków",
+    "create_cmd_modify_desclength": "Użyj dynamicznej długości opisu (dłuższy dla bliskich wydarzeń) lub ustaw stałą długość"
 }

@@ -148,5 +148,12 @@
     "create_cmd_help": "Menú de ayuda de Paru ❯❮ Calendario",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Mostrar el color del evento más reciente como color incrustado (sólo Google Calendar. Activar mostrar 'colores gcal')",
     "oauthh_token_error": "Se ha producido un error al vincular tu cuenta de Google. Vuelve a utilizar el enlace /paru e intenta conectar de nuevo tu cuenta de Google",
-    "create_cmd_modify_groupEvents": "Activar/Desactivar la agrupación de eventos por día/mes/año"
+    "create_cmd_modify_groupEvents": "Activar/Desactivar la agrupación de eventos por día/mes/año",
+    "create_cmd_modify_desclength_50": "50 caracteres",
+    "create_cmd_modify_desclength_200": "200 caracteres",
+    "create_cmd_modify_desclength_dynamic": "Utiliza una longitud de descripción dinámica (más larga para acontecimientos cercanos, más corta para acontecimientos más futuros)",
+    "create_cmd_modify_desclength_400": "400 caracteres",
+    "create_cmd_modify_desclength_100": "100 caracteres",
+    "create_cmd_modify_desclength_300": "300 caracteres",
+    "create_cmd_modify_desclength": "Utiliza una longitud de descripción dinámica (más larga para eventos cercanos), o establece una longitud fija"
 }

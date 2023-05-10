@@ -148,5 +148,12 @@
     "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 最新のイベントカラーを埋め込みカラーとして表示する（Googleカレンダーのみ、「gcal colors」の表示を有効にする）",
     "oauthh_token_error": "Google アカウントのリンクにエラーが発生しました。もう一度/paruリンクを使用して、Googleアカウントの接続を試してください。",
-    "create_cmd_modify_groupEvents": "日／月／年によるイベントのグループ化の有効／無効化"
+    "create_cmd_modify_groupEvents": "日／月／年によるイベントのグループ化の有効／無効化",
+    "create_cmd_modify_desclength_50": "50文字",
+    "create_cmd_modify_desclength_200": "200文字",
+    "create_cmd_modify_desclength_dynamic": "動的な説明文の長さを使用する（近いイベントには長く、より未来のイベントには短くする）",
+    "create_cmd_modify_desclength_400": "400文字",
+    "create_cmd_modify_desclength_100": "100文字",
+    "create_cmd_modify_desclength_300": "300文字",
+    "create_cmd_modify_desclength": "動的な説明文の長さ（近いイベントほど長くなる）を使用するか、固定長を設定する"
 }

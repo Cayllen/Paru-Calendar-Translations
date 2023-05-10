@@ -148,5 +148,12 @@
     "create_cmd_help": "Hjelp-menyen for Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Vis den nyeste hendelsesfargen som innebygningsfarge (kun Google Kalender. Aktiver vis 'gcal colors')",
     "oauthh_token_error": "Det oppstod en feil da du koblet til Google-kontoen din. Bruk lenken /paru igjen og prøv å koble til Google-kontoen din på nytt",
-    "create_cmd_modify_groupEvents": "Aktivere/deaktivere gruppering av hendelser etter dag/måned/år"
+    "create_cmd_modify_groupEvents": "Aktivere/deaktivere gruppering av hendelser etter dag/måned/år",
+    "create_cmd_modify_desclength_50": "50 tegn",
+    "create_cmd_modify_desclength_200": "200 tegn",
+    "create_cmd_modify_desclength_dynamic": "Bruk dynamisk beskrivelseslengde (lengre for nære hendelser, kortere for mer fremtidige hendelser)",
+    "create_cmd_modify_desclength_400": "400 tegn",
+    "create_cmd_modify_desclength_100": "100 tegn",
+    "create_cmd_modify_desclength_300": "300 tegn",
+    "create_cmd_modify_desclength": "Bruk dynamisk beskrivelseslengde (lengre for hendelser i nærheten), eller angi fast lengde"
 }
