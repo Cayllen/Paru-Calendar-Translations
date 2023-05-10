@@ -152,8 +152,7 @@
   "create_cmd_modify_desclength_200": "200 characters",
   "create_cmd_modify_desclength_300": "300 characters",
   "create_cmd_modify_desclength_400": "400 characters",
-  "create_cmd_modify_desclength": "Use dynamic description length (longer for near events), or set fixed length"
-  "oauth_success": "**Successfully linked your Google Calendar Account to Paru.**\nPlease now click the button and select all calendars that should be synced",
+  "create_cmd_modify_desclength": "Use dynamic description length (longer for near events), or set fixed length",
   "eventDayGroup_today": "Today",
   "eventDayGroup_tomorrow": "Tomorrow",
   "eventDayGroup_restofweek": "Rest of the week",
@@ -162,5 +161,6 @@
   "eventDayGroup_nextmonth": "Next month",
   "eventDayGroup_restoftheyear": "Rest of the year",
   "eventDayGroup_nextyear": "Next year",
-  "eventDayGroup_thereafter": "Thereafter"
+  "eventDayGroup_thereafter": "Thereafter",
+  "cmdhandler_link_channelDuplicate": "A rare issue concerning your calendar has occured. Please create the calendar in another channel and try again. We are currently working to fix this issue"
 }
