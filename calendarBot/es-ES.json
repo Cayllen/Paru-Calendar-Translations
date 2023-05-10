@@ -156,4 +156,13 @@
     "create_cmd_modify_desclength_100": "100 caracteres",
     "create_cmd_modify_desclength_300": "300 caracteres",
     "create_cmd_modify_desclength": "Utiliza una longitud de descripción dinámica (más larga para eventos cercanos), o establece una longitud fija"
+    "eventDayGroup_restoftheyear": "Resto del año",
+    "eventDayGroup_restofmonth": "Resto del mes",
+    "eventDayGroup_thereafter": "A continuación",
+    "eventDayGroup_nextweek": "Próxima semana",
+    "eventDayGroup_tomorrow": "Mañana",
+    "eventDayGroup_today": "Hoy",
+    "eventDayGroup_restofweek": "Resto de la semana",
+    "eventDayGroup_nextmonth": "Mes siguiente",
+    "eventDayGroup_nextyear": "Próximo año"
 }

@@ -156,4 +156,13 @@
     "create_cmd_modify_desclength_100": "100 znaků",
     "create_cmd_modify_desclength_300": "300 znaků",
     "create_cmd_modify_desclength": "Použijte dynamickou délku popisu (delší pro blízké události) nebo nastavte pevnou délku"
+    "eventDayGroup_restoftheyear": "Zbytek roku",
+    "eventDayGroup_restofmonth": "Zbytek měsíce",
+    "eventDayGroup_thereafter": "Poté",
+    "eventDayGroup_nextweek": "Příští týden",
+    "eventDayGroup_tomorrow": "Zítra",
+    "eventDayGroup_today": "Dnes",
+    "eventDayGroup_restofweek": "Zbytek týdne",
+    "eventDayGroup_nextmonth": "Příští měsíc",
+    "eventDayGroup_nextyear": "Příští rok"
 }

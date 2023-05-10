@@ -122,7 +122,7 @@
     "cpnhandler_linkIcalModal_title": "Въведете URL адреса на календара си",
     "cmd_delete_success_confirm_error": "В този канал няма календар за премахване. Моля, първо създайте такъв с **/paru create**",
     "create_cmd_delete": "Изтриване на календара в текущия канал",
-    "oauth_success": "**Успешно свързахте акаунта си в Google Calendar с Paru.**\nМоля, кликнете върху бутона и изберете всички календари, които трябва да бъдат синхронизирани.",
+    "oauth_success": "**Успешно свързахте вашия акаунт в Google Calendar с Paru.**\nМоля, кликнете върху бутона и изберете всички календари, които трябва да бъдат синхронизирани",
     "cpnhandler_link_success": "Успешно сте добавили/променили активните връзки на календара в този канал. Календарът ще бъде актуализиран скоро.",
     "mdlhandler_link_invalidLinkError": "Предоставената от вас връзка е невалидна. Моля, опитайте отново (Посетете https://paru.app/calendar/manual за повече помощ)",
     "cpnhandler_linkIcalModal_placeholder": "https://mypage.com/t341s.ics",
@@ -156,4 +156,13 @@
     "create_cmd_modify_desclength_100": "100 символа",
     "create_cmd_modify_desclength_300": "300 знака",
     "create_cmd_modify_desclength": "Използвайте динамична дължина на описанието (по-дълга за близки събития) или задайте фиксирана дължина"
+    "eventDayGroup_restoftheyear": "Останалата част от годината",
+    "eventDayGroup_restofmonth": "Останалата част от месеца",
+    "eventDayGroup_thereafter": "След това",
+    "eventDayGroup_nextweek": "Следващата седмица",
+    "eventDayGroup_tomorrow": "Утре",
+    "eventDayGroup_today": "Днес",
+    "eventDayGroup_restofweek": "Останалата част от седмицата",
+    "eventDayGroup_nextmonth": "Следващият месец",
+    "eventDayGroup_nextyear": "Следващата година"
 }
