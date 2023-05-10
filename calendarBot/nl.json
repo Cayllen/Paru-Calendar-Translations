@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 tekens",
     "create_cmd_modify_desclength_100": "100 tekens",
     "create_cmd_modify_desclength_300": "300 tekens",
-    "create_cmd_modify_desclength": "Gebruik dynamische beschrijvingslengte (langer voor nabije gebeurtenissen), of stel een vaste lengte in"
+    "create_cmd_modify_desclength": "Gebruik dynamische beschrijvingslengte (langer voor nabije gebeurtenissen), of stel een vaste lengte in",
+    "cmdhandler_link_channelDuplicate": "Er is een zeldzaam probleem met je kalender opgetreden. Maak de agenda aan in een ander kanaal en probeer het opnieuw. We werken momenteel aan een oplossing voor dit probleem",
+    "eventDayGroup_restofweek": "Rest van de week",
+    "eventDayGroup_today": "Vandaag",
+    "eventDayGroup_thereafter": "Daarna",
+    "eventDayGroup_nextyear": "Volgend jaar",
+    "eventDayGroup_nextmonth": "Volgende maand",
+    "eventDayGroup_nextweek": "Volgende week",
+    "eventDayGroup_restofmonth": "Rest van de maand",
+    "eventDayGroup_restoftheyear": "Rest van het jaar",
+    "eventDayGroup_tomorrow": "Morgen"
 }

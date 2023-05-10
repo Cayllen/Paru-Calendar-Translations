@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 tecken",
     "create_cmd_modify_desclength_100": "100 tecken",
     "create_cmd_modify_desclength_300": "300 tecken",
-    "create_cmd_modify_desclength": "Använd dynamisk beskrivningslängd (längre för nära händelser) eller bestäm en fast längd"
+    "create_cmd_modify_desclength": "Använd dynamisk beskrivningslängd (längre för nära händelser) eller bestäm en fast längd",
+    "cmdhandler_link_channelDuplicate": "Ett sällsynt problem med din kalender har uppstått. Skapa kalendern i en annan kanal och försök igen. Vi arbetar för närvarande med att åtgärda detta problem",
+    "eventDayGroup_restofweek": "Resten av veckan",
+    "eventDayGroup_today": "Idag",
+    "eventDayGroup_thereafter": "Därefter",
+    "eventDayGroup_nextyear": "Nästa år",
+    "eventDayGroup_nextmonth": "Nästa månad",
+    "eventDayGroup_nextweek": "Nästa vecka",
+    "eventDayGroup_restofmonth": "Resten av månaden",
+    "eventDayGroup_restoftheyear": "Resten av året",
+    "eventDayGroup_tomorrow": "I morgon"
 }

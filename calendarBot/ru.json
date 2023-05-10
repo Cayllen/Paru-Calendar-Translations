@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 знаков",
     "create_cmd_modify_desclength_100": "100 знаков",
     "create_cmd_modify_desclength_300": "300 символов",
-    "create_cmd_modify_desclength": "Используйте динамическую длину описания (больше для близких событий), или установите фиксированную длину"
+    "create_cmd_modify_desclength": "Используйте динамическую длину описания (больше для близких событий), или установите фиксированную длину",
+    "cmdhandler_link_channelDuplicate": "Возникла редкая проблема, касающаяся твоего календаря. Пожалуйста, создай календарь в другом канале и повтори попытку. В настоящее время мы работаем над устранением этой проблемы",
+    "eventDayGroup_restofweek": "Остаток недели",
+    "eventDayGroup_today": "Сегодня",
+    "eventDayGroup_thereafter": "После этого",
+    "eventDayGroup_nextyear": "Следующий год",
+    "eventDayGroup_nextmonth": "Следующий месяц",
+    "eventDayGroup_nextweek": "Следующая неделя",
+    "eventDayGroup_restofmonth": "До конца месяца",
+    "eventDayGroup_restoftheyear": "До конца года",
+    "eventDayGroup_tomorrow": "Завтра"
 }

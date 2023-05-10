@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 znaków",
     "create_cmd_modify_desclength_100": "100 znaków",
     "create_cmd_modify_desclength_300": "300 znaków",
-    "create_cmd_modify_desclength": "Użyj dynamicznej długości opisu (dłuższy dla bliskich wydarzeń) lub ustaw stałą długość"
+    "create_cmd_modify_desclength": "Użyj dynamicznej długości opisu (dłuższy dla bliskich wydarzeń) lub ustaw stałą długość",
+    "cmdhandler_link_channelDuplicate": "Wystąpił rzadki problem dotyczący twojego kalendarza. Utwórz kalendarz na innym kanale i spróbuj ponownie. Obecnie pracujemy nad rozwiązaniem tego problemu",
+    "eventDayGroup_restofweek": "Reszta tygodnia",
+    "eventDayGroup_today": "Dzisiaj",
+    "eventDayGroup_thereafter": "Następnie",
+    "eventDayGroup_nextyear": "W następnym roku",
+    "eventDayGroup_nextmonth": "Następny miesiąc",
+    "eventDayGroup_nextweek": "W następnym tygodniu",
+    "eventDayGroup_restofmonth": "Reszta miesiąca",
+    "eventDayGroup_restoftheyear": "Reszta roku",
+    "eventDayGroup_tomorrow": "Jutro"
 }

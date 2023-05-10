@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 simbolių",
     "create_cmd_modify_desclength_100": "100 simbolių",
     "create_cmd_modify_desclength_300": "300 simbolių",
-    "create_cmd_modify_desclength": "Naudokite dinaminį aprašymo ilgį (ilgesnį, jei įvykis artimas) arba nustatykite fiksuotą ilgį"
+    "create_cmd_modify_desclength": "Naudokite dinaminį aprašymo ilgį (ilgesnį, jei įvykis artimas) arba nustatykite fiksuotą ilgį",
+    "cmdhandler_link_channelDuplicate": "Iškilo reta problema, susijusi su jūsų kalendoriumi. Prašome sukurti kalendorių kitame kanale ir pabandyti dar kartą. Šiuo metu dirbame, kad išspręstume šią problemą",
+    "eventDayGroup_restofweek": "Likusi savaitės dalis",
+    "eventDayGroup_today": "Šiandien",
+    "eventDayGroup_thereafter": "Vėliau",
+    "eventDayGroup_nextyear": "Kitais metais",
+    "eventDayGroup_nextmonth": "Kitą mėnesį",
+    "eventDayGroup_nextweek": "Kitą savaitę",
+    "eventDayGroup_restofmonth": "Likusi mėnesio dalis",
+    "eventDayGroup_restoftheyear": "Likusi metų dalis",
+    "eventDayGroup_tomorrow": "Rytoj"
 }

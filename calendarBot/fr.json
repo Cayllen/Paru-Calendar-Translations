@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 caractères",
     "create_cmd_modify_desclength_100": "100 caractères",
     "create_cmd_modify_desclength_300": "300 caractères",
-    "create_cmd_modify_desclength": "Utilise une longueur de description dynamique (plus longue pour les événements proches), ou fixe la longueur de la description"
+    "create_cmd_modify_desclength": "Utilise une longueur de description dynamique (plus longue pour les événements proches), ou fixe la longueur de la description",
+    "cmdhandler_link_channelDuplicate": "Un problème rare concernant ton calendrier s'est produit. Crée le calendrier dans un autre canal et réessaie. Nous travaillons actuellement à la résolution de ce problème",
+    "eventDayGroup_restofweek": "Reste de la semaine",
+    "eventDayGroup_today": "Aujourd'hui",
+    "eventDayGroup_thereafter": "Par la suite",
+    "eventDayGroup_nextyear": "L'année prochaine",
+    "eventDayGroup_nextmonth": "Le mois prochain",
+    "eventDayGroup_nextweek": "La semaine prochaine",
+    "eventDayGroup_restofmonth": "Reste du mois",
+    "eventDayGroup_restoftheyear": "Reste de l'année",
+    "eventDayGroup_tomorrow": "Demain"
 }

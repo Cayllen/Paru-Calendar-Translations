@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400文字",
     "create_cmd_modify_desclength_100": "100文字",
     "create_cmd_modify_desclength_300": "300文字",
-    "create_cmd_modify_desclength": "動的な説明文の長さ（近いイベントほど長くなる）を使用するか、固定長を設定する"
+    "create_cmd_modify_desclength": "動的な説明文の長さ（近いイベントほど長くなる）を使用するか、固定長を設定する",
+    "cmdhandler_link_channelDuplicate": "あなたのカレンダーに関する稀な問題が発生しました。別のチャンネルでカレンダーを作成し、再度お試しください。現在、この問題を解決するために取り組んでいます。",
+    "eventDayGroup_restofweek": "週休二日制",
+    "eventDayGroup_today": "本日",
+    "eventDayGroup_thereafter": "以後",
+    "eventDayGroup_nextyear": "来年は",
+    "eventDayGroup_nextmonth": "来月",
+    "eventDayGroup_nextweek": "次の週",
+    "eventDayGroup_restofmonth": "今月の残り",
+    "eventDayGroup_restoftheyear": "残りの期間",
+    "eventDayGroup_tomorrow": "明日"
 }

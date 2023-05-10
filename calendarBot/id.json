@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 karakter",
     "create_cmd_modify_desclength_100": "100 karakter",
     "create_cmd_modify_desclength_300": "300 karakter",
-    "create_cmd_modify_desclength": "Gunakan panjang deskripsi dinamis (lebih panjang untuk peristiwa dekat), atau tetapkan panjang tetap"
+    "create_cmd_modify_desclength": "Gunakan panjang deskripsi dinamis (lebih panjang untuk peristiwa dekat), atau tetapkan panjang tetap",
+    "cmdhandler_link_channelDuplicate": "Masalah yang jarang terjadi pada kalender Anda telah terjadi. Silakan buat kalender di saluran lain dan coba lagi. Saat ini kami sedang berupaya memperbaiki masalah ini",
+    "eventDayGroup_restofweek": "Sisa minggu ini",
+    "eventDayGroup_today": "Hari ini",
+    "eventDayGroup_thereafter": "Setelah itu",
+    "eventDayGroup_nextyear": "Tahun depan",
+    "eventDayGroup_nextmonth": "Bulan depan",
+    "eventDayGroup_nextweek": "Minggu depan",
+    "eventDayGroup_restofmonth": "Sisa bulan ini",
+    "eventDayGroup_restoftheyear": "Sisa tahun ini",
+    "eventDayGroup_tomorrow": "Besok"
 }

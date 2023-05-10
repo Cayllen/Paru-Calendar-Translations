@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 karakter",
     "create_cmd_modify_desclength_100": "100 karakter",
     "create_cmd_modify_desclength_300": "300 karakter",
-    "create_cmd_modify_desclength": "Dinamik açıklama uzunluğu kullanın (yakın olaylar için daha uzun) veya sabit uzunluk ayarlayın"
+    "create_cmd_modify_desclength": "Dinamik açıklama uzunluğu kullanın (yakın olaylar için daha uzun) veya sabit uzunluk ayarlayın",
+    "cmdhandler_link_channelDuplicate": "Takviminizle ilgili nadir görülen bir sorun oluştu. Lütfen takvimi başka bir kanalda oluşturun ve tekrar deneyin. Şu anda bu sorunu çözmek için çalışıyoruz",
+    "eventDayGroup_restofweek": "Haftanın geri kalanı",
+    "eventDayGroup_today": "Bugün",
+    "eventDayGroup_thereafter": "Bundan sonra",
+    "eventDayGroup_nextyear": "Gelecek yıl",
+    "eventDayGroup_nextmonth": "Gelecek ay",
+    "eventDayGroup_nextweek": "Gelecek hafta",
+    "eventDayGroup_restofmonth": "Ayın geri kalanı",
+    "eventDayGroup_restoftheyear": "Yılın geri kalanı",
+    "eventDayGroup_tomorrow": "Yarın"
 }

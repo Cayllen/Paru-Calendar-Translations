@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 merkkiä",
     "create_cmd_modify_desclength_100": "100 merkkiä",
     "create_cmd_modify_desclength_300": "300 merkkiä",
-    "create_cmd_modify_desclength": "Käytä dynaamista kuvauksen pituutta (pidempi lähellä tapahtumia) tai aseta kiinteä pituus"
+    "create_cmd_modify_desclength": "Käytä dynaamista kuvauksen pituutta (pidempi lähellä tapahtumia) tai aseta kiinteä pituus",
+    "cmdhandler_link_channelDuplicate": "Kalenteriisi on liittynyt harvinainen ongelma. Luo kalenteri toisessa kanavassa ja yritä uudelleen. Korjaamme parhaillaan tätä ongelmaa",
+    "eventDayGroup_restofweek": "Loppuviikko",
+    "eventDayGroup_today": "Tänään",
+    "eventDayGroup_thereafter": "Tämän jälkeen",
+    "eventDayGroup_nextyear": "Ensi vuonna",
+    "eventDayGroup_nextmonth": "Ensi kuussa",
+    "eventDayGroup_nextweek": "Ensi viikolla",
+    "eventDayGroup_restofmonth": "Kuukauden loppuosa",
+    "eventDayGroup_restoftheyear": "Loppuvuosi",
+    "eventDayGroup_tomorrow": "Huomenna"
 }

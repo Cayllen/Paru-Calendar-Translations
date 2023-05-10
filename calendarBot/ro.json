@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 de caractere",
     "create_cmd_modify_desclength_100": "100 de caractere",
     "create_cmd_modify_desclength_300": "300 de caractere",
-    "create_cmd_modify_desclength": "Utilizați lungimea dinamică a descrierii (mai lungă pentru evenimente apropiate) sau stabiliți o lungime fixă"
+    "create_cmd_modify_desclength": "Utilizați lungimea dinamică a descrierii (mai lungă pentru evenimente apropiate) sau stabiliți o lungime fixă",
+    "cmdhandler_link_channelDuplicate": "A apărut o problemă rară în ceea ce privește calendarul dumneavoastră. Vă rugăm să creați calendarul pe un alt canal și să încercați din nou. În prezent lucrăm la remedierea acestei probleme",
+    "eventDayGroup_restofweek": "Restul săptămânii",
+    "eventDayGroup_today": "Astăzi",
+    "eventDayGroup_thereafter": "Ulterior,",
+    "eventDayGroup_nextyear": "Anul viitor",
+    "eventDayGroup_nextmonth": "Luna viitoare",
+    "eventDayGroup_nextweek": "Săptămâna viitoare",
+    "eventDayGroup_restofmonth": "Restul lunii",
+    "eventDayGroup_restoftheyear": "Restul anului",
+    "eventDayGroup_tomorrow": "Mâine"
 }

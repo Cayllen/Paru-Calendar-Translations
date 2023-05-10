@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400 символів",
     "create_cmd_modify_desclength_100": "100 символів",
     "create_cmd_modify_desclength_300": "300 символів",
-    "create_cmd_modify_desclength": "Використовуйте динамічну довжину опису (довшу для близьких подій) або встановіть фіксовану довжину"
+    "create_cmd_modify_desclength": "Використовуйте динамічну довжину опису (довшу для близьких подій) або встановіть фіксовану довжину",
+    "cmdhandler_link_channelDuplicate": "Виникла рідкісна проблема з вашим календарем. Будь ласка, створіть календар в іншому каналі та спробуйте ще раз. Наразі ми працюємо над усуненням цієї проблеми",
+    "eventDayGroup_restofweek": "Решта тижня",
+    "eventDayGroup_today": "Сьогодні",
+    "eventDayGroup_thereafter": "Після цього",
+    "eventDayGroup_nextyear": "Наступного року",
+    "eventDayGroup_nextmonth": "Наступного місяця",
+    "eventDayGroup_nextweek": "Наступного тижня",
+    "eventDayGroup_restofmonth": "Решта місяця",
+    "eventDayGroup_restoftheyear": "Решта року",
+    "eventDayGroup_tomorrow": "Завтра"
 }

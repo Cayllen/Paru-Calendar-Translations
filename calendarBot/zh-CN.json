@@ -155,5 +155,15 @@
     "create_cmd_modify_desclength_400": "400个字符",
     "create_cmd_modify_desclength_100": "100个字符",
     "create_cmd_modify_desclength_300": "300个字符",
-    "create_cmd_modify_desclength": "使用动态的描述长度（接近事件时更长），或设置固定长度"
+    "create_cmd_modify_desclength": "使用动态的描述长度（接近事件时更长），或设置固定长度",
+    "cmdhandler_link_channelDuplicate": "关于你的日历，发生了一个罕见的问题。请在另一个频道中创建日历并重试。我们目前正在努力解决这个问题",
+    "eventDayGroup_restofweek": "本周其他时间",
+    "eventDayGroup_today": "今天",
+    "eventDayGroup_thereafter": "此后",
+    "eventDayGroup_nextyear": "下一年",
+    "eventDayGroup_nextmonth": "下个月",
+    "eventDayGroup_nextweek": "下个星期",
+    "eventDayGroup_restofmonth": "本月余下时间",
+    "eventDayGroup_restoftheyear": "今年的其余时间",
+    "eventDayGroup_tomorrow": "明天"
 }
