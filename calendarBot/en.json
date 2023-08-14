@@ -141,7 +141,7 @@
   "cmdhandler_link_google_btn_label": "Link Google Calendar",
   "cmdhandler_unlink_google_btn_label": "Unlink Google account",
   "cmdhandler_link_modify_btn_label": "Modify connected calendars",
-  "create_cmd_modify_groupEvents": "Enable/Disable grouping events by day/month/year",
+  "create_cmd_modify_groupEvents": "Enable/Disable grouping events by day/month/year, color or calendar",
   "cmdhandler_link_success": "Please select whether you want to connect to a Google Calendar and/or an external calendar (via .ics link - see: https://paru.app/calendar/manual/)",
   "oauthh_noscope_error": "Please make sure you select all necessary scopes. Please try to connect your Google Account again",
   "oauthh_token_error": "There was an error linking your Google Account. Please use /paru link again and try to connect your Google Account again",
@@ -162,5 +162,9 @@
   "eventDayGroup_restoftheyear": "Rest of the year",
   "eventDayGroup_nextyear": "Next year",
   "eventDayGroup_thereafter": "Thereafter",
-  "cmdhandler_link_channelDuplicate": "A rare issue concerning your calendar has occured. Please create the calendar in another channel and try again. We are currently working to fix this issue"
+  "cmdhandler_link_channelDuplicate": "A rare issue concerning your calendar has occured. Please create the calendar in another channel and try again. We are currently working to fix this issue",
+  "create_cmd_modify_grouping_choicesGrouping_none": "Don't group",
+  "create_cmd_modify_grouping_choicesGrouping_calendar": "By calendar",
+  "create_cmd_modify_grouping_choicesGrouping_color": "By color",
+  "create_cmd_modify_grouping_choicesGrouping_date": "By date"
 }
