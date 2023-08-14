@@ -166,5 +166,6 @@
   "create_cmd_modify_grouping_choicesGrouping_none": "Don't group",
   "create_cmd_modify_grouping_choicesGrouping_calendar": "By calendar",
   "create_cmd_modify_grouping_choicesGrouping_color": "By color",
-  "create_cmd_modify_grouping_choicesGrouping_date": "By date"
+  "create_cmd_modify_grouping_choicesGrouping_date": "By date",
+  "create_cmd_modify_grouping_choicesGrouping_hashtag": "By hashtag in event title"
 }
