@@ -167,5 +167,7 @@
   "create_cmd_modify_grouping_choicesGrouping_calendar": "By calendar",
   "create_cmd_modify_grouping_choicesGrouping_color": "By color",
   "create_cmd_modify_grouping_choicesGrouping_date": "By date",
-  "create_cmd_modify_grouping_choicesGrouping_hashtag": "By hashtag in event title"
+  "create_cmd_modify_grouping_choicesGrouping_hashtag": "By hashtag in event title",
+  "syncParuToDiscord_missingPermissions": "One of your events could not be synced to Discord (<#<channel_id>>)\n\nPlease make sure you give the bot the following permissions:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (linked channel), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (linked channel), MUTE_MEMBERS, MOVE_MEMBERS",
+  "syncParuToDiscord_requiredPermissions": "Sync-Info:\n\n(1) It's possible to automatically link events to text-/voice-/stage channels. For that please write the channel name (e.g. #my-channel) in the location field of the event. There should not be multiple channels with this name. Please make sure you give the bot the following permissions:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (linked channel), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (linked channel), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Linking images to a Discord event is also possible. For that please write in the description field of the event the image link in the following format\n+++https://myurl.de/myimage.png+++ (+++LINK+++)"
 }
