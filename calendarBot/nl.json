@@ -148,7 +148,7 @@
     "create_cmd_help": "Help menu voor Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Toon de kleur van de meest recente gebeurtenis als insluitkleur (alleen Google Agenda. Schakel 'gcal-kleuren' in)",
     "oauthh_token_error": "Er is een fout opgetreden bij het koppelen van je Google-account. Gebruik /paru link opnieuw en probeer je Google-account opnieuw te koppelen",
-    "create_cmd_modify_groupEvents": "Gebeurtenissen groeperen per dag/maand/jaar in-/uitschakelen",
+    "create_cmd_modify_groupEvents": "Gebeurtenissen groeperen op dag/maand/jaar, kleur of kalender in-/uitschakelen",
     "create_cmd_modify_desclength_50": "50 tekens",
     "create_cmd_modify_desclength_200": "200 tekens",
     "create_cmd_modify_desclength_dynamic": "Gebruik dynamische beschrijvingslengte (langer voor nabije gebeurtenissen, korter voor meer toekomstige gebeurtenissen)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Volgende week",
     "eventDayGroup_restofmonth": "Rest van de maand",
     "eventDayGroup_restoftheyear": "Rest van het jaar",
-    "eventDayGroup_tomorrow": "Morgen"
+    "eventDayGroup_tomorrow": "Morgen",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Op hashtag in evenementtitel",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Op kleur",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Per kalender",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Op datum",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Het is mogelijk om gebeurtenissen automatisch te koppelen aan tekst-/stem-/stagekanalen. Schrijf daarvoor de kanaalnaam (bijv. #mijn-kanaal) in het locatieveld van de gebeurtenis. Er mogen niet meerdere kanalen met dezelfde naam zijn. Zorg ervoor dat je de bot de volgende rechten geeft:\n**Alle evenementen**: MANAGE_EVENTS\n**Spraakgebeurtenissen**: VIEW_CHANNEL (gekoppeld kanaal), CONNECT\n**Stagegebeurtenissen**: MANAGE_CHANNELS, VIEW_CHANNEL (gelinkt kanaal), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Afbeeldingen linken aan een Discord evenement is ook mogelijk. Schrijf daarvoor in het beschrijvingsveld van het evenement de afbeeldingslink in het volgende formaat\n+++https://myurl.de/myimage.png+++ (bijv. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Een van je evenementen kon niet worden gesynchroniseerd met Discord (<channel_id>)\n\nZorg ervoor dat je de bot de volgende rechten geeft:\n**Alle evenementen**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (gekoppeld kanaal), CONNECT\n**Stagegebeurtenissen**: MANAGE_CHANNELS, VIEW_CHANNEL (gekoppeld kanaal), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Niet groeperen",
+    "create_cmd_reminder_add_channel": "In welk kanaal de herinnering moet worden geplaatst (standaard: dit kanaal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Selecteer alleen tekstkanalen",
+    "deleteRoleReminder_text": "⚠️ **Warning**\nJe rolherinnering in het kanaal <rem_chan_id> voor de kalender in het kanaal <cal_id> is verwijderd omdat **permissies zijn veranderd** of het **kanaal is verwijderd** \n     Maak de rolherinnering opnieuw aan voor het geval dit een fout was",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Zorg ervoor dat Paru de rechten SEND_MESSAGE en VIEW_CHANNEL heeft in het kanaal waar je de herinneringen naartoe wilt sturen",
+    "cpnhandler_link_linkGcal_link": "**Klik op de volgende link om Google Calendar te verbinden met de Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Selecteer kalenders om te verbinden"
 }

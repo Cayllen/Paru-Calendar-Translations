@@ -141,7 +141,7 @@
     "cmdhandler_link_google_btn_label": "Връзка Календар на Google",
     "cmdhandler_unlink_google_btn_label": "Отключване на акаунта в Google",
     "cmdhandler_link_modify_btn_label": "Промяна на свързаните календари",
-    "create_cmd_modify_groupEvents": "Активиране/деактивиране на групирането на събития по ден/месец/година",
+    "create_cmd_modify_groupEvents": "Активиране/деактивиране на групирането на събития по ден/месец/година, цвят или календар",
     "cmdhandler_link_success": "Моля, изберете дали искате да се свържете с календар на Google и/или с външен календар (чрез .ics връзка - вижте: https://paru.app/calendar/manual/)",
     "oauthh_noscope_error": "Уверете се, че сте избрали всички необходими обхвати. Моля, опитайте се да свържете профила си в Google отново",
     "oauthh_token_error": "Възникна грешка при свързването на вашия акаунт в Google. Моля, използвайте отново връзката /paru и опитайте да свържете профила си в Google отново",
@@ -162,5 +162,18 @@
     "eventDayGroup_restoftheyear": "Останалата част от годината",
     "eventDayGroup_nextyear": "Следващата година",
     "eventDayGroup_thereafter": "След това",
-    "cmdhandler_link_channelDuplicate": "Появи се рядък проблем, свързан с вашия календар. Моля, създайте календара в друг канал и опитайте отново. В момента работим по отстраняването на този проблем"
+    "cmdhandler_link_channelDuplicate": "Появи се рядък проблем, свързан с вашия календар. Моля, създайте календара в друг канал и опитайте отново. В момента работим по отстраняването на този проблем",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "По хаштаг в заглавието на събитието",
+    "create_cmd_modify_grouping_choicesGrouping_color": "По цвят",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "По календар",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Към датата",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Възможно е автоматично свързване на събития с текстови/гласови/сценични канали. За тази цел напишете името на канала (напр. #my-channel) в полето за местоположение на събитието. Не трябва да има няколко канала с едно и също име. Моля, уверете се, че сте дали на бота следните права:\n**Всички събития**: MANAGE_EVENTS\n**Събития за глас**: VIEW_CHANNEL (свързан канал), CONNECT\n**Сценични събития**: MANAGE_CHANNELS, VIEW_CHANNEL (свързан канал), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Възможно е и свързването на изображения към събитие в Discord. За тази цел в полето за описание на събитието напишете връзката към изображението в следния формат\n+++https://myurl.de/myimage.png+++ (например +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Едно от вашите събития не може да бъде синхронизирано с Discord (<channel_id>)\n\nМоля, уверете се, че сте дали на бота следните разрешения:\n**Всички събития**: MANAGE_EVENTS\n**Събития за глас**: VIEW_CHANNEL (свързан канал), CONNECT\n**Сценични събития**: MANAGE_CHANNELS, VIEW_CHANNEL (свързан канал), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Не се групирайте",
+    "create_cmd_reminder_add_channel": "В кой канал да се публикува напомнянето (по подразбиране: този канал)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Моля, изберете само текстови канали",
+    "deleteRoleReminder_text": "⚠️ **Упреждение**\nНапомнянето на ролята ви в канала <rem_chan_id> за календара в канала <cal_id> е изтрито, защото **правомощията са се променили** или **каналът е изтрит** \n     Моля, създайте напомнянето на ролята отново, в случай че това е било грешка",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Моля, уверете се, че Paru има разрешение за SEND_MESSAGE и VIEW_CHANNEL в канала, в който искате да изпращате напомнянията",
+    "cpnhandler_link_linkGcal_link": "**Моля, кликнете върху следния линк, за да свържете Google Calendar с Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Изберете календари за свързване"
 }

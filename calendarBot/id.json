@@ -148,7 +148,7 @@
     "create_cmd_help": "Menu bantuan untuk Kalender Paru ❯❮",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Tampilkan warna acara terbaru sebagai warna sematan (hanya Kalender Google. Aktifkan tampilkan 'warna gcal')",
     "oauthh_token_error": "Terjadi kesalahan saat menautkan Akun Google Anda. Silakan gunakan tautan /paru lagi dan coba sambungkan kembali Akun Google Anda",
-    "create_cmd_modify_groupEvents": "Mengaktifkan/Menonaktifkan pengelompokan acara berdasarkan hari/bulan/tahun",
+    "create_cmd_modify_groupEvents": "Mengaktifkan/menonaktifkan pengelompokan acara berdasarkan hari/bulan/tahun, warna atau kalender",
     "create_cmd_modify_desclength_50": "50 karakter",
     "create_cmd_modify_desclength_200": "200 karakter",
     "create_cmd_modify_desclength_dynamic": "Gunakan panjang deskripsi yang dinamis (lebih panjang untuk kejadian yang dekat, lebih pendek untuk kejadian yang lebih jauh)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Minggu depan",
     "eventDayGroup_restofmonth": "Sisa bulan ini",
     "eventDayGroup_restoftheyear": "Sisa tahun ini",
-    "eventDayGroup_tomorrow": "Besok"
+    "eventDayGroup_tomorrow": "Besok",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Berdasarkan tagar dalam judul acara",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Berdasarkan warna",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Berdasarkan kalender",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Berdasarkan tanggal",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Anda dapat menautkan acara secara otomatis ke saluran teks/suara/panggung. Untuk itu, tuliskan nama saluran (misalnya #sayangku) di kolom lokasi acara. Tidak boleh ada beberapa saluran dengan nama yang sama. Pastikan Anda memberikan izin berikut kepada bot:\n**Semua Acara**: MANAGE_EVENTS\n**Acara Suara**: LIHAT_CHANNEL (saluran yang ditautkan), HUBUNGKAN\n**Kejadian Panggung**: MANAGE_CHANNELS, VIEW_CHANNEL (saluran yang ditautkan), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Menautkan gambar ke acara Discord juga dimungkinkan. Untuk itu, harap tuliskan di kolom deskripsi acara tersebut tautan gambar dalam format berikut\n+++https://myurl.de/myimage.png+++ (contoh: +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Salah satu acara Anda tidak dapat disinkronkan ke Discord (<channel_id>)\n\nPastikan Anda memberikan izin berikut kepada bot:\n**Semua Acara**: MANAGE_EVENTS\n**Acara Suara**: LIHAT_CHANNEL (saluran yang ditautkan), HUBUNGKAN\n**Peristiwa Panggung**: KELOLA_CHANNEL, LIHAT_CHANNEL (saluran yang ditautkan), BUNYIKAN_ANGGOTA, PINDAHKAN_ANGGOTA",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Jangan mengelompokkan",
+    "create_cmd_reminder_add_channel": "Di saluran mana pengingat akan dikirim (default: saluran ini)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Pilih hanya saluran teks",
+    "deleteRoleReminder_text": "⚠️ **Peringatan**\nPengingat peran Anda di saluran <rem_chan_id> untuk kalender di saluran <cal_id> telah dihapus karena **perizinan berubah** atau **saluran dihapus** \n     Harap buat pengingat peran lagi jika ini adalah kesalahan",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Pastikan Paru memiliki izin KIRIM_PESAN dan LIHAT_CHANNEL di saluran yang ingin Anda kirimkan pengingat",
+    "cpnhandler_link_linkGcal_link": "**Silakan klik tautan berikut untuk menghubungkan Kalender Google ke Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Pilih kalender yang akan disambungkan"
 }

@@ -148,7 +148,7 @@
     "create_cmd_help": "Menu pomocy dla Paru ❯❮ Kalendarz",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Pokaż kolor najnowszego wydarzenia jako kolor osadzenia (tylko Kalendarz Google. Włącz pokazywanie 'gcal colors')",
     "oauthh_token_error": "Wystąpił błąd przy łączeniu Twojego konta Google. Użyj ponownie linku /paru i spróbuj ponownie połączyć swoje konto Google",
-    "create_cmd_modify_groupEvents": "Włączanie/wyłączanie grupowania zdarzeń według dnia/miesiąca/roku",
+    "create_cmd_modify_groupEvents": "Włącz/wyłącz grupowanie wydarzeń według dnia/miesiąca/roku, koloru lub kalendarza",
     "create_cmd_modify_desclength_50": "50 znaków",
     "create_cmd_modify_desclength_200": "200 znaków",
     "create_cmd_modify_desclength_dynamic": "Stosuj dynamiczną długość opisów (dłuższe dla bliskich wydarzeń, krótsze dla bardziej przyszłych)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "W następnym tygodniu",
     "eventDayGroup_restofmonth": "Reszta miesiąca",
     "eventDayGroup_restoftheyear": "Reszta roku",
-    "eventDayGroup_tomorrow": "Jutro"
+    "eventDayGroup_tomorrow": "Jutro",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Według hashtagu w tytule wydarzenia",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Według koloru",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Według kalendarza",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Według daty",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Możliwe jest automatyczne łączenie wydarzeń z kanałami tekstowymi/głosowymi/scenicznymi. W tym celu wpisz nazwę kanału (np. #my-channel) w polu lokalizacji wydarzenia. Nie powinno być wielu kanałów o tej samej nazwie. Upewnij się, że nadałeś botowi następujące uprawnienia:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (połączony kanał), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (połączony kanał), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Łączenie obrazów z wydarzeniem Discord jest również możliwe. W tym celu wpisz w polu opisu zdarzenia link do obrazu w następującym formacie\n+++https://myurl.de/myimage.png+++ (np. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Jedno z Twoich wydarzeń nie mogło zostać zsynchronizowane z Discord (<channel_id>)\n\nUpewnij się, że nadałeś botowi następujące uprawnienia:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (połączony kanał), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (połączony kanał), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Nie grupuj",
+    "create_cmd_reminder_add_channel": "Na którym kanale opublikować przypomnienie (domyślnie: ten kanał)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Wybierz tylko kanały tekstowe",
+    "deleteRoleReminder_text": "⚠️ **Ostrzeżenie**\nTwoje przypomnienie o roli w kanale <rem_chan_id> dla kalendarza w kanale <cal_id> zostało usunięte, ponieważ **zmieniły się uprawnienia** lub **kanał został usunięty** \n     Utwórz ponownie przypomnienie o roli na wypadek, gdyby to był błąd",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Upewnij się, że Paru ma uprawnienia SEND_MESSAGE i VIEW_CHANNEL w kanale, do którego chcesz wysyłać przypomnienia",
+    "cpnhandler_link_linkGcal_link": "**Kliknij poniższy link, aby połączyć Kalendarz Google z Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Wybierz kalendarze do połączenia"
 }

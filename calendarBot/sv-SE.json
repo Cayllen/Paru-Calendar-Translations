@@ -148,7 +148,7 @@
     "create_cmd_help": "Hjälpmeny för Paru ❯❮ Kalender",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Visa den senaste händelsens färg som inbäddningsfärg (endast Google Calendar. Aktivera visa \"gcal colors\")",
     "oauthh_token_error": "Det var ett fel att länka ditt Google-konto. Använd /paru-länken igen och försök att ansluta ditt Google-konto igen",
-    "create_cmd_modify_groupEvents": "Aktivera/avaktivera gruppering av händelser efter dag/månad/år",
+    "create_cmd_modify_groupEvents": "Aktivera/avaktivera gruppering av händelser efter dag/månad/år, färg eller kalender",
     "create_cmd_modify_desclength_50": "50 tecken",
     "create_cmd_modify_desclength_200": "200 tecken",
     "create_cmd_modify_desclength_dynamic": "Använd dynamisk beskrivningslängd (längre för nära händelser, kortare för mer framtida händelser)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Nästa vecka",
     "eventDayGroup_restofmonth": "Resten av månaden",
     "eventDayGroup_restoftheyear": "Resten av året",
-    "eventDayGroup_tomorrow": "I morgon"
+    "eventDayGroup_tomorrow": "I morgon",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Med hashtag i händelsens titel",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Efter färg",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Efter kalender",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Efter datum",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Det är möjligt att automatiskt länka evenemang till text-/röst-/scene-kanaler. För detta skriv kanalens namn (t.ex. #my-channel) i platsfältet för händelsen. Det bör inte finnas flera kanaler med samma namn. Se till att du ger boten följande behörigheter:\n**Alla evenemang**: MANAGE_EVENTS\n**Rösthändelser**: VIEW_CHANNEL (länkad kanal), CONNECT\n**Scenhändelser**: MANAGE_CHANNELS, VIEW_CHANNEL (länkad kanal), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Att länka bilder till ett Discord-event är också möjligt. För detta, skriv bildlänken i beskrivningsfältet för händelsen i följande format\n+++https://myurl.de/myimage.png+++ (t.ex. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Ett av dina evenemang kunde inte synkroniseras med Discord (<channel_id>)\n\nSe till att du ger bot följande behörigheter:\n**Alla evenemang**: MANAGE_EVENTS\n**Rösthändelser**: VIEW_CHANNEL (länkad kanal), CONNECT\n**Scenhändelser**: MANAGE_CHANNELS, VIEW_CHANNEL (länkad kanal), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Gruppera inte",
+    "create_cmd_reminder_add_channel": "Vilken kanal påminnelsen ska postas i (standard: denna kanal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Välj endast textkanaler",
+    "deleteRoleReminder_text": "⚠️ **Varning**\nDin rollpåminnelse i kanalen <rem_chan_id> för kalendern i kanalen <cal_id> raderades eftersom **behörigheter ändrades** eller **kanalen raderades** \n     Vänligen skapa rollpåminnelsen igen om detta var ett misstag",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Se till att Paru har behörigheten SEND_MESSAGE och VIEW_CHANNEL i den kanal som du vill skicka påminnelserna till",
+    "cpnhandler_link_linkGcal_link": "**Klicka på följande länk för att ansluta Google Kalender till Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Välj kalendrar att ansluta"
 }

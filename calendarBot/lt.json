@@ -148,7 +148,7 @@
     "create_cmd_help": "Paru pagalbos meniu ❯❮ Kalendorius",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Naujausio įvykio spalvą rodyti kaip įterptą spalvą (tik \"Google\" kalendoriuje. Įgalinkite rodyti \"gcal colors\")",
     "oauthh_token_error": "Įvyko \"Google\" paskyros susiejimo klaida. Prašome dar kartą naudoti /paru nuorodą ir bandyti prijungti \"Google\" paskyrą iš naujo",
-    "create_cmd_modify_groupEvents": "Įjungti / išjungti įvykių grupavimą pagal dieną / mėnesį / metus",
+    "create_cmd_modify_groupEvents": "Įjungti / išjungti įvykių grupavimą pagal dieną / mėnesį / metus, spalvą arba kalendorių",
     "create_cmd_modify_desclength_50": "50 simbolių",
     "create_cmd_modify_desclength_200": "200 simbolių",
     "create_cmd_modify_desclength_dynamic": "Naudokite dinamišką aprašymo ilgį (ilgesnį - artimiausiems įvykiams, trumpesnį - būsimiems įvykiams)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Kitą savaitę",
     "eventDayGroup_restofmonth": "Likusi mėnesio dalis",
     "eventDayGroup_restoftheyear": "Likusi metų dalis",
-    "eventDayGroup_tomorrow": "Rytoj"
+    "eventDayGroup_tomorrow": "Rytoj",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Pagal hashtagą renginio pavadinime",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Pagal spalvą",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Pagal kalendorių",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Pagal datą",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Įvykius galima automatiškai susieti su teksto, balso ir scenos kanalais. Tam į įvykio vietos laukelį įrašykite kanalo pavadinimą (pvz., #my-channel). Neturėtų būti kelių kanalų su tuo pačiu pavadinimu. Įsitikinkite, kad botui suteikėte šias teises:\n**Visi įvykiai**: MANAGE_EVENTS\n**Garsiniai įvykiai**: VIEW_CHANNEL (susietas kanalas), CONNECT\n**Scenos įvykiai**: MANAGE_CHANNELS, VIEW_CHANNEL (susietas kanalas), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Taip pat galima susieti vaizdus su \"Discord\" įvykiu. Tam įvykio aprašymo lauke įrašykite paveikslėlio nuorodą tokiu formatu\n+++https://myurl.de/myimage.png+++ (pvz., +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Vieno iš jūsų įvykių nepavyko sinchronizuoti su \"Discord\" (<channel_id>)\n\nPrašome įsitikinti, kad botui suteikėte šiuos leidimus:\n**Visi įvykiai**: MANAGE_EVENTS\n**Garsiniai įvykiai**: VIEW_CHANNEL (susietas kanalas), CONNECT\n**Scenos įvykiai**: MANAGE_CHANNELS, VIEW_CHANNEL (susietas kanalas), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Nesudarykite grupės",
+    "create_cmd_reminder_add_channel": "Kuriame kanale skelbti priminimą (numatytoji reikšmė: šis kanalas)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Pasirinkite tik teksto kanalus",
+    "deleteRoleReminder_text": "⚠️ **Įspėjimas**\nJūsų vaidmens priminimas <rem_chan_id> kanale <cal_id> kalendoriui buvo ištrintas, nes **pasikeitė leidimai** arba **kanalas buvo ištrintas** \n     Prašome sukurti vaidmens priminimą iš naujo, jei tai buvo klaida",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Įsitikinkite, kad \"Paru\" turi SEND_MESSAGE ir VIEW_CHANNEL leidimus kanale, į kurį norite siųsti priminimus",
+    "cpnhandler_link_linkGcal_link": "**Prašome spustelėti šią nuorodą, kad prijungtumėte \"Google\" kalendorių prie \"Paru Discord Bot\":**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Pasirinkite kalendorius, kuriuos norite sujungti"
 }

@@ -148,7 +148,7 @@
     "create_cmd_help": "Meniul de ajutor pentru Paru ❯❮ Calendar",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Afișați culoarea celui mai recent eveniment ca și culoare de încorporare (numai pentru Google Calendar. Activați afișarea \"gcal colors\")",
     "oauthh_token_error": "S-a produs o eroare la conectarea contului Google. Vă rugăm să folosiți din nou link-ul /paru și să încercați să vă conectați din nou contul Google",
-    "create_cmd_modify_groupEvents": "Activați/dezactivați gruparea evenimentelor în funcție de zi/lună/an",
+    "create_cmd_modify_groupEvents": "Activați/dezactivați gruparea evenimentelor în funcție de zi/lună/an, culoare sau calendar",
     "create_cmd_modify_desclength_50": "50 de caractere",
     "create_cmd_modify_desclength_200": "200 de caractere",
     "create_cmd_modify_desclength_dynamic": "Folosiți o lungime dinamică a descrierii (mai lungă pentru evenimente apropiate, mai scurtă pentru evenimente viitoare)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Săptămâna viitoare",
     "eventDayGroup_restofmonth": "Restul lunii",
     "eventDayGroup_restoftheyear": "Restul anului",
-    "eventDayGroup_tomorrow": "Mâine"
+    "eventDayGroup_tomorrow": "Mâine",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Prin hashtag în titlul evenimentului",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Prin culoare",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Prin calendar",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Până la data",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Este posibilă asocierea automată a evenimentelor la canalele de text/voce/scenă. Pentru aceasta, vă rugăm să scrieți numele canalului (de exemplu, #canalul meu) în câmpul de locație al evenimentului. Nu ar trebui să existe mai multe canale cu același nume. Vă rugăm să vă asigurați că acordați robotului următoarele permisiuni:\n**Toate evenimentele**: MANAGE_EVENTS\n**Evenimente de voce**: VIEW_CHANNEL (canal legat), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (canal legat), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Este posibilă, de asemenea, legarea de imagini la un eveniment Discord. În acest scop, vă rugăm să scrieți în câmpul de descriere al evenimentului linkul imaginii în următorul format\n+++https://myurl.de/myimage.png+++ (de exemplu, +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Unul dintre evenimentele dvs. nu a putut fi sincronizat cu Discord (<channel_id>)\n\nVă rugăm să vă asigurați că ați acordat robotului următoarele permisiuni:\n**Toate evenimentele**: MANAGE_EVENTS\n**Evenimente vocale**: VIEW_CHANNEL (canal legat), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (canal legat), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Nu grupați",
+    "create_cmd_reminder_add_channel": "Care canal pentru a posta memento-ul în (implicit: acest canal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Vă rugăm să selectați numai canale de text",
+    "deleteRoleReminder_text": "⚠️ **Avertizare**\nAmintirea rolului dvs. din canalul <rem_chan_id> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece **permisiunile s-au schimbat** sau **canalul a fost șters** \n     Vă rugăm să creați din nou amintirea rolului în cazul în care a fost o greșeală",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Vă rugăm să vă asigurați că Paru are permisiunea SEND_MESSAGE și VIEW_CHANNEL în canalul pe care doriți să trimiteți memento-urile",
+    "cpnhandler_link_linkGcal_link": "**Vă rugăm să faceți clic pe următorul link pentru a conecta Google Calendar la Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Selectați calendarele de conectat"
 }

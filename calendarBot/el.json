@@ -141,7 +141,7 @@
     "cmdhandler_link_google_btn_label": "Σύνδεσμος Ημερολόγιο Google",
     "cmdhandler_unlink_google_btn_label": "Αποσύνδεση λογαριασμού Google",
     "cmdhandler_link_modify_btn_label": "Τροποποίηση συνδεδεμένων ημερολογίων",
-    "create_cmd_modify_groupEvents": "Ενεργοποίηση/απενεργοποίηση της ομαδοποίησης συμβάντων ανά ημέρα/μήνα/έτος",
+    "create_cmd_modify_groupEvents": "Ενεργοποίηση/απενεργοποίηση της ομαδοποίησης συμβάντων ανά ημέρα/μήνα/έτος, χρώμα ή ημερολόγιο",
     "cmdhandler_link_success": "Παρακαλούμε επιλέξτε αν θέλετε να συνδεθείτε σε ένα ημερολόγιο Google ή/και σε ένα εξωτερικό ημερολόγιο (μέσω συνδέσμου .ics - βλ.: https://paru.app/calendar/manual/)",
     "oauthh_noscope_error": "Βεβαιωθείτε ότι έχετε επιλέξει όλα τα απαραίτητα πεδία εφαρμογής. Προσπαθήστε να συνδέσετε ξανά το λογαριασμό σας Google",
     "oauthh_token_error": "Υπήρξε σφάλμα στη σύνδεση του λογαριασμού σας Google. Παρακαλούμε χρησιμοποιήστε ξανά τον σύνδεσμο /paru και προσπαθήστε να συνδέσετε ξανά τον λογαριασμό σας Google",
@@ -162,5 +162,18 @@
     "eventDayGroup_restoftheyear": "Υπόλοιπο του έτους",
     "eventDayGroup_nextyear": "Το επόμενο έτος",
     "eventDayGroup_thereafter": "Στη συνέχεια",
-    "cmdhandler_link_channelDuplicate": "Παρουσιάστηκε ένα σπάνιο πρόβλημα σχετικά με το ημερολόγιό σας. Παρακαλούμε δημιουργήστε το ημερολόγιο σε άλλο κανάλι και δοκιμάστε ξανά. Εργαζόμαστε επί του παρόντος για να διορθώσουμε αυτό το πρόβλημα"
+    "cmdhandler_link_channelDuplicate": "Παρουσιάστηκε ένα σπάνιο πρόβλημα σχετικά με το ημερολόγιό σας. Παρακαλούμε δημιουργήστε το ημερολόγιο σε άλλο κανάλι και δοκιμάστε ξανά. Εργαζόμαστε επί του παρόντος για να διορθώσουμε αυτό το πρόβλημα",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Με hashtag στον τίτλο της εκδήλωσης",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Με χρώμα",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Με ημερολόγιο",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Μέχρι την ημερομηνία",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Είναι δυνατή η αυτόματη σύνδεση συμβάντων με κανάλια κειμένου/φωνής/σκηνής. Για το σκοπό αυτό γράψτε το όνομα του καναλιού (π.χ. #my-channel) στο πεδίο location του συμβάντος. Δεν θα πρέπει να υπάρχουν πολλαπλά κανάλια με το ίδιο όνομα. Βεβαιωθείτε ότι έχετε δώσει στο bot τα ακόλουθα δικαιώματα:\n**Όλα τα γεγονότα**: MANAGE_EVENTS\n**Εκδηλώσεις φωνής**: VIEW_CHANNEL (συνδεδεμένο κανάλι), CONNECT\n**Εκδηλώσεις σκηνής**: \n\n (2) Η σύνδεση εικόνων με ένα συμβάν Discord είναι επίσης δυνατή. Για το σκοπό αυτό γράψτε στο πεδίο περιγραφής του συμβάντος το σύνδεσμο εικόνας με την ακόλουθη μορφή\n+++https://myurl.de/myimage.png+++ (π.χ. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Ένα από τα συμβάντα σας δεν μπόρεσε να συγχρονιστεί με το Discord (<channel_id>)\n\nΒεβαιωθείτε ότι έχετε δώσει στο bot τα ακόλουθα δικαιώματα:\n**Όλα τα συμβάντα**: MANAGE_EVENTS\n**Εκδηλώσεις φωνής**: VIEW_CHANNEL (συνδεδεμένο κανάλι), CONNECT\n**Εκδηλώσεις σκηνής**: MANAGE_CHANNELS, VIEW_CHANNEL (συνδεδεμένο κανάλι), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Μην ομαδοποιείτε",
+    "create_cmd_reminder_add_channel": "Σε ποιο κανάλι θα δημοσιεύεται η υπενθύμιση (προεπιλογή: αυτό το κανάλι)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Επιλέξτε μόνο κανάλια κειμένου",
+    "deleteRoleReminder_text": "⚠️ **Προειδοποίηση**\nΗ υπενθύμιση του ρόλου σας στο κανάλι <rem_chan_id> για το ημερολόγιο στο κανάλι <cal_id> διαγράφηκε επειδή άλλαξαν τα **δικαιώματα** ή το **κανάλι διαγράφηκε** \n     Παρακαλούμε δημιουργήστε ξανά την υπενθύμιση ρόλου σε περίπτωση που αυτό ήταν λάθος",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Βεβαιωθείτε ότι το Paru έχει το δικαίωμα SEND_MESSAGE και VIEW_CHANNEL στο κανάλι που θέλετε να στείλετε τις υπενθυμίσεις",
+    "cpnhandler_link_linkGcal_link": "**Παρακαλούμε κάντε κλικ στον ακόλουθο σύνδεσμο για να συνδέσετε το Ημερολόγιο Google με το Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Επιλέξτε ημερολόγια για σύνδεση"
 }

@@ -141,7 +141,7 @@
     "cmdhandler_link_google_btn_label": "Link Google Kalender",
     "cmdhandler_unlink_google_btn_label": "Fjern linket til Google-konto",
     "cmdhandler_link_modify_btn_label": "Ændre tilsluttede kalendere",
-    "create_cmd_modify_groupEvents": "Aktiver/deaktiver gruppering af begivenheder efter dag/måned/år",
+    "create_cmd_modify_groupEvents": "Aktiver/deaktiver gruppering af begivenheder efter dag/måned/år, farve eller kalender",
     "cmdhandler_link_success": "Vælg venligst, om du vil oprette forbindelse til en Google-kalender og/eller en ekstern kalender (via .ics-link - se: https://paru.app/calendar/manual/)",
     "oauthh_noscope_error": "Sørg for at vælge alle de nødvendige anvendelsesområder. Prøv at oprette forbindelse til din Google-konto igen",
     "oauthh_token_error": "Der opstod en fejl i forbindelse med sammenkoblingen af din Google-konto. Brug venligst /paru-linket igen, og prøv at forbinde din Google-konto igen",
@@ -162,5 +162,18 @@
     "eventDayGroup_restoftheyear": "Resten af året",
     "eventDayGroup_nextyear": "Næste år",
     "eventDayGroup_thereafter": "Herefter",
-    "cmdhandler_link_channelDuplicate": "Der er opstået et sjældent problem med din kalender. Opret venligst kalenderen i en anden kanal og prøv igen. Vi arbejder i øjeblikket på at løse dette problem"
+    "cmdhandler_link_channelDuplicate": "Der er opstået et sjældent problem med din kalender. Opret venligst kalenderen i en anden kanal og prøv igen. Vi arbejder i øjeblikket på at løse dette problem",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Efter hashtag i begivenhedens titel",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Efter farve",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Efter kalender",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Efter dato",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Det er muligt automatisk at linke begivenheder til tekst-/stemme-/scene-kanaler. Til det skal du skrive kanalens navn (f.eks. #my-channel) i begivenhedens placeringsfelt. Der bør ikke være flere kanaler med det samme navn. Sørg for at give botten følgende tilladelser:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (linket kanal), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (linket kanal), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Det er også muligt at linke billeder til en Discord-begivenhed. Skriv billedlinket i beskrivelsesfeltet for begivenheden i følgende format\n+++https://myurl.de/myimage.png+++ (f.eks. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "En af dine begivenheder kunne ikke synkroniseres til Discord (<channel_id>)\n\nSørg for at give botten følgende tilladelser:\n**All Events**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (linket kanal), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (linket kanal), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Gruppér ikke",
+    "create_cmd_reminder_add_channel": "Hvilken kanal påmindelsen skal sendes i (standard: denne kanal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Vælg venligst kun tekstkanaler",
+    "deleteRoleReminder_text": "⚠️ **Advarsel**\nDin rollepåmindelse i kanalen <rem_chan_id> for kalenderen i kanalen <cal_id> blev slettet, fordi **rettighederne blev ændret**, eller **kanalen blev slettet** \n     Opret venligst rollepåmindelsen igen, hvis det var en fejl",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Sørg for, at Paru har tilladelsen SEND_MESSAGE og VIEW_CHANNEL i den kanal, du vil sende påmindelserne til",
+    "cpnhandler_link_linkGcal_link": "**Klik på følgende link for at forbinde Google Calendar til Paru Discord Bot: **",
+    "cpnhandler_link_linkGcal_selectCalendars": "Vælg kalendere, der skal forbindes"
 }

@@ -148,7 +148,7 @@
     "create_cmd_help": "Menu d'aide pour Paru ❯❮ Calendrier",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Afficher la couleur de l'événement le plus récent en tant que couleur intégrée (Google Calendar uniquement. Activer l'affichage des \"couleurs gcal\")",
     "oauthh_token_error": "Une erreur s'est produite lors de la connexion de ton compte Google. Utilise à nouveau le lien /paru et essaie de reconnecter ton compte Google",
-    "create_cmd_modify_groupEvents": "Activer/Désactiver le regroupement des événements par jour/mois/année",
+    "create_cmd_modify_groupEvents": "Activer/désactiver le regroupement des événements par jour/mois/année, par couleur ou par calendrier",
     "create_cmd_modify_desclength_50": "50 caractères",
     "create_cmd_modify_desclength_200": "200 caractères",
     "create_cmd_modify_desclength_dynamic": "Utilise une longueur de description dynamique (plus longue pour les événements proches, plus courte pour les événements plus futurs)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "La semaine prochaine",
     "eventDayGroup_restofmonth": "Reste du mois",
     "eventDayGroup_restoftheyear": "Reste de l'année",
-    "eventDayGroup_tomorrow": "Demain"
+    "eventDayGroup_tomorrow": "Demain",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Par hashtag dans le titre de l'événement",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Par couleur",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Par calendrier",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Par date",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info :\n\n(1) Il est possible de lier automatiquement des événements à des canaux texte/voix/scène. Pour cela, écris le nom du canal (par exemple #moncanal) dans le champ de localisation de l'événement. Il ne doit pas y avoir plusieurs chaînes portant le même nom. Assure-toi de donner au bot les permissions suivantes :\n**Tous les événements** : MANAGE_EVENTS\n**Événements vocaux** : VIEW_CHANNEL (canal lié), CONNECT\n**Événements de scène** : MANAGE_CHANNELS, VIEW_CHANNEL (canal lié), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Il est également possible de lier des images à un événement Discord. Pour cela, écris dans le champ de description de l'événement le lien de l'image au format suivant\n+++https://myurl.de/myimage.png+++ (par exemple +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "L'un de tes événements n'a pas pu être synchronisé avec Discord (<channel_id>)\n\nAssure-toi d'avoir donné au bot les permissions suivantes :\n**Tous les événements** : MANAGE_EVENTS\n**Événements vocaux** : VIEW_CHANNEL (canal lié), CONNECT\n**Événements de scène** : MANAGE_CHANNELS, VIEW_CHANNEL (canal lié), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Ne pas grouper",
+    "create_cmd_reminder_add_channel": "Dans quel canal poster le rappel (par défaut : ce canal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Ne sélectionne que les chaînes de texte",
+    "deleteRoleReminder_text": "⚠️ **Avertissement**\nTon rappel de rôle dans le canal <rem_chan_id> pour le calendrier dans le canal <cal_id> a été supprimé parce que **les permissions ont changé** ou le **canal a été supprimé** \n     Crée à nouveau le rappel de rôle au cas où il s'agirait d'une erreur",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Assure-toi que Paru dispose des autorisations SEND_MESSAGE et VIEW_CHANNEL dans le canal où tu veux envoyer les rappels",
+    "cpnhandler_link_linkGcal_link": "**Veuillez cliquer sur le lien suivant pour connecter Google Calendar à Paru Discord Bot:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Sélectionne les calendriers à connecter"
 }

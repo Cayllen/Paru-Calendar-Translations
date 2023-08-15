@@ -148,7 +148,7 @@
     "create_cmd_help": "Paru 도움말 메뉴 ❯❮ 캘린더",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 가장 최근 이벤트 색상을 임베드 색상으로 표시(Google 캘린더만 해당. 'gcal 색상 표시' 사용 설정)",
     "oauthh_token_error": "Google 계정을 연결하는 동안 오류가 발생했습니다. Paru 링크를 다시 사용하여 Google 계정을 다시 연결해 보세요",
-    "create_cmd_modify_groupEvents": "일/월/연도별 이벤트 그룹화 활성화/비활성화",
+    "create_cmd_modify_groupEvents": "일/월/년, 색상 또는 캘린더별로 이벤트 그룹화 활성화/비활성화",
     "create_cmd_modify_desclength_50": "50자",
     "create_cmd_modify_desclength_200": "200자",
     "create_cmd_modify_desclength_dynamic": "동적 설명 길이 사용(가까운 이벤트의 경우 더 길고, 향후 이벤트의 경우 더 짧게)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "다음 주",
     "eventDayGroup_restofmonth": "나머지 한 달",
     "eventDayGroup_restoftheyear": "연중 나머지 기간",
-    "eventDayGroup_tomorrow": "내일"
+    "eventDayGroup_tomorrow": "내일",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "이벤트 제목의 해시태그 기준",
+    "create_cmd_modify_grouping_choicesGrouping_color": "색상별",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "캘린더별",
+    "create_cmd_modify_grouping_choicesGrouping_date": "날짜별",
+    "syncParuToDiscord_requiredPermissions": "\n\n동기화 정보:\n\n(1) 이벤트를 텍스트/음성/무대 채널에 자동으로 연결할 수 있습니다. 이를 위해서는 이벤트의 위치 필드에 채널 이름(예: #내채널)을 입력하세요. 같은 이름의 채널이 여러 개 있어서는 안 됩니다. 봇에게 다음 권한을 부여하세요:\n**모든 이벤트**: MANAGE_EVENTS\n**음성 이벤트**: VIEW_CHANNEL(연결된 채널), CONNECT\n**스테이지 이벤트**: MANAGE_CHANNELS, VIEW_CHANNEL (링크된 채널), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) 이미지를 디스코드 이벤트에 링크하는 것도 가능합니다. 이를 위해서는 이벤트 설명 필드에\n+++https://myurl.de/myimage.png+++ (예: +++LINK+++) 형식의 이미지 링크를 작성해 주세요",
+    "syncParuToDiscord_missingPermissions": "이벤트 중 하나를 Discord에 동기화할 수 없습니다 (<channel_id>)\n\n봇에 다음 권한을 부여했는지 확인하세요:\n**모든 이벤트**: MANAGE_EVENTS\n**음성 이벤트**: VIEW_CHANNEL (연결된 채널), CONNECT\n**스테이지 이벤트**: MANAGE_CHANNELS, VIEW_CHANNEL(연결된 채널), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "그룹화하지 않기",
+    "create_cmd_reminder_add_channel": "미리 알림을 게시할 채널(기본값: 이 채널)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "텍스트 채널만 선택해 주세요",
+    "deleteRoleReminder_text": "⚠️ **경고**\n채널의 캘린더에 대한 채널 <rem_chan_id> 의 역할 알림이 **권한이 변경되었거나 **채널이 삭제되었기 때문에 <cal_id> 삭제되었습니다 \n     실수인 경우 역할 알림을 다시 생성하세요",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "미리 알림을 보내려는 채널에서 Paru에게 SEND_MESSAGE 및 VIEW_CHANNEL 권한이 있는지 확인하세요",
+    "cpnhandler_link_linkGcal_link": "**구글 캘린더를 파루 디스코드 봇에 연결하려면 다음 링크를 클릭하세요",
+    "cpnhandler_link_linkGcal_selectCalendars": "연결할 캘린더 선택"
 }

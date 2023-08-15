@@ -148,7 +148,7 @@
     "create_cmd_help": "ぱるる❢カレンダーのヘルプメニューです。",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 最新のイベントカラーを埋め込みカラーとして表示する（Googleカレンダーのみ、「gcal colors」の表示を有効にする）",
     "oauthh_token_error": "Google アカウントのリンクにエラーが発生しました。もう一度/paruリンクを使用して、Googleアカウントの接続を試してください。",
-    "create_cmd_modify_groupEvents": "日／月／年によるイベントのグループ化の有効／無効化",
+    "create_cmd_modify_groupEvents": "イベントを日/月/年、色、カレンダーでグループ化することの有効化/無効化",
     "create_cmd_modify_desclength_50": "50文字",
     "create_cmd_modify_desclength_200": "200文字",
     "create_cmd_modify_desclength_dynamic": "動的な説明文の長さを使用する（近いイベントには長く、より未来のイベントには短くする）",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "次の週",
     "eventDayGroup_restofmonth": "今月の残り",
     "eventDayGroup_restoftheyear": "残りの期間",
-    "eventDayGroup_tomorrow": "明日"
+    "eventDayGroup_tomorrow": "明日",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "イベントタイトルのハッシュタグで検索する",
+    "create_cmd_modify_grouping_choicesGrouping_color": "カラー別",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "カレンダーによる",
+    "create_cmd_modify_grouping_choicesGrouping_date": "日付別",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) イベントをテキスト/ボイス/ステージ・チャンネルに自動的にリンクさせることができる。そのためには、イベントのロケーション・フィールドにチャンネル名（例：#my-channel）を書いてほしい。同じ名前のチャンネルが複数あってはいけない。\n**すべてのイベント**：MANAGE_EVENTS\n**音声イベント**：VIEW_CHANNEL (linked channel), CONNECT\n**Stage Events**：MANAGE_CHANNELS, VIEW_CHANNEL (linked channel), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Discordイベントに画像をリンクすることも可能。その場合、イベントの説明欄に以下のフォーマットで画像リンクを記述すること\n+++https://myurl.de/myimage.png+++ (例: +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "イベントの1つがDiscordに同期できなかった (<channel_id>)\n\nボットに以下の権限を与えていることを確認してほしい:\n**すべてのイベント**：MANAGE_EVENTS\n**音声イベント**：VIEW_CHANNEL (linked channel), CONNECT\n**Stage Events**：MANAGE_CHANNELS, VIEW_CHANNEL (リンクされたチャンネル), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "グループ化しない",
+    "create_cmd_reminder_add_channel": "リマインダーを投稿するチャンネル (デフォルト: このチャンネル)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "テキストチャンネルのみを選択する",
+    "deleteRoleReminder_text": "⚠️ **警告**\nチャンネル<rem_chan_id> のカレンダーのあなたのロールリマインダー<cal_id> が **パーミッションが変更された** か、または **チャンネルが削除された** ために削除された\n     これが間違いであった場合に備えて、ロールリマインダーを再度作成してくださ い。",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "リマインダーを送信したいチャンネルで、ParuにSEND_MESSAGEとVIEW_CHANNELのパーミッションがあることを確認してほしい。",
+    "cpnhandler_link_linkGcal_link": "**GoogleカレンダーとParu Discord Botを接続するには、以下のリンクをクリックしてほしい。",
+    "cpnhandler_link_linkGcal_selectCalendars": "接続するカレンダーを選択する"
 }

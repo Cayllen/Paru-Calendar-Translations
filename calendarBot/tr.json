@@ -148,7 +148,7 @@
     "create_cmd_help": "Paru ❯❮ Takvim için yardım menüsü",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ En son etkinlik rengini gömme rengi olarak göster (yalnızca Google Takvim. 'gcal renklerini' göster seçeneğini etkinleştirin)",
     "oauthh_token_error": "Google Hesabınızı bağlarken bir hata oluştu. Lütfen /paru bağlantısını tekrar kullanın ve Google Hesabınızı tekrar bağlamayı deneyin",
-    "create_cmd_modify_groupEvents": "Olayları gün/ay/yıla göre gruplamayı etkinleştirme/devre dışı bırakma",
+    "create_cmd_modify_groupEvents": "Etkinlikleri gün/ay/yıl, renk veya takvime göre gruplamayı etkinleştir/devre dışı bırak",
     "create_cmd_modify_desclength_50": "50 karakter",
     "create_cmd_modify_desclength_200": "200 karakter",
     "create_cmd_modify_desclength_dynamic": "Dinamik açıklama uzunluğu kullanın (yakın olaylar için daha uzun, daha gelecekteki olaylar için daha kısa)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Gelecek hafta",
     "eventDayGroup_restofmonth": "Ayın geri kalanı",
     "eventDayGroup_restoftheyear": "Yılın geri kalanı",
-    "eventDayGroup_tomorrow": "Yarın"
+    "eventDayGroup_tomorrow": "Yarın",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Etkinlik başlığındaki hashtag'e göre",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Renge göre",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Takvime göre",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Tarihe göre",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Olayları otomatik olarak metin/ses/sahne kanallarına bağlamak mümkündür. Bunun için lütfen olayın konum alanına kanal adını (örneğin #my-channel) yazın. Aynı ada sahip birden fazla kanal olmamalıdır. Lütfen bota aşağıdaki izinleri verdiğinizden emin olun:\n**Tüm Etkinlikler**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (bağlantılı kanal), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (bağlantılı kanal), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Görüntüleri bir Discord etkinliğine bağlamak da mümkündür. Bunun için lütfen etkinliğin açıklama alanına resim bağlantısını aşağıdaki formatta yazın\n+++https://myurl.de/myimage.png++ (örneğin +++LINK++)",
+    "syncParuToDiscord_missingPermissions": "Etkinliklerinizden biri Discord ile senkronize edilemedi (<channel_id>)\n\nLütfen bota aşağıdaki izinleri verdiğinizden emin olun:\n**Tüm Etkinlikler**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (bağlantılı kanal), CONNECT\n**Stage Events**: MANAGE_CHANNELS, VIEW_CHANNEL (bağlantılı kanal), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Gruplaşmayın",
+    "create_cmd_reminder_add_channel": "Hatırlatmanın hangi kanalda yayınlanacağı (varsayılan: bu kanal)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Lütfen sadece metin kanallarını seçin",
+    "deleteRoleReminder_text": "⚠️ **Uyarı**\n <rem_chan_id> kanalındaki takvim için <cal_id> kanalındaki rol hatırlatıcınız silindi çünkü **izinleri değişti** veya **kanal silindi** \n     Bunun bir hata olması durumunda lütfen rol hatırlatıcısını yeniden oluşturun",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Lütfen Paru'nun hatırlatıcıları göndermek istediğiniz kanalda SEND_MESSAGE ve VIEW_CHANNEL iznine sahip olduğundan emin olun",
+    "cpnhandler_link_linkGcal_link": "**Google Takvim'i Paru Discord Bot'a bağlamak için lütfen aşağıdaki bağlantıya tıklayın:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Bağlanmak için takvimleri seçin"
 }

@@ -141,7 +141,7 @@
     "cmdhandler_link_google_btn_label": "Odkaz Kalendář Google",
     "cmdhandler_unlink_google_btn_label": "Zrušení propojení s účtem Google",
     "cmdhandler_link_modify_btn_label": "Úprava připojených kalendářů",
-    "create_cmd_modify_groupEvents": "Povolení/zakázání seskupování událostí podle dne/měsíce/roku",
+    "create_cmd_modify_groupEvents": "Povolení/zakázání seskupování událostí podle dne/měsíce/roku, barvy nebo kalendáře",
     "cmdhandler_link_success": "Vyberte, zda se chcete připojit ke kalendáři Google a/nebo k externímu kalendáři (prostřednictvím odkazu .ics - viz: https://paru.app/calendar/manual/)",
     "oauthh_noscope_error": "Ujistěte se, že jste vybrali všechny potřebné obory. Zkuste znovu připojit svůj účet Google",
     "oauthh_token_error": "Při propojování vašeho účtu Google došlo k chybě. Použijte prosím znovu odkaz /paru a zkuste znovu připojit svůj účet Google",
@@ -162,5 +162,18 @@
     "eventDayGroup_restoftheyear": "Zbytek roku",
     "eventDayGroup_nextyear": "Příští rok",
     "eventDayGroup_thereafter": "Poté",
-    "cmdhandler_link_channelDuplicate": "Vyskytl se vzácný problém týkající se vašeho kalendáře. Vytvořte prosím kalendář v jiném kanálu a zkuste to znovu. V současné době pracujeme na odstranění tohoto problému"
+    "cmdhandler_link_channelDuplicate": "Vyskytl se vzácný problém týkající se vašeho kalendáře. Vytvořte prosím kalendář v jiném kanálu a zkuste to znovu. V současné době pracujeme na odstranění tohoto problému",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Podle hashtagu v názvu události",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Podle barvy",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Podle kalendáře",
+    "create_cmd_modify_grouping_choicesGrouping_date": "K datu",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Je možné automaticky propojit události s textovými/hlasovými/scénickými kanály. Za tímto účelem napište název kanálu (např. #my-channel) do pole umístění události. Nemělo by existovat více kanálů se stejným názvem. Ujistěte se, že jste botovi přidělili následující oprávnění:\n**Všechny události**: MANAGE_EVENTS\n**Hlasové události**: VIEW_CHANNEL (propojený kanál), CONNECT\n**Události na jevišti**: MANAGE_CHANNELS, VIEW_CHANNEL (linked channel), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Propojení obrázků s událostí Discordu je také možné. Za tímto účelem napište do pole popisu události odkaz na obrázek v následujícím formátu\n+++https://myurl.de/myimage.png+++ (např. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Jednu z vašich událostí se nepodařilo synchronizovat s Discordem (<channel_id>)\n\nUjistěte se, že jste botovi udělili následující oprávnění:\n**Všechny události**: MANAGE_EVENTS\n**Hlasové události**: VIEW_CHANNEL (propojený kanál), CONNECT\n**Události na jevišti**: MANAGE_CHANNELS, VIEW_CHANNEL (propojený kanál), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Nesdružujte se do skupin",
+    "create_cmd_reminder_add_channel": "Do kterého kanálu se má upomínka odeslat (výchozí: tento kanál)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Vyberte prosím pouze textové kanály",
+    "deleteRoleReminder_text": "⚠️ **Upozornění**\nPřipomínka vaší role v kanálu <rem_chan_id> pro kalendář v kanálu <cal_id> byla smazána, protože se **změnila oprávnění** nebo byl **kanál smazán** \n     Vytvořte prosím připomínku role znovu, pokud se jednalo o chybu",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Ujistěte se, že Paru má oprávnění SEND_MESSAGE a VIEW_CHANNEL v kanálu, na který chcete zasílat upomínky",
+    "cpnhandler_link_linkGcal_link": "**Pro připojení Kalendáře Google k Paru Discord Bot klikněte na následující odkaz:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Výběr kalendářů k připojení"
 }

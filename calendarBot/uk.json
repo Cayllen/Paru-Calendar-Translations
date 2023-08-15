@@ -148,7 +148,7 @@
     "create_cmd_help": "Меню довідки для Paru ❯❮ Календар",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Показувати колір останньої події як колір вбудовування (лише для календаря Google. Увімкніть показ \"gcal colors\")",
     "oauthh_token_error": "Виникла помилка при підключенні вашого облікового запису Google. Будь ласка, використовуйте посилання /paru ще раз і спробуйте підключити свій обліковий запис Google ще раз",
-    "create_cmd_modify_groupEvents": "Увімкнути/вимкнути групування подій за днем/місяцем/роком",
+    "create_cmd_modify_groupEvents": "Увімкнути/вимкнути групування подій за днем/місяцем/роком, кольором або календарем",
     "create_cmd_modify_desclength_50": "50 символів",
     "create_cmd_modify_desclength_200": "200 символів",
     "create_cmd_modify_desclength_dynamic": "Використовуйте динамічну довжину опису (довшу для найближчих подій, коротшу для майбутніх подій)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Наступного тижня",
     "eventDayGroup_restofmonth": "Решта місяця",
     "eventDayGroup_restoftheyear": "Решта року",
-    "eventDayGroup_tomorrow": "Завтра"
+    "eventDayGroup_tomorrow": "Завтра",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "За хештегом у назві події",
+    "create_cmd_modify_grouping_choicesGrouping_color": "За кольором",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "За календарем",
+    "create_cmd_modify_grouping_choicesGrouping_date": "За датою",
+    "syncParuToDiscord_requiredPermissions": "\n\nСинхронізація:\n\n(1) Ви можете автоматично прив'язати події до текстових/голосовых/сценічних каналів. Для цього, будь ласка, напишіть назву каналу (наприклад, #my-channel) в полі локації події. Не повинно бути декількох каналів з однаковою назвою. Переконайтеся, що ви надали боту такі права:\n**Всі події**: MANAGE_EVENTS\n**Озвучувати події**: VIEW_CHANNEL (пов'язаний канал), CONNECT\n**Сценічні події**: MANAGE_CHANNELS, VIEW_CHANNEL (прив'язаний канал), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Прив'язати зображення до події Discord також можливо. Для цього, будь ласка, напишіть в полі опису події посилання на зображення в наступному форматі\n+++https://myurl.de/myimage.png+++ (наприклад, +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Одну з ваших подій не вдалося синхронізувати з Discord (<channel_id>)\n\nПереконайтеся, що ви надали боту такі дозволи:\n**Всі події**: MANAGE_EVENTS\n**Озвучувати події**: VIEW_CHANNEL (пов'язаний канал), CONNECT\n**Сценічні події**: MANAGE_CHANNELS, VIEW_CHANNEL (пов'язаний канал), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Не групуйтеся",
+    "create_cmd_reminder_add_channel": "В якому каналі публікувати нагадування (за замовчуванням: цей канал)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Будь ласка, оберіть лише текстові канали",
+    "deleteRoleReminder_text": "⚠️ **Попередження**\nВаше нагадування про роль у каналі <rem_chan_id> для календаря в каналі <cal_id> було видалено, оскільки **змінено права** або **канал було видалено** \n     Будь ласка, створіть нагадування про роль заново, якщо це була помилка",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Будь ласка, переконайтеся, що Paru має права SEND_MESSAGE та VIEW_CHANNEL для каналу, на який ви хочете надсилати нагадування",
+    "cpnhandler_link_linkGcal_link": "**Щоб підключити Google Calendar до Paru Discord Bot, перейдіть за наступним посиланням:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Виберіть календарі для підключення"
 }

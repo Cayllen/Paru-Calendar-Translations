@@ -148,7 +148,7 @@
     "create_cmd_help": "帕鲁的帮助菜单 ❮日历",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ 将最近的事件颜色显示为嵌入颜色（只限于谷歌日历，启用显示 \"GCAL颜色\"）。",
     "oauthh_token_error": "连接您的谷歌账户时出现了错误。请再次使用/paru链接并尝试再次连接您的谷歌账户。",
-    "create_cmd_modify_groupEvents": "启用/禁用按日/月/年分组的事件",
+    "create_cmd_modify_groupEvents": "启用/禁用按日/月/年、颜色或日历对事件进行分组",
     "create_cmd_modify_desclength_50": "50个字符",
     "create_cmd_modify_desclength_200": "200个字符",
     "create_cmd_modify_desclength_dynamic": "使用动态的描述长度（接近事件的描述较长，更多未来事件的描述较短）。",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "下个星期",
     "eventDayGroup_restofmonth": "本月余下时间",
     "eventDayGroup_restoftheyear": "今年的其余时间",
-    "eventDayGroup_tomorrow": "明天"
+    "eventDayGroup_tomorrow": "明天",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "按活动标题中的标签",
+    "create_cmd_modify_grouping_choicesGrouping_color": "按颜色",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "按日历",
+    "create_cmd_modify_grouping_choicesGrouping_date": "按日期",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) 可以将事件自动链接到文字/声音/舞台频道。为此，请在事件的位置字段中写入频道名称（如 #my-channel）。不能有多个同名频道。请确保赋予机器人以下权限：\n**所有事件**：MANAGE_EVENTS\n**语音事件**：VIEW_CHANNEL （链接频道），CONNECT\n**舞台事件**：MANAGE_CHANNELS, VIEW_CHANNEL (linked channel), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) 也可以将图像链接到 Discord 事件。为此，请在事件描述字段中写入图片链接，格式如下：\n+++https://myurl.de/myimage.png+++ （例如：+++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "您的一个活动无法同步到 Discord (<channel_id>)\n\n请确保您赋予机器人以下权限：\n**所有活动**：MANAGE_EVENTS\n**语音事件**：VIEW_CHANNEL （链接频道），CONNECT\n**舞台事件**：MANAGE_CHANNELS、VIEW_CHANNEL（链接通道）、MUTE_MEMBERS、MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "不要分组",
+    "create_cmd_reminder_add_channel": "在哪个频道发布提醒（默认：本频道）",
+    "cmdhandler_reminder_add_onlyTextChannelError": "请仅选择文本通道",
+    "deleteRoleReminder_text": "⚠️ **警告**\n您在频道<rem_chan_id> 中为频道<cal_id> 中的日历设置的角色提醒已被删除，原因是**权限已更改**或**频道已删除**\n     请重新创建角色提醒，以防出错。",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "请确保 Paru 在要发送提醒的频道中拥有 SEND_MESSAGE 和 VIEW_CHANNEL 权限。",
+    "cpnhandler_link_linkGcal_link": "**请点击以下链接将谷歌日历连接到帕鲁 Discord Bot：**",
+    "cpnhandler_link_linkGcal_selectCalendars": "选择要连接的日历"
 }

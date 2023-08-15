@@ -148,7 +148,7 @@
     "create_cmd_help": "Súgó menü a Paru ❯❮ Naptárhoz",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ A legfrissebb esemény színének megjelenítése beágyazási színként (csak Google Calendar. Enable show 'gcal colors')",
     "oauthh_token_error": "Hiba történt a Google-fiókod összekapcsolásában. Kérjük, használja újra a /paru linket, és próbálja meg újra összekapcsolni a Google-fiókját",
-    "create_cmd_modify_groupEvents": "Az események nap/hónap/év szerinti csoportosításának engedélyezése/letiltása",
+    "create_cmd_modify_groupEvents": "Az események nap/hónap/év, szín vagy naptár szerinti csoportosításának engedélyezése/letiltása",
     "create_cmd_modify_desclength_50": "50 karakter",
     "create_cmd_modify_desclength_200": "200 karakter",
     "create_cmd_modify_desclength_dynamic": "Dinamikus leírás hossza (hosszabb a közeli eseményekhez, rövidebb a jövőbeli eseményekhez)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Jövő héten",
     "eventDayGroup_restofmonth": "A hónap hátralévő része",
     "eventDayGroup_restoftheyear": "Az év hátralévő része",
-    "eventDayGroup_tomorrow": "Holnap"
+    "eventDayGroup_tomorrow": "Holnap",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Az esemény címében szereplő hashtag alapján",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Szín szerint",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Naptár szerint",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Dátum szerint",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Lehetőség van az események automatikus összekapcsolására a szöveg-, hang- és színpadi csatornákhoz. Ehhez kérjük, írja be a csatorna nevét (pl. #my-channel) az esemény hely mezőjébe. Nem lehet több azonos nevű csatorna. Kérjük, győződjön meg róla, hogy a botnak a következő jogosultságokat adja meg:\n**Minden esemény**: MANAGE_EVENTS\n**Hangos események**: VIEW_CHANNEL (összekapcsolt csatorna), CONNECT\n**Színpadi események**: \n\n (2) Képek összekapcsolása egy Discord eseményhez szintén lehetséges. Ehhez kérjük, írja be az esemény leírás mezőjébe a kép linkjét a következő formátumban:\n+++https://myurl.de/myimage.png+++ (pl. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Az egyik eseményedet nem sikerült szinkronizálni a Discorddal (<channel_id>)\n\nKérjük, győződj meg róla, hogy a botnak a következő jogosultságokat adtad meg:\n**Minden esemény**: MANAGE_EVENTS\n**Hangos események**: VIEW_CHANNEL (összekapcsolt csatorna), CONNECT\n**Színpadi események**: MANAGE_CHANNELS, VIEW_CHANNEL (összekapcsolt csatorna), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Ne csoportosítson",
+    "create_cmd_reminder_add_channel": "Melyik csatornán tegye közzé az emlékeztetőt (alapértelmezett: ezen a csatornán)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Kérjük, csak szöveges csatornákat válasszon",
+    "deleteRoleReminder_text": "⚠️ **Figyelmeztetés**\nAz Ön szerepkör-emlékeztetője a <rem_chan_id> csatornán a <cal_id> csatornán lévő naptárhoz törlődött, mert **megváltoztak a jogosultságok** vagy a **csatorna törlődött** \n     Kérjük, hozza létre újra a szerepkör-emlékeztetőt, ha ez hiba volt",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Kérjük, győződjön meg róla, hogy Paru rendelkezik a SEND_MESSAGE és a VIEW_CHANNEL jogosultsággal azon a csatornán, ahová az emlékeztetőket szeretné küldeni",
+    "cpnhandler_link_linkGcal_link": "**Kérlek, kattints az alábbi linkre, hogy a Google Naptárat a Paru Discord Bothoz csatlakoztasd:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Válassza ki a csatlakoztatandó naptárakat"
 }

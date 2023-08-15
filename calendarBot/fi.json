@@ -148,7 +148,7 @@
     "create_cmd_help": "Parun ohjevalikko ❯❮ Kalenteri",
     "create_cmd_modify_recentEventColor2Embed": "⭐️ Näytä viimeisimmän tapahtuman väri upotusvärinä (vain Google-kalenteri. Ota käyttöön Näytä 'gcal-värit')",
     "oauthh_token_error": "Google-tilisi yhdistämisessä tapahtui virhe. Käytä /paru-linkkiä uudelleen ja yritä yhdistää Google-tilisi uudelleen",
-    "create_cmd_modify_groupEvents": "Tapahtumien ryhmittely päivän/kuukauden/vuoden mukaan käyttöön/pois käytöstä",
+    "create_cmd_modify_groupEvents": "Tapahtumien ryhmittely päivän/kuukauden/vuoden, värin tai kalenterin mukaan käyttöön/pois käytöstä",
     "create_cmd_modify_desclength_50": "50 merkkiä",
     "create_cmd_modify_desclength_200": "200 merkkiä",
     "create_cmd_modify_desclength_dynamic": "Käytä dynaamista kuvauksen pituutta (pidempi lähitapahtumille, lyhyempi tuleville tapahtumille)",
@@ -165,5 +165,18 @@
     "eventDayGroup_nextweek": "Ensi viikolla",
     "eventDayGroup_restofmonth": "Kuukauden loppuosa",
     "eventDayGroup_restoftheyear": "Loppuvuosi",
-    "eventDayGroup_tomorrow": "Huomenna"
+    "eventDayGroup_tomorrow": "Huomenna",
+    "create_cmd_modify_grouping_choicesGrouping_hashtag": "Hashtagin mukaan tapahtuman otsikossa",
+    "create_cmd_modify_grouping_choicesGrouping_color": "Värin mukaan",
+    "create_cmd_modify_grouping_choicesGrouping_calendar": "Kalenterin mukaan",
+    "create_cmd_modify_grouping_choicesGrouping_date": "Päivämäärän mukaan",
+    "syncParuToDiscord_requiredPermissions": "\n\nSync-Info:\n\n(1) Tapahtumat on mahdollista yhdistää automaattisesti teksti-, ääni- ja näyttämökanaviin. Kirjoita tätä varten kanavan nimi (esim. #my-channel) tapahtuman sijaintikenttään. Samannimisiä kanavia ei saa olla useita. Varmista, että annat botille seuraavat oikeudet:\n**Kaikki tapahtumat**: MANAGE_EVENTS\n**Voice Events**: VIEW_CHANNEL (linkitetty kanava), CONNECT\n**Lavatapahtumat**: MANAGE_CHANNELS, VIEW_CHANNEL (linkitetty kanava), MUTE_MEMBERS, MOVE_MEMBERS\n\n(2) Kuvien linkittäminen Discord-tapahtumaan on myös mahdollista. Kirjoita tätä varten tapahtuman kuvauskenttään kuvalinkki seuraavassa muodossa\n+++https://myurl.de/myimage.png+++ (esim. +++LINK+++)",
+    "syncParuToDiscord_missingPermissions": "Yhtä tapahtumista ei voitu synkronoida Discordiin (<channel_id>)\n\nVarmista, että annat botille seuraavat oikeudet:\n**Kaikki tapahtumat**: MANAGE_EVENTS\n**Puhetapahtumat**: VIEW_CHANNEL (linkitetty kanava), CONNECT\n**Lavatapahtumat**: MANAGE_CHANNELS, VIEW_CHANNEL (linkitetty kanava), MUTE_MEMBERS, MOVE_MEMBERS",
+    "create_cmd_modify_grouping_choicesGrouping_none": "Älä ryhmittele",
+    "create_cmd_reminder_add_channel": "Missä kanavassa muistutus lähetetään (oletus: tämä kanava)",
+    "cmdhandler_reminder_add_onlyTextChannelError": "Valitse vain tekstikanavat",
+    "deleteRoleReminder_text": "⚠️ **Varoitus**\nRoolimuistutuksesi kanavalla <rem_chan_id> kanavan <cal_id> kalenteria varten poistettiin, koska **oikeudet muuttuivat** tai **kanava poistettiin** \n     Ole hyvä ja luo roolimuistutus uudelleen, jos tämä oli virhe",
+    "cmdhandler_reminder_add_missingChannelPermissionError": "Varmista, että Parulla on SEND_MESSAGE- ja VIEW_CHANNEL-oikeudet kanavalla, jolle haluat lähettää muistutukset",
+    "cpnhandler_link_linkGcal_link": "**Klikkaa seuraavaa linkkiä yhdistääksesi Google-kalenterin Paru Discord Bottiin:**",
+    "cpnhandler_link_linkGcal_selectCalendars": "Valitse yhdistettävät kalenterit"
 }
