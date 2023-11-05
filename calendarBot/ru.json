@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Предупреждение**\nТвоё ролевое напоминание в канале <rem_chan_id> для календаря в канале <cal_id> было удалено, потому что **пермиссии изменились** или **канал был удалён** \n     Пожалуйста, создай ролевое напоминание снова, если это была ошибка",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Убедитесь, что у Paru есть разрешение SEND_MESSAGE и VIEW_CHANNEL в канале, которому вы хотите отправлять напоминания",
     "cpnhandler_link_linkGcal_link": "**Пожалуйста, перейди по следующей ссылке, чтобы подключить Google Calendar к Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Выберите календари для подключения"
+    "cpnhandler_link_linkGcal_selectCalendars": "Выберите календари для подключения",
+    "deleteURL_text": "⚠️ **Предупреждение**\nТвой url <url> для календаря на канале <cal_id> был удалён, потому что Paru больше не имеет доступа к этой ссылке.\nПожалуйста, проверь url и убедись, что он может быть доступен публично, и добавь его снова."
 }

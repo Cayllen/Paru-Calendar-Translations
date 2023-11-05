@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Avertissement**\nTon rappel de rôle dans le canal <rem_chan_id> pour le calendrier dans le canal <cal_id> a été supprimé parce que **les permissions ont changé** ou le **canal a été supprimé** \n     Crée à nouveau le rappel de rôle au cas où il s'agirait d'une erreur",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Assure-toi que Paru dispose des autorisations SEND_MESSAGE et VIEW_CHANNEL dans le canal où tu veux envoyer les rappels",
     "cpnhandler_link_linkGcal_link": "**Veuillez cliquer sur le lien suivant pour connecter Google Calendar à Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Sélectionne les calendriers à connecter"
+    "cpnhandler_link_linkGcal_selectCalendars": "Sélectionne les calendriers à connecter",
+    "deleteURL_text": "⚠️ **Avertissement**\nTon url <url> pour le calendrier dans le canal <cal_id> a été supprimée car Paru n'a plus accès à ce lien.\nVérifie l'url et assure-toi qu'elle peut être accessible publiquement et ajoute-la à nouveau."
 }

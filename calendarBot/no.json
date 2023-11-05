@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Advarsel**\nRollepåminnelsen din i kanalen <rem_chan_id> for kalenderen i kanalen <cal_id> ble slettet fordi **rettighetene ble endret** eller **kanalen ble slettet** \n     Vennligst opprett rollepåminnelsen på nytt i tilfelle dette var en feil",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Forsikre deg om at Paru har tillatelsen SEND_MESSAGE og VIEW_CHANNEL i kanalen du vil sende påminnelsene til",
     "cpnhandler_link_linkGcal_link": "**Vennligst klikk på følgende lenke for å koble Google Calendar til Paru Discord Bot: **",
-    "cpnhandler_link_linkGcal_selectCalendars": "Velg kalendere som skal kobles til"
+    "cpnhandler_link_linkGcal_selectCalendars": "Velg kalendere som skal kobles til",
+    "deleteURL_text": "⚠️ **Warning**\nDin url <url> for kalenderen i kanalen <cal_id> ble slettet fordi Paru ikke har tilgang til denne lenken lenger.\nVennligst sjekk url'en og sørg for at den er offentlig tilgjengelig og legg den til igjen."
 }

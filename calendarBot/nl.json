@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Warning**\nJe rolherinnering in het kanaal <rem_chan_id> voor de kalender in het kanaal <cal_id> is verwijderd omdat **permissies zijn veranderd** of het **kanaal is verwijderd** \n     Maak de rolherinnering opnieuw aan voor het geval dit een fout was",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Zorg ervoor dat Paru de rechten SEND_MESSAGE en VIEW_CHANNEL heeft in het kanaal waar je de herinneringen naartoe wilt sturen",
     "cpnhandler_link_linkGcal_link": "**Klik op de volgende link om Google Calendar te verbinden met de Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Selecteer kalenders om te verbinden"
+    "cpnhandler_link_linkGcal_selectCalendars": "Selecteer kalenders om te verbinden",
+    "deleteURL_text": "⚠️ **Warning**\nJe url <url> voor de kalender in het kanaal <cal_id> is verwijderd omdat Paru geen toegang meer heeft tot deze link.\nControleer de url en zorg ervoor dat deze publiekelijk toegankelijk is & voeg deze opnieuw toe."
 }

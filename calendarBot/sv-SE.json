@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Varning**\nDin rollpåminnelse i kanalen <rem_chan_id> för kalendern i kanalen <cal_id> raderades eftersom **behörigheter ändrades** eller **kanalen raderades** \n     Vänligen skapa rollpåminnelsen igen om detta var ett misstag",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Se till att Paru har behörigheten SEND_MESSAGE och VIEW_CHANNEL i den kanal som du vill skicka påminnelserna till",
     "cpnhandler_link_linkGcal_link": "**Klicka på följande länk för att ansluta Google Kalender till Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Välj kalendrar att ansluta"
+    "cpnhandler_link_linkGcal_selectCalendars": "Välj kalendrar att ansluta",
+    "deleteURL_text": "⚠️ **Warning**\nDin url <url> för kalendern i kanalen <cal_id> raderades eftersom Paru inte har tillgång till denna länk längre.\nKontrollera url:en och se till att den kan nås offentligt och lägg till den igen."
 }

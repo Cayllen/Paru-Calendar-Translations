@@ -175,5 +175,6 @@
     "deleteRoleReminder_text": "⚠️ **Упреждение**\nНапомнянето на ролята ви в канала <rem_chan_id> за календара в канала <cal_id> е изтрито, защото **правомощията са се променили** или **каналът е изтрит** \n     Моля, създайте напомнянето на ролята отново, в случай че това е било грешка",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Моля, уверете се, че Paru има разрешение за SEND_MESSAGE и VIEW_CHANNEL в канала, в който искате да изпращате напомнянията",
     "cpnhandler_link_linkGcal_link": "**Моля, кликнете върху следния линк, за да свържете Google Calendar с Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Изберете календари за свързване"
+    "cpnhandler_link_linkGcal_selectCalendars": "Изберете календари за свързване",
+    "deleteURL_text": "⚠️ **Упреждение**\nВашият url адрес <url> за календара в канала <cal_id> беше изтрит, защото Paru вече няма достъп до тази връзка.\nМоля, проверете url адреса и се уверете, че той може да бъде достъпен публично, и го добавете отново."
 }

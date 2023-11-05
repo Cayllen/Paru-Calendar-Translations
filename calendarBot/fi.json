@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Varoitus**\nRoolimuistutuksesi kanavalla <rem_chan_id> kanavan <cal_id> kalenteria varten poistettiin, koska **oikeudet muuttuivat** tai **kanava poistettiin** \n     Ole hyvä ja luo roolimuistutus uudelleen, jos tämä oli virhe",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Varmista, että Parulla on SEND_MESSAGE- ja VIEW_CHANNEL-oikeudet kanavalla, jolle haluat lähettää muistutukset",
     "cpnhandler_link_linkGcal_link": "**Klikkaa seuraavaa linkkiä yhdistääksesi Google-kalenterin Paru Discord Bottiin:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Valitse yhdistettävät kalenterit"
+    "cpnhandler_link_linkGcal_selectCalendars": "Valitse yhdistettävät kalenterit",
+    "deleteURL_text": "⚠️ **Varoitus**\nKalenterin url <url> kanavalla <cal_id> poistettiin, koska Parulla ei ole enää pääsyä tähän linkkiin.\nTarkista url ja varmista, että sitä voi käyttää julkisesti ja lisää se uudelleen."
 }

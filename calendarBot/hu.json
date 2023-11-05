@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Figyelmeztetés**\nAz Ön szerepkör-emlékeztetője a <rem_chan_id> csatornán a <cal_id> csatornán lévő naptárhoz törlődött, mert **megváltoztak a jogosultságok** vagy a **csatorna törlődött** \n     Kérjük, hozza létre újra a szerepkör-emlékeztetőt, ha ez hiba volt",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Kérjük, győződjön meg róla, hogy Paru rendelkezik a SEND_MESSAGE és a VIEW_CHANNEL jogosultsággal azon a csatornán, ahová az emlékeztetőket szeretné küldeni",
     "cpnhandler_link_linkGcal_link": "**Kérlek, kattints az alábbi linkre, hogy a Google Naptárat a Paru Discord Bothoz csatlakoztasd:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Válassza ki a csatlakoztatandó naptárakat"
+    "cpnhandler_link_linkGcal_selectCalendars": "Válassza ki a csatlakoztatandó naptárakat",
+    "deleteURL_text": "⚠️ **Figyelmeztetés**\nA <url> naptárhoz tartozó url-ed a <cal_id> csatornán törlésre került, mert Paru már nem fér hozzá ehhez a linkhez.\nKérlek ellenőrizd az url-t és győződj meg róla, hogy nyilvánosan elérhető és add hozzá újra."
 }

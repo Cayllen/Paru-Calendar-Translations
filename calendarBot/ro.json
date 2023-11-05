@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Avertizare**\nAmintirea rolului dvs. din canalul <rem_chan_id> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece **permisiunile s-au schimbat** sau **canalul a fost șters** \n     Vă rugăm să creați din nou amintirea rolului în cazul în care a fost o greșeală",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Vă rugăm să vă asigurați că Paru are permisiunea SEND_MESSAGE și VIEW_CHANNEL în canalul pe care doriți să trimiteți memento-urile",
     "cpnhandler_link_linkGcal_link": "**Vă rugăm să faceți clic pe următorul link pentru a conecta Google Calendar la Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Selectați calendarele de conectat"
+    "cpnhandler_link_linkGcal_selectCalendars": "Selectați calendarele de conectat",
+    "deleteURL_text": "⚠️ **Avertizare**\nAdresa dvs. URL <url> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece Paru nu mai are acces la acest link.\nVă rugăm să verificați adresa URL și să vă asigurați că poate fi accesată public și să o adăugați din nou."
 }

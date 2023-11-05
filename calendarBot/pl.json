@@ -178,5 +178,6 @@
     "deleteRoleReminder_text": "⚠️ **Ostrzeżenie**\nTwoje przypomnienie o roli w kanale <rem_chan_id> dla kalendarza w kanale <cal_id> zostało usunięte, ponieważ **zmieniły się uprawnienia** lub **kanał został usunięty** \n     Utwórz ponownie przypomnienie o roli na wypadek, gdyby to był błąd",
     "cmdhandler_reminder_add_missingChannelPermissionError": "Upewnij się, że Paru ma uprawnienia SEND_MESSAGE i VIEW_CHANNEL w kanale, do którego chcesz wysyłać przypomnienia",
     "cpnhandler_link_linkGcal_link": "**Kliknij poniższy link, aby połączyć Kalendarz Google z Paru Discord Bot:**",
-    "cpnhandler_link_linkGcal_selectCalendars": "Wybierz kalendarze do połączenia"
+    "cpnhandler_link_linkGcal_selectCalendars": "Wybierz kalendarze do połączenia",
+    "deleteURL_text": "⚠️ **Ostrzeżenie**\nTwój adres URL <url> dla kalendarza na kanale <cal_id> został usunięty, ponieważ Paru nie ma już dostępu do tego linku.\nSprawdź adres URL i upewnij się, że jest publicznie dostępny i dodaj go ponownie."
 }

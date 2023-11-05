@@ -6,7 +6,6 @@
   "deleteCalendar_text": "⚠️ **Warning**\nYour calendar '<cal_name>' (<cal_days> days) (<cal_id>) was deleted because the **calendar message was deleted**, **permissions changed**, the **channel got deleted**, the **thread was archived**, or the **bot was removed** from the server. \n     Please create the calendar again in case this was a mistake.\n(Used urls: <cal_urls>)",
   "deleteRoleReminder_text": "⚠️ **Warning**\nYour role reminder in the channel <rem_chan_id> for the calendar in the channel <cal_id> was deleted because **permissions changed** or the **channel got deleted** \n     Please create the role reminder again in case this was a mistake",
   "deleteURL_text": "⚠️ **Warning**\nYour url <url> for the calendar in the channel <cal_id> was deleted because Paru has no access to this link anymore.\nPlease check the url and make sure it can be accessed publicly & add it again.",
-
   "handleReminders_reminder": "Reminder",
   "handleReminders_isHappeningToday": "is happening today",
   "handleReminders_isStartingIn": "is starting in",
