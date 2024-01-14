@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Es gibt keine URL, die du aus deinem Kalender entfernen kannst. Bitte wähle einen gültigen Eintrag aus dem Dropdown-Menü aus",
     "cmdhandler_modify_iconError": "Bitte nur Emojis oder Symbole verwenden",
     "cmdhandler_modify_colorError": "Bitte gib eine gültige Hex-Farbe ein (mit dem #; #ff00ff) -> Google 'hex color' für Hilfe",
-    "cmdhandler_modify_missingPermissionsError": "Bitte stelle sicher, dass der Bot die Berechtigung **MANAGE_EVENTS** hat. Andernfalls wird es nicht funktionieren. Du kannst den Bot auch erneut einladen",
+    "cmdhandler_modify_missingPermissionsError": "Bitte stelle sicher, dass der Bot die Berechtigung **MANAGE_EVENTS** hat. Andernfalls wird es nicht funktionieren. Du kannst den Bot auch erneut einladen. \n\nWenn nichts funktioniert, dann bist du von einem seltenen Discord-Bot betroffen. In diesem Fall gib dem Bot bitte die Administrator-Berechtigung. Wir arbeiten mit Discord zusammen, damit das nicht mehr nötig ist.",
     "cmdhandler_modify_nothingSelectedError": "Du musst den Wert von mindestens einem Feld festlegen",
     "cmdhandler_modify_success": "Du hast die Konfiguration für den Kalender in diesem Channel erfolgreich geändert.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Bitte erstelle zuerst einen Kalender (**/paru create**), oder\n- Dein Server hat keine Premiumstufe (zum Ändern der Farbe + des Symbols). Für ein Upgrade besuche https://www.patreon.com/paru",

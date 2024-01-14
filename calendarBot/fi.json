@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Kalenterista ei ole poistettavaa URL-osoitetta tai valitse kelvollinen merkintä pudotusvalikosta",
     "cmdhandler_modify_iconError": "Käytä vain hymiöitä tai symboleja",
     "cmdhandler_modify_colorError": "Kirjoita kelvollinen heksaväri (#; #ff00ff) -> Google 'hex color' for help",
-    "cmdhandler_modify_missingPermissionsError": "Varmista, että botilla on **MANAGE_EVENTS**-oikeus. Muuten se ei toimi. Voit myös kutsua botin uudelleen",
+    "cmdhandler_modify_missingPermissionsError": "Varmista, että botilla on **MANAGE_EVENTS**-oikeus. Muuten se ei toimi. Voit myös kutsua botin uudelleen. \n\nJos mikään ei toimi, sinuun vaikuttaa harvinainen Discord-botti. Tässä tapauksessa anna botille ylläpitäjän oikeudet. Teemme yhteistyötä Discordin kanssa, jotta se ei olisi välttämätöntä.",
     "cmdhandler_modify_nothingSelectedError": "Sinun on määritettävä ainakin yhden kentän arvo",
     "cmdhandler_modify_success": "Olet onnistuneesti muuttanut tämän kanavan kalenterin asetuksia.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Luo ensin kalenteri (**/paru create**), tai\n- Palvelimellasi ei ole premium-tasoa (värin ja kuvakkeen vaihtaminen). Voit päivittää palvelimen osoitteessa https://www.patreon.com/paru",

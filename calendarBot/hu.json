@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Nincs olyan URL, amelyet törölhetne a naptárából, vagy válasszon ki egy érvényes bejegyzést a legördülő listából",
     "cmdhandler_modify_iconError": "Kérjük, csak emojikat vagy szimbólumokat használjon",
     "cmdhandler_modify_colorError": "Kérjük, adjon meg egy érvényes hex színt (#; #ff00ff) -> Google 'hex szín' segítségért",
-    "cmdhandler_modify_missingPermissionsError": "Kérjük, győződjön meg róla, hogy a bot rendelkezik a **MANAGE_EVENTS** jogosultsággal. Ellenkező esetben nem fog működni. Újra meghívhatja a botot",
+    "cmdhandler_modify_missingPermissionsError": "Kérjük, győződjön meg róla, hogy a bot rendelkezik a **MANAGE_EVENTS** jogosultsággal. Ellenkező esetben nem fog működni. A botot újra meghívhatja. \n\nHa semmi sem működik, akkor egy ritka Discord bot érintett. Ebben az esetben kérjük, adja meg a botnak az adminisztrátori jogosultságot. Dolgozunk a Discorddal azon, hogy erre ne legyen szükség.",
     "cmdhandler_modify_nothingSelectedError": "Legalább egy mező értékét be kell állítania",
     "cmdhandler_modify_success": "Sikeresen módosította a naptár konfigurációját ezen a csatornán.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Kérjük, először hozzon létre egy naptárat (**/paru create**), vagy\n- Az Ön szervere nem rendelkezik prémium szinttel (a szín + az ikon megváltoztatásához). A frissítéshez látogasson el a https://www.patreon.com/paru oldalra",

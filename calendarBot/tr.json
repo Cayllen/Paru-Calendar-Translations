@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Takviminizden kaldırılacak bir URL yok veya lütfen açılır menüden geçerli bir giriş seçin",
     "cmdhandler_modify_iconError": "Lütfen sadece emojileri veya sembolleri kullanın",
     "cmdhandler_modify_colorError": "Lütfen geçerli bir hex rengi girin (# ile; #ff00ff) -> Yardım için Google 'hex color'",
-    "cmdhandler_modify_missingPermissionsError": "Lütfen botun **MANAGE_EVENTS** iznine sahip olduğundan emin olun. Aksi takdirde çalışmayacaktır. Ayrıca botu tekrar davet edebilirsiniz",
+    "cmdhandler_modify_missingPermissionsError": "Lütfen botun **MANAGE_EVENTS** iznine sahip olduğundan emin olun. Aksi takdirde çalışmayacaktır. Ayrıca botu tekrar davet edebilirsiniz. \n\nHiçbir şey işe yaramazsa, nadir görülen bir Discord botundan etkilenmişsiniz demektir. Bu durumda lütfen bota yönetici izni verin. Buna gerek kalmaması için Discord ile birlikte çalışıyoruz.",
     "cmdhandler_modify_nothingSelectedError": "En az bir alanın değerini ayarlamanız gerekir",
     "cmdhandler_modify_success": "Bu kanaldaki takvim yapılandırmasını başarıyla değiştirdiniz.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Lütfen önce bir takvim oluşturun (**/paru create**) veya\n- Sunucunuzun premium seviyesi yok (rengi + simgeyi değiştirmek için). Yükseltmek için https://www.patreon.com/paru adresini ziyaret edin",

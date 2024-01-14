@@ -85,7 +85,7 @@
     "cmdhandler_modify_colorError": "Zadejte prosím platnou hexadecimální barvu (s #; #ff00ff) -> nápovědu získáte pomocí Google 'hexadecimální barva'",
     "cmdhandler_modify_channelError": "Vyberte prosím platný kanál, do kterého chcete kalendář přesunout",
     "cmdhandler_modify_change_channel_calendarExists_error": "V tomto kanálu je již kalendář. Nejprve vyberte jiný kanál nebo kalendář v tomto kanálu odstraňte. (Použijte **/paru delete**)",
-    "cmdhandler_modify_missingPermissionsError": "Ujistěte se, že má bot oprávnění **MANAGE_EVENTS**. Jinak nebude fungovat. Bota můžete také znovu pozvat",
+    "cmdhandler_modify_missingPermissionsError": "Ujistěte se, že má bot oprávnění **MANAGE_EVENTS**. Jinak nebude fungovat. Bota můžete také znovu pozvat. \n\nPokud nic nefunguje, pak jste postiženi vzácným botem Discord. V takovém případě dejte botovi oprávnění správce. Spolupracujeme se společností Discord na tom, aby to nebylo nutné.",
     "cmdhandler_modify_nothingSelectedError": "Musíte nastavit hodnotu alespoň jednoho pole",
     "cmdhandler_modify_success": "Úspěšně jste změnili konfiguraci kalendáře v tomto kanálu.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Nejprve si prosím vytvořte kalendář (**/paru create**), nebo\n- Váš server nemá prémiovou úroveň (pro změnu barvy + ikony). Chcete-li provést upgrade, navštivte stránku https://www.patreon.com/paru",

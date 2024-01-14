@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Nu există niciun URL pentru a elimina din calendar sau vă rugăm să selectați o intrare validă din lista derulantă",
     "cmdhandler_modify_iconError": "Vă rugăm să folosiți doar emoticoane sau simboluri",
     "cmdhandler_modify_colorError": "Vă rugăm să introduceți o culoare hexagonală validă (cu #; #ff00ff) -> Google 'hex color' pentru ajutor",
-    "cmdhandler_modify_missingPermissionsError": "Vă rugăm să vă asigurați că robotul are permisiunea **MANAGE_EVENTS**. În caz contrar, nu va funcționa. De asemenea, puteți invita din nou robotul",
+    "cmdhandler_modify_missingPermissionsError": "Vă rugăm să vă asigurați că robotul are permisiunea **MANAGE_EVENTS**. În caz contrar, nu va funcționa. De asemenea, puteți invita din nou robotul. \n\nDacă nu funcționează nimic, atunci sunteți afectat de un bot Discord rar. În acest caz, vă rugăm să acordați botului permisiunea de administrator. Lucrăm cu Discord pentru ca acest lucru să nu fie necesar.",
     "cmdhandler_modify_nothingSelectedError": "Trebuie să setați valoarea a cel puțin un câmp",
     "cmdhandler_modify_success": "Ați reușit să modificați cu succes configurația pentru calendarul din acest canal.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Vă rugăm să creați mai întâi un calendar (**/paru create**), sau\n- Serverul dvs. nu are un nivel premium (pentru a schimba culoarea + pictograma). Pentru a face upgrade, vizitați https://www.patreon.com/paru",

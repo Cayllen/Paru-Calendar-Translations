@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Det er ingen URL å fjerne fra kalenderen din, eller velg en gyldig oppføring fra rullegardinmenyen",
     "cmdhandler_modify_iconError": "Bruk kun emojier eller symboler",
     "cmdhandler_modify_colorError": "Vennligst skriv inn en gyldig hex-farge (med #; #ff00ff) -> Google 'hex color' for hjelp",
-    "cmdhandler_modify_missingPermissionsError": "Kontroller at boten har tillatelsen **MANAGE_EVENTS**. Ellers vil den ikke fungere. Du kan også invitere boten på nytt",
+    "cmdhandler_modify_missingPermissionsError": "Sørg for at boten har tillatelsen **MANAGE_EVENTS**. Ellers vil det ikke fungere. Du kan også invitere boten på nytt. \n\nHvis ingenting fungerer, er du rammet av en sjelden Discord-bot. I så fall må du gi boten administratortillatelse. Vi samarbeider med Discord for å gjøre dette unødvendig.",
     "cmdhandler_modify_nothingSelectedError": "Du må angi verdien av minst ett felt",
     "cmdhandler_modify_success": "Du har endret konfigurasjonen for kalenderen i denne kanalen.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Vennligst opprett en kalender først (**/paru create**), eller\n- Serveren din har ikke premiumnivå (for å endre farge + ikonet). Gå til https://www.patreon.com/paru for å oppgradere",

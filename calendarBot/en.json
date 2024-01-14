@@ -90,7 +90,7 @@
   "cmdhandler_modify_colorError": "Please enter a valid hex color (with the #; #ff00ff) -> Google 'hex color' for help",
   "cmdhandler_modify_channelError": "Please select a valid channel to move the calendar into",
   "cmdhandler_modify_change_channel_calendarExists_error": "There is already a calendar in this channel. Please select another channel or delete the calendar in this channel first. (Use **/paru delete**)",
-  "cmdhandler_modify_missingPermissionsError": "Please make sure the bot has the **MANAGE_EVENTS** permission. Else it won't work. You can also invite the bot again",
+  "cmdhandler_modify_missingPermissionsError": "Please make sure the bot has the **MANAGE_EVENTS** permission. Else it won't work. You can also invite the bot again. \n\nIf nothing works, then you are affected by a rare Discord bot. In this case please give the bot the administrator permission. We are working with Discord to make that not necessary.",
   "cmdhandler_modify_nothingSelectedError": "You have to set the value of at least one field",
   "cmdhandler_modify_success": "You have successfully changed the configuration for the calendar in this channel.",
   "cmdhandler_modify_noPremiumOrCalendarError": "- Please create a calendar first (**/paru create**), or\n- Your server has no premium level (to change color + the icon). To upgrade visit https://www.patreon.com/paru",

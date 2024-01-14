@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Nie ma adresu URL do usunięcia z kalendarza lub wybierz poprawną pozycję z listy rozwijanej",
     "cmdhandler_modify_iconError": "Używaj tylko emojis lub symboli",
     "cmdhandler_modify_colorError": "Wprowadź prawidłowy kolor heksadecymalny (z #; #ff00ff) -> Google 'kolor heksadecymalny', aby uzyskać pomoc",
-    "cmdhandler_modify_missingPermissionsError": "Upewnij się, że bot ma uprawnienia **MANAGE_EVENTS**. W przeciwnym razie nie będzie działał. Możesz też ponownie zaprosić bota",
+    "cmdhandler_modify_missingPermissionsError": "Upewnij się, że bot ma uprawnienie **MANAGE_EVENTS**. W przeciwnym razie nie zadziała. Możesz również zaprosić bota ponownie. \n\nJeśli nic nie działa, masz do czynienia z rzadkim botem Discord. W takim przypadku nadaj botowi uprawnienia administratora. Współpracujemy z Discordem, aby nie było to konieczne.",
     "cmdhandler_modify_nothingSelectedError": "Musisz ustawić wartość co najmniej jednego pola",
     "cmdhandler_modify_success": "Udało ci się zmienić konfigurację kalendarza na tym kanale.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Najpierw utwórz kalendarz (**/paru create**), lub\n- Twój serwer nie ma poziomu premium (aby zmienić kolor + ikonę). Aby uaktualnić, odwiedź stronę https://www.patreon.com/paru",

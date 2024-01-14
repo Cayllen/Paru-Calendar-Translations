@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Il n'y a pas d'URL à supprimer de ton calendrier ou bien choisis une entrée valide dans la liste déroulante",
     "cmdhandler_modify_iconError": "N'utilise que des emojis ou des symboles",
     "cmdhandler_modify_colorError": "Veuillez entrer une couleur hexagonale valide (avec le # ; #ff00ff) -> Google 'hex color' pour de l'aide",
-    "cmdhandler_modify_missingPermissionsError": "Assure-toi que le bot a la permission **MANAGE_EVENTS**. Sinon, cela ne fonctionnera pas. Tu peux aussi inviter le bot à nouveau",
+    "cmdhandler_modify_missingPermissionsError": "Assure-toi que le robot a l'autorisation **MANAGE_EVENTS**. Sinon, cela ne fonctionnera pas. Tu peux aussi inviter le bot à nouveau. \n\nSi rien ne fonctionne, c'est que tu es affecté par un bot Discord rare. Dans ce cas, donne au bot la permission d'administrateur. Nous travaillons avec Discord pour que cela ne soit plus nécessaire.",
     "cmdhandler_modify_nothingSelectedError": "Tu dois définir la valeur d'au moins un champ",
     "cmdhandler_modify_success": "Tu as réussi à modifier la configuration du calendrier dans ce canal.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Veuillez d'abord créer un calendrier (**/paru create**), ou\n- Ton serveur n'a pas de niveau premium (pour changer la couleur + l'icône). Pour mettre à niveau, visite https://www.patreon.com/paru",

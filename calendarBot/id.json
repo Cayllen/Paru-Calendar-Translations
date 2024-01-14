@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Tidak ada URL yang dapat dihapus dari kalender Anda atau pilih entri yang valid dari menu tarik-turun",
     "cmdhandler_modify_iconError": "Harap hanya menggunakan emoji atau simbol",
     "cmdhandler_modify_colorError": "Masukkan warna heksa yang valid (dengan #; #ff00ff) -> Google 'warna heksa' untuk bantuan",
-    "cmdhandler_modify_missingPermissionsError": "Pastikan bot memiliki izin **MANAGE_EVENTS**. Jika tidak, bot tidak akan berfungsi. Anda juga dapat mengundang bot lagi",
+    "cmdhandler_modify_missingPermissionsError": "Pastikan bot memiliki izin **MANAGE_EVENTS**. Jika tidak, bot tidak akan berfungsi. Anda juga dapat mengundang bot lagi. \n\nJika tidak ada yang berhasil, berarti Anda terkena bot Discord yang langka. Dalam hal ini, berikan izin administrator kepada bot tersebut. Kami bekerja sama dengan Discord untuk membuat hal tersebut tidak diperlukan.",
     "cmdhandler_modify_nothingSelectedError": "Anda harus mengatur nilai dari setidaknya satu bidang",
     "cmdhandler_modify_success": "Anda telah berhasil mengubah konfigurasi untuk kalender di saluran ini.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Silakan buat kalender terlebih dahulu (**/paru buat**), atau\n- Server Anda tidak memiliki level premium (untuk mengubah warna + ikon). Untuk meningkatkan, kunjungi https://www.patreon.com/paru",

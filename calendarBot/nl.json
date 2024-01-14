@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Er is geen URL om uit je agenda te verwijderen of kies een geldig item uit de dropdown",
     "cmdhandler_modify_iconError": "Gebruik alleen emoji's of symbolen",
     "cmdhandler_modify_colorError": "Voer een geldige hex-kleur in (met de #; #ff00ff) -> Google 'hex color' voor hulp",
-    "cmdhandler_modify_missingPermissionsError": "Zorg ervoor dat de bot de toestemming **MANAGE_EVENTS** heeft. Anders werkt het niet. Je kunt de bot ook opnieuw uitnodigen",
+    "cmdhandler_modify_missingPermissionsError": "Zorg ervoor dat de bot de toestemming **MANAGE_EVENTS** heeft. Anders werkt het niet. Je kunt de bot ook opnieuw uitnodigen. \n\nAls niets werkt, dan heb je last van een zeldzame Discord bot. Geef de bot in dat geval de beheerdersrechten. We werken samen met Discord om dat niet nodig te maken.",
     "cmdhandler_modify_nothingSelectedError": "Je moet de waarde van minstens één veld instellen",
     "cmdhandler_modify_success": "Je hebt met succes de configuratie voor de kalender in dit kanaal veranderd.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Maak eerst een kalender aan (**/paru create**), of\n- Je server heeft geen premium niveau (om de kleur + het pictogram te veranderen). Ga voor een upgrade naar https://www.patreon.com/paru",

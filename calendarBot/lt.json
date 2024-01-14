@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "URL adreso, kurį norite pašalinti iš kalendoriaus, nėra arba pasirinkite galiojantį įrašą iš išskleidžiamojo sąrašo",
     "cmdhandler_modify_iconError": "Naudokite tik emotikonus arba simbolius",
     "cmdhandler_modify_colorError": "Įveskite galiojančią šešiakampę spalvą (su #; #ff00ff) -> \"Google\" \"šešiakampė spalva",
-    "cmdhandler_modify_missingPermissionsError": "Įsitikinkite, kad botas turi leidimą **MANAGE_EVENTS**. Kitaip tai neveiks. Taip pat galite dar kartą pakviesti botą",
+    "cmdhandler_modify_missingPermissionsError": "Įsitikinkite, kad botas turi leidimą **MANAGE_EVENTS**. Kitaip tai neveiks. Taip pat galite dar kartą pakviesti botą. \n\nJei niekas neveikia, vadinasi, jus paveikė retas \"Discord\" botas. Tokiu atveju suteikite botui administratoriaus leidimą. Bendradarbiaujame su \"Discord\", kad to daryti nereikėtų.",
     "cmdhandler_modify_nothingSelectedError": "Turite nustatyti bent vieno lauko vertę",
     "cmdhandler_modify_success": "Sėkmingai pakeitėte šio kanalo kalendoriaus konfigūraciją.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Pirmiausia sukurkite kalendorių (**/paru create**) arba\n- Jūsų serveryje nėra \"Premium\" lygio (kad pakeistumėte spalvą + piktogramą). Norėdami atnaujinti, apsilankykite https://www.patreon.com/paru",

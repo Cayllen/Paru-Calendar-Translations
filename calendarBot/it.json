@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "Non c'è nessun URL da rimuovere dal calendario o seleziona una voce valida dal menu a tendina",
     "cmdhandler_modify_iconError": "Utilizza solo emoji o simboli",
     "cmdhandler_modify_colorError": "Inserisci un colore esadecimale valido (con il simbolo #; #ff00ff) -> Cerca su Google \"colore esadecimale\"",
-    "cmdhandler_modify_missingPermissionsError": "Assicurati che il bot abbia il permesso **MANAGE_EVENTS**. In caso contrario non funzionerà. Puoi anche invitare nuovamente il bot",
+    "cmdhandler_modify_missingPermissionsError": "Assicurati che il bot abbia il permesso **MANAGE_EVENTS**. In caso contrario non funzionerà. Puoi anche invitare nuovamente il bot. \n\nSe non funziona nulla, allora sei affetto da un raro bot di Discord. In questo caso, dai al bot i permessi di amministratore. Stiamo collaborando con Discord per fare in modo che non sia necessario.",
     "cmdhandler_modify_nothingSelectedError": "Devi impostare il valore di almeno un campo",
     "cmdhandler_modify_success": "Hai modificato con successo la configurazione del calendario in questo canale.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Crea prima un calendario (**/paru create**), oppure\n- Il tuo server non ha un livello premium (per cambiare colore + l'icona). Per effettuare l'upgrade visita https://www.patreon.com/paru",

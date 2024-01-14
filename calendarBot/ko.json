@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "캘린더에서 제거할 URL이 없거나 드롭다운에서 유효한 항목을 선택하세요",
     "cmdhandler_modify_iconError": "이모티콘이나 기호만 사용해 주세요",
     "cmdhandler_modify_colorError": "유효한 16진수 색상을 입력하세요(#; #ff00ff 포함) -> Google '16진수 색상' 도움말을 참조하세요",
-    "cmdhandler_modify_missingPermissionsError": "봇에 **MANAGE_EVENTS** 권한이 있는지 확인하세요. 그렇지 않으면 작동하지 않습니다. 봇을 다시 초대할 수도 있습니다",
+    "cmdhandler_modify_missingPermissionsError": "봇에 **MANAGE_EVENTS** 권한이 있는지 확인하세요. 그렇지 않으면 작동하지 않습니다. 봇을 다시 초대할 수도 있습니다. \n\n아무것도 작동하지 않는다면 드물게 발생하는 디스코드 봇의 영향을 받은 것입니다. 이 경우 봇에게 관리자 권한을 부여하세요. 관리자 권한이 필요하지 않도록 하기 위해 Discord와 협력하고 있습니다.",
     "cmdhandler_modify_nothingSelectedError": "하나 이상의 필드 값을 설정해야 합니다",
     "cmdhandler_modify_success": "이 채널의 캘린더 구성을 성공적으로 변경했습니다.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- 먼저 캘린더를 만들거나(**/paru create**),\n- 서버에 프리미엄 등급이 없습니다(색상 + 아이콘을 변경하려면). 업그레이드하려면 https://www.patreon.com/paru",

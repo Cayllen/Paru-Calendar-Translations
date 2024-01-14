@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "カレンダーから削除するURLがないか、ドロップダウンから有効なエントリーを選択してください",
     "cmdhandler_modify_iconError": "絵文字または記号のみご使用ください。",
     "cmdhandler_modify_colorError": "有効な16進数カラーを入力してください（#; #ff00ff）→Googleで「16進数カラー」を検索してください。",
-    "cmdhandler_modify_missingPermissionsError": "ボットに **MANAGE_EVENTS** 権限があることを確認してください。そうでない場合、動作しません。また、ボットを再度招待することもできます。",
+    "cmdhandler_modify_missingPermissionsError": "ボットに**MANAGE_EVENTS**権限があることを確認してほしい。そうしないと動作しない。ボットを再度招待することもできる。\n\n何も効果がない場合、稀にDiscordボットの影響を受けている可能性がある。この場合、ボットに管理者権限を与えてほしい。その必要がないようにDiscordと協力している。",
     "cmdhandler_modify_nothingSelectedError": "少なくとも1つのフィールドに値を設定する必要があります。",
     "cmdhandler_modify_success": "このチャンネルでカレンダーの設定を変更することができました。",
     "cmdhandler_modify_noPremiumOrCalendarError": "- カレンダーを先に作成してください (**/paru create**), または\n- お使いのサーバーにはプレミアムレベルがありません (色 + アイコンを変更する)。アップグレードするには、https://www.patreon.com/paru。",

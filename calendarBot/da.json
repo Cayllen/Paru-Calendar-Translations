@@ -85,7 +85,7 @@
     "cmdhandler_modify_colorError": "Indtast en gyldig hex-farve (med #; #ff00ff) -> Google 'hex color' for at få hjælp",
     "cmdhandler_modify_channelError": "Vælg venligst en gyldig kanal for at flytte kalenderen ind i",
     "cmdhandler_modify_change_channel_calendarExists_error": "Der findes allerede en kalender i denne kanal. Vælg venligst en anden kanal eller slet kalenderen i denne kanal først. (Brug **/paru delete**)",
-    "cmdhandler_modify_missingPermissionsError": "Sørg for, at bot'en har tilladelsen **MANAGE_EVENTS**. Ellers vil det ikke fungere. Du kan også invitere bot'en igen",
+    "cmdhandler_modify_missingPermissionsError": "Sørg for, at bot'en har tilladelsen **MANAGE_EVENTS**. Ellers vil det ikke virke. Du kan også invitere bot'en igen. \n\nHvis intet virker, er du ramt af en sjælden Discord-bot. I dette tilfælde bedes du give botten administratortilladelse. Vi arbejder med Discord på at gøre det unødvendigt.",
     "cmdhandler_modify_nothingSelectedError": "Du skal angive værdien af mindst ét felt",
     "cmdhandler_modify_success": "Du har ændret konfigurationen for kalenderen i denne kanal.",
     "cmdhandler_modify_noPremiumOrCalendarError": "- Opret venligst en kalender først (**/paru create**), eller\n- Din server har ikke noget premium-niveau (for at ændre farve + ikonet). For at opgradere besøg https://www.patreon.com/paru",

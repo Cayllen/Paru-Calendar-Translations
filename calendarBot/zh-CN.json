@@ -64,7 +64,7 @@
     "cmdhandler_modify_urlError": "没有URL可以从你的日历中删除，或者请从下拉菜单中选择一个有效条目",
     "cmdhandler_modify_iconError": "请只使用表情符号或符号",
     "cmdhandler_modify_colorError": "请输入一个有效的十六进制颜色（用#；#ff00ff）---谷歌 \"十六进制颜色 \"寻求帮助",
-    "cmdhandler_modify_missingPermissionsError": "请确保机器人有**MANAGE_EVENTS**权限。否则，它将无法工作。你也可以再次邀请机器人",
+    "cmdhandler_modify_missingPermissionsError": "请确保机器人拥有 **MANAGE_EVENTS** 权限。否则将无法工作。您也可以再次邀请机器人。\n\n如果没有任何效果，那么您受到了罕见的 Discord 机器人的影响。在这种情况下，请授予该机器人管理员权限。我们正在与 Discord 合作，以避免出现这种情况。",
     "cmdhandler_modify_nothingSelectedError": "你必须至少设置一个字段的值",
     "cmdhandler_modify_success": "你已经成功地改变了这个频道中日历的配置。",
     "cmdhandler_modify_noPremiumOrCalendarError": "- 请先创建一个日历(**/paru create**)，或者\n- 你的服务器没有高级别的（改变颜色+图标）。要升级，请访问https://www.patreon.com/paru",
