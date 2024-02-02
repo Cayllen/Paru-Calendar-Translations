@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Vă rugăm să vă asigurați că Paru are permisiunea SEND_MESSAGE și VIEW_CHANNEL în canalul pe care doriți să trimiteți memento-urile",
     "cpnhandler_link_linkGcal_link": "**Vă rugăm să faceți clic pe următorul link pentru a conecta Google Calendar la Paru Discord Bot:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Selectați calendarele de conectat",
-    "deleteURL_text": "⚠️ **Avertizare**\nAdresa dvs. URL <url> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece Paru nu mai are acces la acest link.\nVă rugăm să verificați adresa URL și să vă asigurați că poate fi accesată public și să o adăugați din nou."
+    "deleteURL_text": "⚠️ **Avertizare**\nAdresa dvs. URL <url> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece Paru nu mai are acces la acest link.\nVă rugăm să verificați adresa URL și să vă asigurați că poate fi accesată public și să o adăugați din nou.",
+    "handleReminders_isStarting": "începe",
+    "create_cmd_modify_dynamic_times": "⭐️ Utilizați orele dinamice din fusul orar pentru calendar și memento-uri",
+    "create_cmd_modify_dynamic_times_choice_relative": "Utilizați timpul relativ",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Dezactivați",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Utilizați timpul absolut"
 }

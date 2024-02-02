@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Assicurati che Paru abbia i permessi SEND_MESSAGE e VIEW_CHANNEL nel canale in cui vuoi inviare i promemoria",
     "cpnhandler_link_linkGcal_link": "**Clicca sul seguente link per collegare Google Calendar al Paru Discord Bot:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Seleziona i calendari da collegare",
-    "deleteURL_text": "⚠️ **Attenzione**\nIl tuo url <url> per il calendario nel canale <cal_id> è stato cancellato perché Paru non ha più accesso a questo link.\nControlla l'url e assicurati che sia accessibile pubblicamente e aggiungilo di nuovo."
+    "deleteURL_text": "⚠️ **Attenzione**\nIl tuo url <url> per il calendario nel canale <cal_id> è stato cancellato perché Paru non ha più accesso a questo link.\nControlla l'url e assicurati che sia accessibile pubblicamente e aggiungilo di nuovo.",
+    "handleReminders_isStarting": "sta iniziando",
+    "create_cmd_modify_dynamic_times": "⭐️ Utilizza gli orari dinamici dei fusi orari per il calendario e i promemoria",
+    "create_cmd_modify_dynamic_times_choice_relative": "Usa il tempo relativo",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Disattivare",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Usa il tempo assoluto"
 }

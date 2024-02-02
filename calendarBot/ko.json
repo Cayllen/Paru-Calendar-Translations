@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "미리 알림을 보내려는 채널에서 Paru에게 SEND_MESSAGE 및 VIEW_CHANNEL 권한이 있는지 확인하세요",
     "cpnhandler_link_linkGcal_link": "**구글 캘린더를 파루 디스코드 봇에 연결하려면 다음 링크를 클릭하세요",
     "cpnhandler_link_linkGcal_selectCalendars": "연결할 캘린더 선택",
-    "deleteURL_text": "⚠️ **경고**\n채널 <cal_id> 의 캘린더에 대한 URL <url> 이 삭제되었습니다.\nURL을 확인하여 공개적으로 액세스할 수 있는지 확인한 후 다시 추가해 주세요."
+    "deleteURL_text": "⚠️ **경고**\n채널 <cal_id> 의 캘린더에 대한 URL <url> 이 삭제되었습니다.\nURL을 확인하여 공개적으로 액세스할 수 있는지 확인한 후 다시 추가해 주세요.",
+    "handleReminders_isStarting": "시작 중",
+    "create_cmd_modify_dynamic_times": "⭐️ 캘린더와 미리 알림에 시간대별 동적 시간 사용",
+    "create_cmd_modify_dynamic_times_choice_relative": "상대 시간 사용",
+    "create_cmd_modify_dynamic_times_choice_disabled": "비활성화",
+    "create_cmd_modify_dynamic_times_choice_absolute": "절대 시간 사용"
 }

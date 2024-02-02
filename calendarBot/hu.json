@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Kérjük, győződjön meg róla, hogy Paru rendelkezik a SEND_MESSAGE és a VIEW_CHANNEL jogosultsággal azon a csatornán, ahová az emlékeztetőket szeretné küldeni",
     "cpnhandler_link_linkGcal_link": "**Kérlek, kattints az alábbi linkre, hogy a Google Naptárat a Paru Discord Bothoz csatlakoztasd:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Válassza ki a csatlakoztatandó naptárakat",
-    "deleteURL_text": "⚠️ **Figyelmeztetés**\nA <url> naptárhoz tartozó url-ed a <cal_id> csatornán törlésre került, mert Paru már nem fér hozzá ehhez a linkhez.\nKérlek ellenőrizd az url-t és győződj meg róla, hogy nyilvánosan elérhető és add hozzá újra."
+    "deleteURL_text": "⚠️ **Figyelmeztetés**\nA <url> naptárhoz tartozó url-ed a <cal_id> csatornán törlésre került, mert Paru már nem fér hozzá ehhez a linkhez.\nKérlek ellenőrizd az url-t és győződj meg róla, hogy nyilvánosan elérhető és add hozzá újra.",
+    "handleReminders_isStarting": "elindul",
+    "create_cmd_modify_dynamic_times": "⭐️ Időzóna-dinamikus időpontok használata a naptárban és az emlékeztetőkben",
+    "create_cmd_modify_dynamic_times_choice_relative": "Relatív idő használata",
+    "create_cmd_modify_dynamic_times_choice_disabled": "A  letiltása",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Abszolút idő használata"
 }

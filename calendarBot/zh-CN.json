@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "请确保 Paru 在要发送提醒的频道中拥有 SEND_MESSAGE 和 VIEW_CHANNEL 权限。",
     "cpnhandler_link_linkGcal_link": "**请点击以下链接将谷歌日历连接到帕鲁 Discord Bot：**",
     "cpnhandler_link_linkGcal_selectCalendars": "选择要连接的日历",
-    "deleteURL_text": "⚠️ **警告**\n您在频道<cal_id> 中的日历网址<url> 已被删除，因为帕鲁已无法访问此链接。\n请检查网址，确保可以公开访问并重新添加。"
+    "deleteURL_text": "⚠️ **警告**\n您在频道<cal_id> 中的日历网址<url> 已被删除，因为帕鲁已无法访问此链接。\n请检查网址，确保可以公开访问并重新添加。",
+    "handleReminders_isStarting": "开始",
+    "create_cmd_modify_dynamic_times": "⭐️ 在日历和提醒事项中使用时区动态时间",
+    "create_cmd_modify_dynamic_times_choice_relative": "使用相对时间",
+    "create_cmd_modify_dynamic_times_choice_disabled": "禁用",
+    "create_cmd_modify_dynamic_times_choice_absolute": "使用绝对时间"
 }

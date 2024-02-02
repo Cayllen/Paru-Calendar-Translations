@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "リマインダーを送信したいチャンネルで、ParuにSEND_MESSAGEとVIEW_CHANNELのパーミッションがあることを確認してほしい。",
     "cpnhandler_link_linkGcal_link": "**GoogleカレンダーとParu Discord Botを接続するには、以下のリンクをクリックしてほしい。",
     "cpnhandler_link_linkGcal_selectCalendars": "接続するカレンダーを選択する",
-    "deleteURL_text": "⚠️ **Warning**\nチャンネル内のカレンダーのあなたのURL<url> <cal_id> は、ぱるるがこのリンクにアクセスできなくなったため、削除された。\nURLを確認し、公にアクセスできることを確認し、再度追加してください。"
+    "deleteURL_text": "⚠️ **Warning**\nチャンネル内のカレンダーのあなたのURL<url> <cal_id> は、ぱるるがこのリンクにアクセスできなくなったため、削除された。\nURLを確認し、公にアクセスできることを確認し、再度追加してください。",
+    "handleReminders_isStarting": "が始まる",
+    "create_cmd_modify_dynamic_times": "⭐️ カレンダーとリマインダーにタイムゾーンダイナミックタイムを使用する。",
+    "create_cmd_modify_dynamic_times_choice_relative": "相対時間を使う",
+    "create_cmd_modify_dynamic_times_choice_disabled": "無効にする",
+    "create_cmd_modify_dynamic_times_choice_absolute": "絶対時間を使う"
 }

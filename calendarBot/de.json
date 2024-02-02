@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Bitte vergewissere dich, dass Paru die Berechtigung SEND_MESSAGE und VIEW_CHANNEL in dem Kanal hat, an den du die Erinnerungen senden möchtest",
     "cpnhandler_link_linkGcal_link": "**Bitte klicke auf den folgenden Link, um den Google Kalender mit dem Paru Discord Bot zu verbinden:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Kalender zum Verbinden auswählen",
-    "deleteURL_text": "⚠️ **Warnung**\nDeine Url <url> für den Kalender im Kanal <cal_id> wurde gelöscht, weil Paru keinen Zugriff mehr auf diesen Link hat.\nBitte überprüfe die Url und stelle sicher, dass sie öffentlich zugänglich ist & füge sie erneut hinzu."
+    "deleteURL_text": "⚠️ **Warnung**\nDeine Url <url> für den Kalender im Kanal <cal_id> wurde gelöscht, weil Paru keinen Zugriff mehr auf diesen Link hat.\nBitte überprüfe die Url und stelle sicher, dass sie öffentlich zugänglich ist & füge sie erneut hinzu.",
+    "handleReminders_isStarting": "startet",
+    "create_cmd_modify_dynamic_times": "⭐️ Verwende zeitzonendynamische Zeiten für den Kalender und die Erinnerungen",
+    "create_cmd_modify_dynamic_times_choice_relative": "Relative Zeit verwenden",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Deaktivieren",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Absolute Zeit verwenden"
 }

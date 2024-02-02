@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Lütfen Paru'nun hatırlatıcıları göndermek istediğiniz kanalda SEND_MESSAGE ve VIEW_CHANNEL iznine sahip olduğundan emin olun",
     "cpnhandler_link_linkGcal_link": "**Google Takvim'i Paru Discord Bot'a bağlamak için lütfen aşağıdaki bağlantıya tıklayın:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Bağlanmak için takvimleri seçin",
-    "deleteURL_text": "⚠️ **Uyarı**\n <cal_id> kanalındaki takvim için <url> url'niz Paru'nun artık bu bağlantıya erişimi olmadığı için silindi.\nLütfen url'yi kontrol edin ve herkese açık olarak erişilebildiğinden emin olun ve tekrar ekleyin."
+    "deleteURL_text": "⚠️ **Uyarı**\n <cal_id> kanalındaki takvim için <url> url'niz Paru'nun artık bu bağlantıya erişimi olmadığı için silindi.\nLütfen url'yi kontrol edin ve herkese açık olarak erişilebildiğinden emin olun ve tekrar ekleyin.",
+    "handleReminders_isStarting": "başlıyor",
+    "create_cmd_modify_dynamic_times": "⭐️ Takvim ve hatırlatıcılar için saat dilimi-dinamik zamanları kullanın",
+    "create_cmd_modify_dynamic_times_choice_relative": "Göreli zaman kullanın",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Devre dışı bırak",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Mutlak zaman kullanın"
 }

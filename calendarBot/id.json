@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Pastikan Paru memiliki izin KIRIM_PESAN dan LIHAT_CHANNEL di saluran yang ingin Anda kirimkan pengingat",
     "cpnhandler_link_linkGcal_link": "**Silakan klik tautan berikut untuk menghubungkan Kalender Google ke Paru Discord Bot:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Pilih kalender yang akan disambungkan",
-    "deleteURL_text": "⚠️ **Peringatan**\nURL Anda <url> untuk kalender di channel <cal_id> telah dihapus karena Paru tidak memiliki akses ke tautan ini lagi.\nMohon periksa url dan pastikan dapat diakses secara publik & tambahkan lagi."
+    "deleteURL_text": "⚠️ **Peringatan**\nURL Anda <url> untuk kalender di channel <cal_id> telah dihapus karena Paru tidak memiliki akses ke tautan ini lagi.\nMohon periksa url dan pastikan dapat diakses secara publik & tambahkan lagi.",
+    "handleReminders_isStarting": "mulai",
+    "create_cmd_modify_dynamic_times": "⭐️ Gunakan waktu dinamis zona waktu untuk kalender dan pengingat",
+    "create_cmd_modify_dynamic_times_choice_relative": "Gunakan waktu relatif",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Nonaktifkan",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Gunakan waktu absolut"
 }

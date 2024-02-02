@@ -176,5 +176,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Ujistěte se, že Paru má oprávnění SEND_MESSAGE a VIEW_CHANNEL v kanálu, na který chcete zasílat upomínky",
     "cpnhandler_link_linkGcal_link": "**Pro připojení Kalendáře Google k Paru Discord Bot klikněte na následující odkaz:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Výběr kalendářů k připojení",
-    "deleteURL_text": "⚠️ **Upozornění**\nVaše url <url> pro kalendář v kanálu <cal_id> byla smazána, protože Paru již nemá k tomuto odkazu přístup.\nZkontrolujte prosím url a ujistěte se, že je veřejně přístupná & přidejte ji znovu."
+    "deleteURL_text": "⚠️ **Upozornění**\nVaše url <url> pro kalendář v kanálu <cal_id> byla smazána, protože Paru již nemá k tomuto odkazu přístup.\nZkontrolujte prosím url a ujistěte se, že je veřejně přístupná & přidejte ji znovu.",
+    "handleReminders_isStarting": "začíná",
+    "create_cmd_modify_dynamic_times": "⭐️ Použití dynamických časů pro kalendář a připomenutí v časových pásmech",
+    "create_cmd_modify_dynamic_times_choice_relative": "Použití relativního času",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Zakázat",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Použití absolutního času"
 }

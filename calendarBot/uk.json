@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Будь ласка, переконайтеся, що Paru має права SEND_MESSAGE та VIEW_CHANNEL для каналу, на який ви хочете надсилати нагадування",
     "cpnhandler_link_linkGcal_link": "**Щоб підключити Google Calendar до Paru Discord Bot, перейдіть за наступним посиланням:**",
     "cpnhandler_link_linkGcal_selectCalendars": "Виберіть календарі для підключення",
-    "deleteURL_text": "⚠️ **Попередження**\nВаш url <url> для календаря на каналі <cal_id> було видалено, оскільки Пару більше не має доступу до цього посилання.\nБудь ласка, перевірте url і переконайтеся, що до нього є публічний доступ, і додайте його знову."
+    "deleteURL_text": "⚠️ **Попередження**\nВаш url <url> для календаря на каналі <cal_id> було видалено, оскільки Пару більше не має доступу до цього посилання.\nБудь ласка, перевірте url і переконайтеся, що до нього є публічний доступ, і додайте його знову.",
+    "handleReminders_isStarting": "починається",
+    "create_cmd_modify_dynamic_times": "⭐️ Використовуйте динамічний час часових поясів для календаря та нагадувань",
+    "create_cmd_modify_dynamic_times_choice_relative": "Використовуйте відносний час",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Вимкнути",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Використовуйте абсолютний час"
 }

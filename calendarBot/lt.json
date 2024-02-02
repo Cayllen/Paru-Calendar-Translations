@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Įsitikinkite, kad \"Paru\" turi SEND_MESSAGE ir VIEW_CHANNEL leidimus kanale, į kurį norite siųsti priminimus",
     "cpnhandler_link_linkGcal_link": "**Prašome spustelėti šią nuorodą, kad prijungtumėte \"Google\" kalendorių prie \"Paru Discord Bot\":**",
     "cpnhandler_link_linkGcal_selectCalendars": "Pasirinkite kalendorius, kuriuos norite sujungti",
-    "deleteURL_text": "⚠️ **Įspėjimas**\nJūsų <url> kalendoriaus url adresas <cal_id> kanale buvo ištrintas, nes Paru nebeturi prieigos prie šios nuorodos.\nPatikrinkite url adresą, įsitikinkite, kad jis gali būti viešai prieinamas, ir pridėkite jį iš naujo."
+    "deleteURL_text": "⚠️ **Įspėjimas**\nJūsų <url> kalendoriaus url adresas <cal_id> kanale buvo ištrintas, nes Paru nebeturi prieigos prie šios nuorodos.\nPatikrinkite url adresą, įsitikinkite, kad jis gali būti viešai prieinamas, ir pridėkite jį iš naujo.",
+    "handleReminders_isStarting": "prasideda",
+    "create_cmd_modify_dynamic_times": "⭐️ Kalendoriuje ir priminimuose naudokite laiko juostos dinaminius laikus",
+    "create_cmd_modify_dynamic_times_choice_relative": "Naudokite santykinį laiką",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Išjungti",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Naudokite absoliutų laiką"
 }

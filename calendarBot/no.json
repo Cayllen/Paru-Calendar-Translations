@@ -179,5 +179,10 @@
     "cmdhandler_reminder_add_missingChannelPermissionError": "Forsikre deg om at Paru har tillatelsen SEND_MESSAGE og VIEW_CHANNEL i kanalen du vil sende påminnelsene til",
     "cpnhandler_link_linkGcal_link": "**Vennligst klikk på følgende lenke for å koble Google Calendar til Paru Discord Bot: **",
     "cpnhandler_link_linkGcal_selectCalendars": "Velg kalendere som skal kobles til",
-    "deleteURL_text": "⚠️ **Warning**\nDin url <url> for kalenderen i kanalen <cal_id> ble slettet fordi Paru ikke har tilgang til denne lenken lenger.\nVennligst sjekk url'en og sørg for at den er offentlig tilgjengelig og legg den til igjen."
+    "deleteURL_text": "⚠️ **Warning**\nDin url <url> for kalenderen i kanalen <cal_id> ble slettet fordi Paru ikke har tilgang til denne lenken lenger.\nVennligst sjekk url'en og sørg for at den er offentlig tilgjengelig og legg den til igjen.",
+    "handleReminders_isStarting": "starter",
+    "create_cmd_modify_dynamic_times": "⭐️ Bruk tidssonedynamiske klokkeslett for kalenderen og påminnelser",
+    "create_cmd_modify_dynamic_times_choice_relative": "Bruk relativ tid",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Deaktivere",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Bruk absolutt tid"
 }
