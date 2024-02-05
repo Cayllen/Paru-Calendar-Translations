@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Warning**\nDin url <url> för kalendern i kanalen <cal_id> raderades eftersom Paru inte har tillgång till denna länk längre.\nKontrollera url:en och se till att den kan nås offentligt och lägg till den igen.",
     "handleReminders_isStarting": "startar",
     "create_cmd_modify_dynamic_times": "⭐️ Använd tidszon-dynamiska tider för kalendern och påminnelser",
-    "create_cmd_modify_dynamic_times_choice_relative": "Använd relativ tid",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Inaktivera",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Använd absolut tid"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamisk (-> på 3h)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absolut tid (standard)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisk (-> 12. maj, 12:00)"
 }

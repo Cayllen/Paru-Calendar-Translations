@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Varoitus**\nKalenterin url <url> kanavalla <cal_id> poistettiin, koska Parulla ei ole enää pääsyä tähän linkkiin.\nTarkista url ja varmista, että sitä voi käyttää julkisesti ja lisää se uudelleen.",
     "handleReminders_isStarting": "alkaa",
     "create_cmd_modify_dynamic_times": "⭐️ Käytä kalenterissa ja muistutuksissa aikavyöhyke-dynaamisia aikoja",
-    "create_cmd_modify_dynamic_times_choice_relative": "Käytä suhteellista aikaa",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Poista käytöstä",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Käytä absoluuttista aikaa"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynaaminen (-> 3 tunnin kuluttua)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absoluuttinen aika (oletus)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynaaminen (-> 12. toukokuuta, 12:00)"
 }

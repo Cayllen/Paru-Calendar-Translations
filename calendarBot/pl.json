@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Ostrzeżenie**\nTwój adres URL <url> dla kalendarza na kanale <cal_id> został usunięty, ponieważ Paru nie ma już dostępu do tego linku.\nSprawdź adres URL i upewnij się, że jest publicznie dostępny i dodaj go ponownie.",
     "handleReminders_isStarting": "zaczyna się",
     "create_cmd_modify_dynamic_times": "⭐️ Używaj dynamicznego czasu strefy czasowej dla kalendarza i przypomnień",
-    "create_cmd_modify_dynamic_times_choice_relative": "Użyj czasu względnego",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Wyłącz",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Użyj czasu bezwzględnego"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamiczny (-> w ciągu 3 godzin)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Czas bezwzględny (domyślnie)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamiczny (-> 12. maja, 12:00)"
 }

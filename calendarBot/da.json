@@ -179,7 +179,7 @@
     "deleteURL_text": "⚠️ **Warning**\nDin url <url> til kalenderen i kanalen <cal_id> blev slettet, fordi Paru ikke længere har adgang til dette link.\nTjek venligst url'en, og sørg for, at den kan tilgås offentligt, og tilføj den igen.",
     "handleReminders_isStarting": "er i gang",
     "create_cmd_modify_dynamic_times": "⭐️ Brug tidszone-dynamiske tidspunkter til kalenderen og påmindelser",
-    "create_cmd_modify_dynamic_times_choice_relative": "Brug relativ tid",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Deaktiver",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Brug absolut tid"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamisk (-> om 3 timer)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absolut tid (standard)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisk (-> 12. maj, 12:00)"
 }

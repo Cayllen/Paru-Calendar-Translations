@@ -179,7 +179,7 @@
     "deleteURL_text": "⚠️ **Upozornění**\nVaše url <url> pro kalendář v kanálu <cal_id> byla smazána, protože Paru již nemá k tomuto odkazu přístup.\nZkontrolujte prosím url a ujistěte se, že je veřejně přístupná & přidejte ji znovu.",
     "handleReminders_isStarting": "začíná",
     "create_cmd_modify_dynamic_times": "⭐️ Použití dynamických časů pro kalendář a připomenutí v časových pásmech",
-    "create_cmd_modify_dynamic_times_choice_relative": "Použití relativního času",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Zakázat",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Použití absolutního času"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamický (-> za 3h)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absolutní čas (výchozí)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. května, 12:00)"
 }

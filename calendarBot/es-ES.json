@@ -179,7 +179,7 @@
     "deleteURL_text": "⚠️ **Atención**\nTu url <url> para el calendario en el canal <cal_id> ha sido eliminada porque Paru ya no tiene acceso a este enlace.\nPor favor, comprueba la url y asegúrate de que se puede acceder públicamente y añádela de nuevo.",
     "handleReminders_isStarting": "empieza",
     "create_cmd_modify_dynamic_times": "⭐️ Utiliza horas dinámicas según la zona horaria para el calendario y los recordatorios",
-    "create_cmd_modify_dynamic_times_choice_relative": "Utiliza el tiempo relativo",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Desactiva",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Utiliza el tiempo absoluto"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dinámico (-> en 3h)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Tiempo absoluto (por defecto)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinámico (-> 12. Mayo, 12:00)"
 }

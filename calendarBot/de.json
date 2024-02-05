@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Warnung**\nDeine Url <url> für den Kalender im Kanal <cal_id> wurde gelöscht, weil Paru keinen Zugriff mehr auf diesen Link hat.\nBitte überprüfe die Url und stelle sicher, dass sie öffentlich zugänglich ist & füge sie erneut hinzu.",
     "handleReminders_isStarting": "startet",
     "create_cmd_modify_dynamic_times": "⭐️ Verwende zeitzonendynamische Zeiten für den Kalender und die Erinnerungen",
-    "create_cmd_modify_dynamic_times_choice_relative": "Relative Zeit verwenden",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Deaktivieren",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Absolute Zeit verwenden"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamisch (-> in 3h)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absolute Zeit (Standard)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. Mai, 12:00)"
 }

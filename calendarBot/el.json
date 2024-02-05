@@ -179,7 +179,7 @@
     "deleteURL_text": "⚠️ **Προειδοποίηση**\nΤο url σας <url> για το ημερολόγιο στο κανάλι <cal_id> διαγράφηκε επειδή η Paru δεν έχει πλέον πρόσβαση σε αυτό το link.\nΠαρακαλώ ελέγξτε το url και βεβαιωθείτε ότι μπορεί να γίνει δημόσια προσβάσιμο και προσθέστε το ξανά.",
     "handleReminders_isStarting": "ξεκινάει",
     "create_cmd_modify_dynamic_times": "⭐️ Χρήση χρονοζωνών-δυναμικών χρόνων για το ημερολόγιο και τις υπενθυμίσεις",
-    "create_cmd_modify_dynamic_times_choice_relative": "Χρήση σχετικού χρόνου",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Απενεργοποίηση",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Χρήση απόλυτου χρόνου"
+    "create_cmd_modify_dynamic_times_choice_relative": "Δυναμική (-> σε 3 ώρες)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Απόλυτος χρόνος (προεπιλογή)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Δυναμική (-> 12. Μάιος, 12:00)"
 }

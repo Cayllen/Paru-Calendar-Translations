@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **警告**\n您在频道<cal_id> 中的日历网址<url> 已被删除，因为帕鲁已无法访问此链接。\n请检查网址，确保可以公开访问并重新添加。",
     "handleReminders_isStarting": "开始",
     "create_cmd_modify_dynamic_times": "⭐️ 在日历和提醒事项中使用时区动态时间",
-    "create_cmd_modify_dynamic_times_choice_relative": "使用相对时间",
-    "create_cmd_modify_dynamic_times_choice_disabled": "禁用",
-    "create_cmd_modify_dynamic_times_choice_absolute": "使用绝对时间"
+    "create_cmd_modify_dynamic_times_choice_relative": "动态（-> 3 小时内）",
+    "create_cmd_modify_dynamic_times_choice_disabled": "绝对时间（默认）",
+    "create_cmd_modify_dynamic_times_choice_absolute": "动态 (-> 12. 五月，12:00)"
 }

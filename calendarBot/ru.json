@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Предупреждение**\nТвой url <url> для календаря на канале <cal_id> был удалён, потому что Paru больше не имеет доступа к этой ссылке.\nПожалуйста, проверь url и убедись, что он может быть доступен публично, и добавь его снова.",
     "handleReminders_isStarting": "начинает",
     "create_cmd_modify_dynamic_times": "⭐️ Используй для календаря и напоминаний время, зависящее от часового пояса",
-    "create_cmd_modify_dynamic_times_choice_relative": "Используй относительное время",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Отключи",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Используй абсолютное время"
+    "create_cmd_modify_dynamic_times_choice_relative": "Динамический (-> через 3 часа)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютное время (по умолчанию)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. May, 12:00)"
 }

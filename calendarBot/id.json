@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Peringatan**\nURL Anda <url> untuk kalender di channel <cal_id> telah dihapus karena Paru tidak memiliki akses ke tautan ini lagi.\nMohon periksa url dan pastikan dapat diakses secara publik & tambahkan lagi.",
     "handleReminders_isStarting": "mulai",
     "create_cmd_modify_dynamic_times": "⭐️ Gunakan waktu dinamis zona waktu untuk kalender dan pengingat",
-    "create_cmd_modify_dynamic_times_choice_relative": "Gunakan waktu relatif",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Nonaktifkan",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Gunakan waktu absolut"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dinamis (-> dalam 3 jam)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Waktu absolut (default)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamis (-> 12. Mei, pukul 12:00)"
 }

@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Įspėjimas**\nJūsų <url> kalendoriaus url adresas <cal_id> kanale buvo ištrintas, nes Paru nebeturi prieigos prie šios nuorodos.\nPatikrinkite url adresą, įsitikinkite, kad jis gali būti viešai prieinamas, ir pridėkite jį iš naujo.",
     "handleReminders_isStarting": "prasideda",
     "create_cmd_modify_dynamic_times": "⭐️ Kalendoriuje ir priminimuose naudokite laiko juostos dinaminius laikus",
-    "create_cmd_modify_dynamic_times_choice_relative": "Naudokite santykinį laiką",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Išjungti",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Naudokite absoliutų laiką"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dinaminis (-> per 3 val.)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absoliutus laikas (numatytasis)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinaminis (-> gegužės 12 d., 12:00)"
 }

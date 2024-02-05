@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Avertizare**\nAdresa dvs. URL <url> pentru calendarul din canalul <cal_id> a fost ștearsă deoarece Paru nu mai are acces la acest link.\nVă rugăm să verificați adresa URL și să vă asigurați că poate fi accesată public și să o adăugați din nou.",
     "handleReminders_isStarting": "începe",
     "create_cmd_modify_dynamic_times": "⭐️ Utilizați orele dinamice din fusul orar pentru calendar și memento-uri",
-    "create_cmd_modify_dynamic_times_choice_relative": "Utilizați timpul relativ",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Dezactivați",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Utilizați timpul absolut"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dinamic (-> în 3h)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Timp absolut (implicit)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamic (-> 12. mai, 12:00)"
 }

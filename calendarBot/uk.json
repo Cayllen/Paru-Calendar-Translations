@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Попередження**\nВаш url <url> для календаря на каналі <cal_id> було видалено, оскільки Пару більше не має доступу до цього посилання.\nБудь ласка, перевірте url і переконайтеся, що до нього є публічний доступ, і додайте його знову.",
     "handleReminders_isStarting": "починається",
     "create_cmd_modify_dynamic_times": "⭐️ Використовуйте динамічний час часових поясів для календаря та нагадувань",
-    "create_cmd_modify_dynamic_times_choice_relative": "Використовуйте відносний час",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Вимкнути",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Використовуйте абсолютний час"
+    "create_cmd_modify_dynamic_times_choice_relative": "Динаміка (-> через 3 години)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютний час (за замовчуванням)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Динаміка (-> 12 травня, 12:00)"
 }

@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Figyelmeztetés**\nA <url> naptárhoz tartozó url-ed a <cal_id> csatornán törlésre került, mert Paru már nem fér hozzá ehhez a linkhez.\nKérlek ellenőrizd az url-t és győződj meg róla, hogy nyilvánosan elérhető és add hozzá újra.",
     "handleReminders_isStarting": "elindul",
     "create_cmd_modify_dynamic_times": "⭐️ Időzóna-dinamikus időpontok használata a naptárban és az emlékeztetőkben",
-    "create_cmd_modify_dynamic_times_choice_relative": "Relatív idő használata",
-    "create_cmd_modify_dynamic_times_choice_disabled": "A  letiltása",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Abszolút idő használata"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dinamikus (-> 3 óra alatt)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Abszolút idő (alapértelmezett)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamikus (-> 12. Május 12, 12:00)"
 }

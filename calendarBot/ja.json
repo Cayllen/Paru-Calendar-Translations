@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Warning**\nチャンネル内のカレンダーのあなたのURL<url> <cal_id> は、ぱるるがこのリンクにアクセスできなくなったため、削除された。\nURLを確認し、公にアクセスできることを確認し、再度追加してください。",
     "handleReminders_isStarting": "が始まる",
     "create_cmd_modify_dynamic_times": "⭐️ カレンダーとリマインダーにタイムゾーンダイナミックタイムを使用する。",
-    "create_cmd_modify_dynamic_times_choice_relative": "相対時間を使う",
-    "create_cmd_modify_dynamic_times_choice_disabled": "無効にする",
-    "create_cmd_modify_dynamic_times_choice_absolute": "絶対時間を使う"
+    "create_cmd_modify_dynamic_times_choice_relative": "ダイナミック（→3時間後）",
+    "create_cmd_modify_dynamic_times_choice_disabled": "絶対時間（デフォルト）",
+    "create_cmd_modify_dynamic_times_choice_absolute": "ダイナミック (-> 5月12日 12:00)"
 }

@@ -182,7 +182,7 @@
     "deleteURL_text": "⚠️ **Warning**\nJe url <url> voor de kalender in het kanaal <cal_id> is verwijderd omdat Paru geen toegang meer heeft tot deze link.\nControleer de url en zorg ervoor dat deze publiekelijk toegankelijk is & voeg deze opnieuw toe.",
     "handleReminders_isStarting": "begint",
     "create_cmd_modify_dynamic_times": "⭐️ Gebruik tijdzone-dynamische tijden voor de kalender en herinneringen",
-    "create_cmd_modify_dynamic_times_choice_relative": "Gebruik relatieve tijd",
-    "create_cmd_modify_dynamic_times_choice_disabled": "Uitschakelen",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Absolute tijd gebruiken"
+    "create_cmd_modify_dynamic_times_choice_relative": "Dynamisch (-> in 3u)",
+    "create_cmd_modify_dynamic_times_choice_disabled": "Absolute tijd (standaard)",
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. mei, 12:00)"
 }
