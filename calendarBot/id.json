@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Gunakan waktu dinamis zona waktu untuk kalender dan pengingat",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamis (-> dalam 3 jam)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Waktu absolut (default)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamis (-> 12. Mei, pukul 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamis (-> 12. Mei, pukul 12:00)",
+    "modify_individual_reminders_pm": "Memodifikasi"
 }

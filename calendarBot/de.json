@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Verwende zeitzonendynamische Zeiten für den Kalender und die Erinnerungen",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamisch (-> in 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolute Zeit (Standard)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. Mai, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. Mai, 12:00)",
+    "modify_individual_reminders_pm": "Ändern Sie"
 }

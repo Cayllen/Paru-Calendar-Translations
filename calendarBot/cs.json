@@ -181,5 +181,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Použití dynamických časů pro kalendář a připomenutí v časových pásmech",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamický (-> za 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolutní čas (výchozí)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. května, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. května, 12:00)",
+    "modify_individual_reminders_pm": "Upravit"
 }

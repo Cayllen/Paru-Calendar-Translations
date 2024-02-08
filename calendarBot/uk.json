@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Використовуйте динамічний час часових поясів для календаря та нагадувань",
     "create_cmd_modify_dynamic_times_choice_relative": "Динаміка (-> через 3 години)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютний час (за замовчуванням)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Динаміка (-> 12 травня, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Динаміка (-> 12 травня, 12:00)",
+    "modify_individual_reminders_pm": "Змінити"
 }

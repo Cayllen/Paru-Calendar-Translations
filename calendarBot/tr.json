@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Takvim ve hatırlatıcılar için saat dilimi-dinamik zamanları kullanın",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamik (-> 3 saat içinde)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Mutlak zaman (varsayılan)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamik (-> 12. Mayıs, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamik (-> 12. Mayıs, 12:00)",
+    "modify_individual_reminders_pm": "Değiştirmek"
 }

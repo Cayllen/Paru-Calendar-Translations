@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Gebruik tijdzone-dynamische tijden voor de kalender en herinneringen",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamisch (-> in 3u)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolute tijd (standaard)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. mei, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. mei, 12:00)",
+    "modify_individual_reminders_pm": "Aanpassen"
 }

@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Använd tidszon-dynamiska tider för kalendern och påminnelser",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamisk (-> på 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolut tid (standard)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisk (-> 12. maj, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisk (-> 12. maj, 12:00)",
+    "modify_individual_reminders_pm": "Ändra"
 }

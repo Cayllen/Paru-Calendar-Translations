@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ 在日历和提醒事项中使用时区动态时间",
     "create_cmd_modify_dynamic_times_choice_relative": "动态（-> 3 小时内）",
     "create_cmd_modify_dynamic_times_choice_disabled": "绝对时间（默认）",
-    "create_cmd_modify_dynamic_times_choice_absolute": "动态 (-> 12. 五月，12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "动态 (-> 12. 五月，12:00)",
+    "modify_individual_reminders_pm": "修改"
 }

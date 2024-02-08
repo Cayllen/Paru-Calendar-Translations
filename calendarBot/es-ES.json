@@ -181,5 +181,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Utiliza horas dinámicas según la zona horaria para el calendario y los recordatorios",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinámico (-> en 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Tiempo absoluto (por defecto)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinámico (-> 12. Mayo, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinámico (-> 12. Mayo, 12:00)",
+    "modify_individual_reminders_pm": "Modifica"
 }

@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Bruk tidssonedynamiske klokkeslett for kalenderen og påminnelser",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamisk (-> om 3 timer)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolutt tid (standard)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. mai, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. mai, 12:00)",
+    "modify_individual_reminders_pm": "Endre"
 }

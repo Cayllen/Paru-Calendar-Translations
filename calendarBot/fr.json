@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Utilise les heures dynamiques des fuseaux horaires pour le calendrier et les rappels",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamique (-> en 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Temps absolu (par défaut)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamique (-> 12. mai, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamique (-> 12. mai, 12:00)",
+    "modify_individual_reminders_pm": "Modifier"
 }

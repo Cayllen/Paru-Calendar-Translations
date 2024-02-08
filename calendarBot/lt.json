@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Kalendoriuje ir priminimuose naudokite laiko juostos dinaminius laikus",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinaminis (-> per 3 val.)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absoliutus laikas (numatytasis)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinaminis (-> gegužės 12 d., 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinaminis (-> gegužės 12 d., 12:00)",
+    "modify_individual_reminders_pm": "Keisti"
 }

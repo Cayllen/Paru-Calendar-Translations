@@ -181,5 +181,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Използване на динамични часове в часовите зони за календара и напомнянията",
     "create_cmd_modify_dynamic_times_choice_relative": "Динамичен (-> за 3 часа)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютно време (по подразбиране)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. май, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. май, 12:00)",
+    "modify_individual_reminders_pm": "Промяна на"
 }

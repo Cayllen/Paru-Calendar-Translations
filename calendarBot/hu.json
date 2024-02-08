@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Időzóna-dinamikus időpontok használata a naptárban és az emlékeztetőkben",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamikus (-> 3 óra alatt)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Abszolút idő (alapértelmezett)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamikus (-> 12. Május 12, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamikus (-> 12. Május 12, 12:00)",
+    "modify_individual_reminders_pm": "Módosítsa a  címet"
 }

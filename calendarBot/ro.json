@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Utilizați orele dinamice din fusul orar pentru calendar și memento-uri",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamic (-> în 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Timp absolut (implicit)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamic (-> 12. mai, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamic (-> 12. mai, 12:00)",
+    "modify_individual_reminders_pm": "Modificați"
 }

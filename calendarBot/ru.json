@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Используй для календаря и напоминаний время, зависящее от часового пояса",
     "create_cmd_modify_dynamic_times_choice_relative": "Динамический (-> через 3 часа)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютное время (по умолчанию)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. May, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. May, 12:00)",
+    "modify_individual_reminders_pm": "Измените"
 }

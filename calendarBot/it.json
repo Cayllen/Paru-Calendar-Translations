@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Utilizza gli orari dinamici dei fusi orari per il calendario e i promemoria",
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamico (-> in 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Tempo assoluto (predefinito)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamico (-> 12 maggio, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dinamico (-> 12 maggio, 12:00)",
+    "modify_individual_reminders_pm": "Modifica"
 }

@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Używaj dynamicznego czasu strefy czasowej dla kalendarza i przypomnień",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamiczny (-> w ciągu 3 godzin)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Czas bezwzględny (domyślnie)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamiczny (-> 12. maja, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynamiczny (-> 12. maja, 12:00)",
+    "modify_individual_reminders_pm": "Modyfikuj"
 }

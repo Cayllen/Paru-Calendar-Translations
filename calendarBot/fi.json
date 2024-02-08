@@ -184,5 +184,6 @@
     "create_cmd_modify_dynamic_times": "⭐️ Käytä kalenterissa ja muistutuksissa aikavyöhyke-dynaamisia aikoja",
     "create_cmd_modify_dynamic_times_choice_relative": "Dynaaminen (-> 3 tunnin kuluttua)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absoluuttinen aika (oletus)",
-    "create_cmd_modify_dynamic_times_choice_absolute": "Dynaaminen (-> 12. toukokuuta, 12:00)"
+    "create_cmd_modify_dynamic_times_choice_absolute": "Dynaaminen (-> 12. toukokuuta, 12:00)",
+    "modify_individual_reminders_pm": "Muokkaa"
 }
