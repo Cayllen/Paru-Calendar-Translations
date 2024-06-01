@@ -182,5 +182,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Δυναμική (-> σε 3 ώρες)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Απόλυτος χρόνος (προεπιλογή)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Δυναμική (-> 12. Μάιος, 12:00)",
-    "modify_individual_reminders_pm": "Τροποποίηση"
+    "modify_individual_reminders_pm": "Τροποποίηση",
+    "cmdhandler_link_channelNotSupported": "Ένα από τα επιλεγμένα ημερολόγια Google δεν υποστηρίζεται για τη δημιουργία ημερολογίου (συνήθως ημερολόγια γενεθλίων/εορτών). Παρακαλούμε χρησιμοποιήστε τον σύνδεσμο .ical στο Google για να συνδέσετε αυτό το ημερολόγιο με το Paru"
 }

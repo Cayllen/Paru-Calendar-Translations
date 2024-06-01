@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamis (-> dalam 3 jam)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Waktu absolut (default)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamis (-> 12. Mei, pukul 12:00)",
-    "modify_individual_reminders_pm": "Memodifikasi"
+    "modify_individual_reminders_pm": "Memodifikasi",
+    "cmdhandler_link_channelNotSupported": "Salah satu kalender Google yang dipilih tidak didukung untuk membuat kalender (biasanya kalender ulang tahun/liburan). Silakan gunakan tautan .ical di Google sebagai gantinya untuk menghubungkan kalender tersebut ke Paru"
 }

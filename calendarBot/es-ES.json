@@ -182,5 +182,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dinámico (-> en 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Tiempo absoluto (por defecto)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinámico (-> 12. Mayo, 12:00)",
-    "modify_individual_reminders_pm": "Modifica"
+    "modify_individual_reminders_pm": "Modifica",
+    "cmdhandler_link_channelNotSupported": "Uno de los calendarios de Google seleccionados no es compatible para crear un calendario (normalmente los calendarios de cumpleaños/festividades). Por favor, utiliza en su lugar el enlace .ical de Google para conectar ese calendario a Paru"
 }

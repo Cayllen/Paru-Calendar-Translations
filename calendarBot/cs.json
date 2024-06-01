@@ -182,5 +182,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamický (-> za 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolutní čas (výchozí)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. května, 12:00)",
-    "modify_individual_reminders_pm": "Upravit"
+    "modify_individual_reminders_pm": "Upravit",
+    "cmdhandler_link_channelNotSupported": "Jeden z vybraných kalendářů Google není podporován pro vytvoření kalendáře (obvykle kalendáře narozenin/svátků). Místo toho použijte odkaz .ical v aplikaci Google pro připojení tohoto kalendáře k aplikaci Paru"
 }

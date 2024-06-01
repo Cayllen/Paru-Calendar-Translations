@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dynaaminen (-> 3 tunnin kuluttua)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absoluuttinen aika (oletus)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynaaminen (-> 12. toukokuuta, 12:00)",
-    "modify_individual_reminders_pm": "Muokkaa"
+    "modify_individual_reminders_pm": "Muokkaa",
+    "cmdhandler_link_channelNotSupported": "Jotakin valituista Google-kalentereista ei tueta kalenterin luomisessa (yleensä syntymäpäivä- ja lomakalenterit). Käytä sen sijaan Googlen .ical-linkkiä liittääksesi kyseisen kalenterin Paruun"
 }

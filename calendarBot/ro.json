@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamic (-> în 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Timp absolut (implicit)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamic (-> 12. mai, 12:00)",
-    "modify_individual_reminders_pm": "Modificați"
+    "modify_individual_reminders_pm": "Modificați",
+    "cmdhandler_link_channelNotSupported": "Unul dintre calendarele Google selectate nu este acceptat pentru crearea unui calendar (de obicei, calendarele de zile de naștere/sărbători). Vă rugăm să utilizați în schimb link-ul .ical din Google pentru a conecta acel calendar la Paru"
 }

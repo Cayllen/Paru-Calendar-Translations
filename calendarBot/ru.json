@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Динамический (-> через 3 часа)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Абсолютное время (по умолчанию)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. May, 12:00)",
-    "modify_individual_reminders_pm": "Измените"
+    "modify_individual_reminders_pm": "Измените",
+    "cmdhandler_link_channelNotSupported": "Один из выбранных календарей Google не поддерживается для создания календаря (обычно это календари дней рождения/праздников). Вместо этого воспользуйся ссылкой .ical в Google, чтобы подключить этот календарь к Paru"
 }

@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "动态（-> 3 小时内）",
     "create_cmd_modify_dynamic_times_choice_disabled": "绝对时间（默认）",
     "create_cmd_modify_dynamic_times_choice_absolute": "动态 (-> 12. 五月，12:00)",
-    "modify_individual_reminders_pm": "修改"
+    "modify_individual_reminders_pm": "修改",
+    "cmdhandler_link_channelNotSupported": "所选 Google 日历之一不支持创建日历（通常是生日/假日日历）。请使用 Google 中的 .ical 链接将该日历连接到 Paru"
 }

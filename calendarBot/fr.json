@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamique (-> en 3h)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Temps absolu (par défaut)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamique (-> 12. mai, 12:00)",
-    "modify_individual_reminders_pm": "Modifier"
+    "modify_individual_reminders_pm": "Modifier",
+    "cmdhandler_link_channelNotSupported": "L'un des calendriers Google sélectionnés n'est pas pris en charge pour la création d'un calendrier (généralement les calendriers d'anniversaire/de vacances). Utilise plutôt le lien .ical de Google pour connecter ce calendrier à Paru"
 }

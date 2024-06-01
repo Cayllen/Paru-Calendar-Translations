@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dinamikus (-> 3 óra alatt)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Abszolút idő (alapértelmezett)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamikus (-> 12. Május 12, 12:00)",
-    "modify_individual_reminders_pm": "Módosítsa a  címet"
+    "modify_individual_reminders_pm": "Módosítsa a  címet",
+    "cmdhandler_link_channelNotSupported": "A kiválasztott Google-naptárak egyike nem támogatott naptár létrehozásához (általában születésnapi/ünnepi naptárak). Kérjük, használja helyette a .ical linket a Google-ban, hogy összekapcsolja ezt a naptárat a Paru"
 }

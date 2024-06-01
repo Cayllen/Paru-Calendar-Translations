@@ -185,5 +185,6 @@
     "create_cmd_modify_dynamic_times_choice_relative": "Dynamisk (-> om 3 timer)",
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolutt tid (standard)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. mai, 12:00)",
-    "modify_individual_reminders_pm": "Endre"
+    "modify_individual_reminders_pm": "Endre",
+    "cmdhandler_link_channelNotSupported": "En av de valgte Google-kalenderne støttes ikke for å opprette en kalender (vanligvis bursdags- og høytidskalendere). Bruk i stedet .ical-lenken i Google for å koble den kalenderen til Paru"
 }

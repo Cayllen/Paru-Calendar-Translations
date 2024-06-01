@@ -175,6 +175,7 @@
   "eventDayGroup_nextyear": "Next year",
   "eventDayGroup_thereafter": "Thereafter",
   "cmdhandler_link_channelDuplicate": "A rare issue concerning your calendar has occured. Please create the calendar in another channel and try again. We are currently working to fix this issue",
+  "cmdhandler_link_channelNotSupported": "One of the selected Google calendars is not supported for creating a calendar (usually birthday/holiday calendars). Please use the .ical link in Google instead to connect that calendar to Paru",
   "create_cmd_modify_grouping_choicesGrouping_none": "Don't group",
   "create_cmd_modify_grouping_choicesGrouping_calendar": "By calendar",
   "create_cmd_modify_grouping_choicesGrouping_color": "By color",
