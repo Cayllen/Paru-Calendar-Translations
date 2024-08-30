@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "絶対時間（デフォルト）",
     "create_cmd_modify_dynamic_times_choice_absolute": "ダイナミック (-> 5月12日 12:00)",
     "modify_individual_reminders_pm": "修正する",
-    "cmdhandler_link_channelNotSupported": "選択したGoogleカレンダーがカレンダー作成に対応していない（通常、誕生日/祝日カレンダー）。代わりにGoogleの.icalリンクを使用して、そのカレンダーをParuに接続する。"
+    "cmdhandler_link_channelNotSupported": "選択したGoogleカレンダーがカレンダー作成に対応していない（通常、誕生日/祝日カレンダー）。代わりにGoogleの.icalリンクを使用して、そのカレンダーをParuに接続する。",
+    "getCalendarEmbed_embed_timezone_global": "時間はすべて",
+    "getCalendarEmbed_embed_timezone_local": "すべての時間は現在のタイムゾーンで表示される",
+    "create_cmd_modify_desc": "カレンダーの説明を変更する",
+    "create_cmd_modify_description_explainer": "**Use following options to customize description:**\n{days} {n} (= new line), \\***text*** (= bold), \\__text_** (= underline), \\**text*** (= cursive)\n(Write 'default' to use default message)\n(Mention user/role with @ and channel with #)\n\n(Use arrow-up key to edit last version) ※説明をカスタマイズするには以下のオプションを使う。"
 }

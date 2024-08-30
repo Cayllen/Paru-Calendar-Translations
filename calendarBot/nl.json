@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolute tijd (standaard)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamisch (-> 12. mei, 12:00)",
     "modify_individual_reminders_pm": "Aanpassen",
-    "cmdhandler_link_channelNotSupported": "Een van de geselecteerde Google-kalenders wordt niet ondersteund voor het maken van een kalender (meestal verjaardags-/vakantiekalenders). Gebruik in plaats daarvan de .ical-link in Google om die agenda te verbinden met Paru"
+    "cmdhandler_link_channelNotSupported": "Een van de geselecteerde Google-kalenders wordt niet ondersteund voor het maken van een kalender (meestal verjaardags-/vakantiekalenders). Gebruik in plaats daarvan de .ical-link in Google om die agenda te verbinden met Paru",
+    "getCalendarEmbed_embed_timezone_global": "Alle tijden zijn in",
+    "getCalendarEmbed_embed_timezone_local": "Alle tijden worden weergegeven in je huidige tijdzone",
+    "create_cmd_modify_desc": "De beschrijving van de kalender wijzigen",
+    "create_cmd_modify_description_explainer": "**Gebruik de volgende opties om de beschrijving aan te passen:**\n{days} {n} (= nieuwe regel), \\*tekst* (= vetgedrukt), \\_tekst_ (= onderstreept), \\*tekst* (= cursief)\n(Schrijf 'standaard' om het standaardbericht te gebruiken)\n(Vermeld gebruiker/rol met @ en kanaal met #)\n\n(Gebruik de pijl-omhoog-toets om de laatste versie te bewerken)"
 }

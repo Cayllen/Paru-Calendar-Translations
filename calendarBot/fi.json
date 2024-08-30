@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Absoluuttinen aika (oletus)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynaaminen (-> 12. toukokuuta, 12:00)",
     "modify_individual_reminders_pm": "Muokkaa",
-    "cmdhandler_link_channelNotSupported": "Jotakin valituista Google-kalentereista ei tueta kalenterin luomisessa (yleensä syntymäpäivä- ja lomakalenterit). Käytä sen sijaan Googlen .ical-linkkiä liittääksesi kyseisen kalenterin Paruun"
+    "cmdhandler_link_channelNotSupported": "Jotakin valituista Google-kalentereista ei tueta kalenterin luomisessa (yleensä syntymäpäivä- ja lomakalenterit). Käytä sen sijaan Googlen .ical-linkkiä liittääksesi kyseisen kalenterin Paruun",
+    "getCalendarEmbed_embed_timezone_global": "Kaikki ajat ovat",
+    "getCalendarEmbed_embed_timezone_local": "Kaikki kellonajat näytetään nykyisessä aikavyöhykkeessäsi",
+    "create_cmd_modify_desc": "Muuta kalenterin kuvausta",
+    "create_cmd_modify_description_explainer": "**Käytä seuraavia vaihtoehtoja kuvauksen muokkaamiseen:**\n{days} {\\n} (= uusi rivi), \\*\\*text\\*\\* (= lihavointi), \\_\\_text\\_\\__ (= alleviivaus), \\*text\\* (= kursivointi)\n(Kirjoita 'default' käyttääksesi oletusviestiä)\n(Mainitse käyttäjä/rooli @:llä ja kanava #:llä)\n\n(Muokkaa viimeisintä versiota nuolinäppäimellä)"
 }

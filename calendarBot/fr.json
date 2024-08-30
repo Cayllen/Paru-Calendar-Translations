@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Temps absolu (par défaut)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamique (-> 12. mai, 12:00)",
     "modify_individual_reminders_pm": "Modifier",
-    "cmdhandler_link_channelNotSupported": "L'un des calendriers Google sélectionnés n'est pas pris en charge pour la création d'un calendrier (généralement les calendriers d'anniversaire/de vacances). Utilise plutôt le lien .ical de Google pour connecter ce calendrier à Paru"
+    "cmdhandler_link_channelNotSupported": "L'un des calendriers Google sélectionnés n'est pas pris en charge pour la création d'un calendrier (généralement les calendriers d'anniversaire/de vacances). Utilise plutôt le lien .ical de Google pour connecter ce calendrier à Paru",
+    "getCalendarEmbed_embed_timezone_global": "Toutes les heures sont en",
+    "getCalendarEmbed_embed_timezone_local": "Toutes les heures sont affichées dans ton fuseau horaire actuel",
+    "create_cmd_modify_desc": "Modifier la description du calendrier",
+    "create_cmd_modify_description_explainer": "**Utilise les options suivantes pour personnaliser la description:**\n{days} {\\n} (= nouvelle ligne), \\*\\*text\\*\\* (= gras), \\_\\_text\\_\\_ (= souligné), \\*text\\* (= cursif)\n(Ecris 'default' pour utiliser le message par défaut)\n(Mentionne l'utilisateur/le rôle avec @ et le canal avec #)\n\n(Utilise la touche flèche vers le haut pour éditer la dernière version)"
 }

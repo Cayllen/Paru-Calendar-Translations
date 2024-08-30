@@ -183,5 +183,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Absolutní čas (výchozí)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamic (-> 12. května, 12:00)",
     "modify_individual_reminders_pm": "Upravit",
-    "cmdhandler_link_channelNotSupported": "Jeden z vybraných kalendářů Google není podporován pro vytvoření kalendáře (obvykle kalendáře narozenin/svátků). Místo toho použijte odkaz .ical v aplikaci Google pro připojení tohoto kalendáře k aplikaci Paru"
+    "cmdhandler_link_channelNotSupported": "Jeden z vybraných kalendářů Google není podporován pro vytvoření kalendáře (obvykle kalendáře narozenin/svátků). Místo toho použijte odkaz .ical v aplikaci Google pro připojení tohoto kalendáře k aplikaci Paru",
+    "getCalendarEmbed_embed_timezone_global": "Všechny časy jsou v",
+    "getCalendarEmbed_embed_timezone_local": "Všechny časy se zobrazují ve vašem aktuálním časovém pásmu",
+    "create_cmd_modify_desc": "Změna popisu kalendáře",
+    "create_cmd_modify_description_explainer": "**Pro přizpůsobení popisu použijte následující možnosti:**\n{days} {\\n} (= nový řádek), \\*\\*text\\*\\* (= tučné písmo), \\_\\_text\\_\\_ (= podtržení), \\*text\\* (= kurzíva)\n(Napište 'default' pro použití výchozí zprávy)\n(Uveďte uživatele/roli pomocí @ a kanál pomocí #)\n\n(Pro úpravu poslední verze použijte klávesu se šipkou nahoru)"
 }

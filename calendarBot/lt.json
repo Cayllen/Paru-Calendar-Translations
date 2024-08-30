@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Absoliutus laikas (numatytasis)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinaminis (-> gegužės 12 d., 12:00)",
     "modify_individual_reminders_pm": "Keisti",
-    "cmdhandler_link_channelNotSupported": "Vienas iš pasirinktų \"Google\" kalendorių nepalaikomas kuriant kalendorių (paprastai gimtadienių ir švenčių kalendoriai). Vietoj to naudokite .ical nuorodą \"Google\", kad prijungtumėte šį kalendorių prie \"Paru\""
+    "cmdhandler_link_channelNotSupported": "Vienas iš pasirinktų \"Google\" kalendorių nepalaikomas kuriant kalendorių (paprastai gimtadienių ir švenčių kalendoriai). Vietoj to naudokite .ical nuorodą \"Google\", kad prijungtumėte šį kalendorių prie \"Paru\"",
+    "getCalendarEmbed_embed_timezone_global": "Visi laikai yra",
+    "getCalendarEmbed_embed_timezone_local": "Visi laikai rodomi jūsų dabartinėje laiko juostoje",
+    "create_cmd_modify_desc": "Pakeisti kalendoriaus aprašymą",
+    "create_cmd_modify_description_explainer": "**Aprašymui pritaikyti naudokite šias parinktis:**\n{days} {\\n} (= nauja eilutė), \\*\\* tekstas\\* (= paryškintas), \\_\\_tekstas\\_ (= pabrauktas), \\*tekstas\\* (= kirčiuotas)\n(Parašykite 'default', jei norite naudoti numatytąją žinutę)\n(Naudotoją / vaidmenį paminėkite su @, o kanalą - su #)\n\n(Norėdami redaguoti paskutinę versiją, naudokite rodyklės į viršų klavišą)"
 }

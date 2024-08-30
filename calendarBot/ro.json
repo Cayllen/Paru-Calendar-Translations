@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Timp absolut (implicit)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamic (-> 12. mai, 12:00)",
     "modify_individual_reminders_pm": "Modificați",
-    "cmdhandler_link_channelNotSupported": "Unul dintre calendarele Google selectate nu este acceptat pentru crearea unui calendar (de obicei, calendarele de zile de naștere/sărbători). Vă rugăm să utilizați în schimb link-ul .ical din Google pentru a conecta acel calendar la Paru"
+    "cmdhandler_link_channelNotSupported": "Unul dintre calendarele Google selectate nu este acceptat pentru crearea unui calendar (de obicei, calendarele de zile de naștere/sărbători). Vă rugăm să utilizați în schimb link-ul .ical din Google pentru a conecta acel calendar la Paru",
+    "getCalendarEmbed_embed_timezone_global": "Toate orele sunt în",
+    "getCalendarEmbed_embed_timezone_local": "Toate orele sunt afișate în fusul orar curent",
+    "create_cmd_modify_desc": "Modificarea descrierii calendarului",
+    "create_cmd_modify_description_explainer": "**Utilizați următoarele opțiuni pentru a personaliza descrierea:**\n{days} {\\n} (= linie nouă), \\*\\*text\\*\\* (= bold), \\_\\_text\\_\\_ (= underline), \\*text\\* (= cursiv)\n(Scrieți \"default\" pentru a utiliza mesajul implicit)\n(Menționați utilizatorul/rolul cu @ și canalul cu #)\n\n(Utilizați tasta săgeată în sus pentru a edita ultima versiune)"
 }

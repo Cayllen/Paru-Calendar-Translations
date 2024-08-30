@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Mutlak zaman (varsayılan)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamik (-> 12. Mayıs, 12:00)",
     "modify_individual_reminders_pm": "Değiştirmek",
-    "cmdhandler_link_channelNotSupported": "Seçilen Google takvimlerinden biri takvim oluşturmak için desteklenmiyor (genellikle doğum günü/tatil takvimleri). Lütfen bu takvimi Paru'ya bağlamak için bunun yerine Google'daki .ical bağlantısını kullanın"
+    "cmdhandler_link_channelNotSupported": "Seçilen Google takvimlerinden biri takvim oluşturmak için desteklenmiyor (genellikle doğum günü/tatil takvimleri). Lütfen bu takvimi Paru'ya bağlamak için bunun yerine Google'daki .ical bağlantısını kullanın",
+    "getCalendarEmbed_embed_timezone_global": "Tüm zamanlar",
+    "getCalendarEmbed_embed_timezone_local": "Tüm saatler geçerli saat diliminizde gösterilir",
+    "create_cmd_modify_desc": "Takvimin açıklamasını değiştirme",
+    "create_cmd_modify_description_explainer": "**Açıklamayı özelleştirmek için aşağıdaki seçenekleri kullanın:**\n{days} {\\n} (= yeni satır), \\*\\*text\\*\\* (= kalın), \\_\\_text\\_\\_ (= altı çizili), \\*text\\* (= el yazısı)\n(Varsayılan mesajı kullanmak için 'default' yazın)\n(Kullanıcı/rolü @ ile ve kanalı # ile belirtin)\n\n(Son sürümü düzenlemek için yukarı ok tuşunu kullanın)"
 }

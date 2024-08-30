@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Waktu absolut (default)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamis (-> 12. Mei, pukul 12:00)",
     "modify_individual_reminders_pm": "Memodifikasi",
-    "cmdhandler_link_channelNotSupported": "Salah satu kalender Google yang dipilih tidak didukung untuk membuat kalender (biasanya kalender ulang tahun/liburan). Silakan gunakan tautan .ical di Google sebagai gantinya untuk menghubungkan kalender tersebut ke Paru"
+    "cmdhandler_link_channelNotSupported": "Salah satu kalender Google yang dipilih tidak didukung untuk membuat kalender (biasanya kalender ulang tahun/liburan). Silakan gunakan tautan .ical di Google sebagai gantinya untuk menghubungkan kalender tersebut ke Paru",
+    "getCalendarEmbed_embed_timezone_global": "Semua waktu dalam",
+    "getCalendarEmbed_embed_timezone_local": "Semua waktu ditampilkan dalam zona waktu Anda saat ini",
+    "create_cmd_modify_desc": "Mengubah deskripsi kalender",
+    "create_cmd_modify_description_explainer": "**Gunakan opsi berikut untuk menyesuaikan deskripsi:**\n{hari} {\\n} (= baris baru), \\*\\*teks\\*\\* (= tebal), \\_\\_teks\\_\\_ (= garis bawah), \\*teks\\* (= kursif)\n(Tuliskan 'default' untuk menggunakan pesan default)\n(Sebutkan pengguna/peran dengan @ dan saluran dengan #)\n\n(Gunakan tombol panah ke atas untuk mengedit versi terakhir)"
 }

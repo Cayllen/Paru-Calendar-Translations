@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "绝对时间（默认）",
     "create_cmd_modify_dynamic_times_choice_absolute": "动态 (-> 12. 五月，12:00)",
     "modify_individual_reminders_pm": "修改",
-    "cmdhandler_link_channelNotSupported": "所选 Google 日历之一不支持创建日历（通常是生日/假日日历）。请使用 Google 中的 .ical 链接将该日历连接到 Paru"
+    "cmdhandler_link_channelNotSupported": "所选 Google 日历之一不支持创建日历（通常是生日/假日日历）。请使用 Google 中的 .ical 链接将该日历连接到 Paru",
+    "getCalendarEmbed_embed_timezone_global": "所有时间均为",
+    "getCalendarEmbed_embed_timezone_local": "所有时间均以您当前所在的时区显示",
+    "create_cmd_modify_desc": "更改日历说明",
+    "create_cmd_modify_description_explainer": "**使用以下选项自定义描述：**\n{days} {\\n} （=换行），\\*text\\* （=粗体），\\_\\text\\_\\_ （=下划线），\\*text\\* （=草书）\n （写入 \"default \"以使用默认信息）\n （用 @ 提及用户/角色，用 # 提及频道）\n\n （使用向上箭头键编辑上一版本的内容）"
 }

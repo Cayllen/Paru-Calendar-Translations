@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Czas bezwzględny (domyślnie)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dynamiczny (-> 12. maja, 12:00)",
     "modify_individual_reminders_pm": "Modyfikuj",
-    "cmdhandler_link_channelNotSupported": "Jeden z wybranych kalendarzy Google nie jest obsługiwany przy tworzeniu kalendarza (zazwyczaj są to kalendarze urodzinowe/świąteczne). Zamiast tego użyj linku .ical w Google, aby połączyć ten kalendarz z Paru"
+    "cmdhandler_link_channelNotSupported": "Jeden z wybranych kalendarzy Google nie jest obsługiwany przy tworzeniu kalendarza (zazwyczaj są to kalendarze urodzinowe/świąteczne). Zamiast tego użyj linku .ical w Google, aby połączyć ten kalendarz z Paru",
+    "getCalendarEmbed_embed_timezone_global": "Wszystkie czasy podane są w",
+    "getCalendarEmbed_embed_timezone_local": "Wszystkie godziny są wyświetlane w Twojej bieżącej strefie czasowej",
+    "create_cmd_modify_desc": "Zmień opis kalendarza",
+    "create_cmd_modify_description_explainer": "**Użyj następujących opcji, aby dostosować opis:**\n{days} {\\n} (= nowa linia), \\*\\text\\*\\* (= pogrubienie), \\_\\_text\\_\\_ (= podkreślenie), \\*text\\* (= kursywą)\n(Wpisz \"default\", aby użyć domyślnej wiadomości)\n(Wspomnij użytkownika/rolę za pomocą @ i kanał za pomocą #)\n\n(Użyj klawisza strzałki w górę, aby edytować ostatnią wersję)"
 }

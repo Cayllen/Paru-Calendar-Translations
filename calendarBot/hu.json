@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "Abszolút idő (alapértelmezett)",
     "create_cmd_modify_dynamic_times_choice_absolute": "Dinamikus (-> 12. Május 12, 12:00)",
     "modify_individual_reminders_pm": "Módosítsa a  címet",
-    "cmdhandler_link_channelNotSupported": "A kiválasztott Google-naptárak egyike nem támogatott naptár létrehozásához (általában születésnapi/ünnepi naptárak). Kérjük, használja helyette a .ical linket a Google-ban, hogy összekapcsolja ezt a naptárat a Paru"
+    "cmdhandler_link_channelNotSupported": "A kiválasztott Google-naptárak egyike nem támogatott naptár létrehozásához (általában születésnapi/ünnepi naptárak). Kérjük, használja helyette a .ical linket a Google-ban, hogy összekapcsolja ezt a naptárat a Paru",
+    "getCalendarEmbed_embed_timezone_global": "Minden időpont",
+    "getCalendarEmbed_embed_timezone_local": "Minden időpont az Ön aktuális időzónájában jelenik meg",
+    "create_cmd_modify_desc": "A naptár leírásának módosítása",
+    "create_cmd_modify_description_explainer": "**A leírás testreszabásához használja a következő opciókat:**\n{days} {\\n} (= új sor), \\*\\*text\\*\\*\\* (= félkövér), \\_\\_text\\_\\_\\_ (= aláhúzás), \\*text\\* (= kurzív)\n(Írja 'default' az alapértelmezett üzenet használatához)\n(A felhasználó/szerepet @-mal, a csatornát #-mal említse)\n\n(A legutóbbi verzió szerkesztéséhez használja a felfelé mutató nyilat)"
 }

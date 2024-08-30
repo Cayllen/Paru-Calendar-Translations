@@ -186,5 +186,9 @@
     "create_cmd_modify_dynamic_times_choice_disabled": "절대 시간(기본값)",
     "create_cmd_modify_dynamic_times_choice_absolute": "다이나믹 (-> 5월 12일, 12:00)",
     "modify_individual_reminders_pm": "수정",
-    "cmdhandler_link_channelNotSupported": "선택한 Google 캘린더 중 하나는 캘린더 생성에 지원되지 않습니다(일반적으로 생일/공휴일 캘린더). 대신 Google의 .ical 링크를 사용하여 해당 캘린더를 Paru에 연결하세요"
+    "cmdhandler_link_channelNotSupported": "선택한 Google 캘린더 중 하나는 캘린더 생성에 지원되지 않습니다(일반적으로 생일/공휴일 캘린더). 대신 Google의 .ical 링크를 사용하여 해당 캘린더를 Paru에 연결하세요",
+    "getCalendarEmbed_embed_timezone_global": "모든 시간은",
+    "getCalendarEmbed_embed_timezone_local": "모든 시간은 현재 시간대로 표시됩니다",
+    "create_cmd_modify_desc": "캘린더 설명 변경하기",
+    "create_cmd_modify_description_explainer": "**\n{days} {\\n} (= 새 줄), \\*\\*text\\*\\* (= 굵게), \\_\\_text\\_\\_ (= 밑줄), \\*text\\* (= 필기체)\n(기본 메시지를 사용하려면 'default'라고 적습니다)\n(@로 사용자/역할을, #로 채널을 언급합니다)\n\n(마지막 버전을 수정하려면 화살표 위로 키를 사용함)"
 }
